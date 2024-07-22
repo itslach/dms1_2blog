@@ -5,7 +5,6 @@ snippet: An example of a blog post.
 disable_html_sanitization: true
 allow_math: true
 [^1]
-
 ---
 
 # ENTRY_1
