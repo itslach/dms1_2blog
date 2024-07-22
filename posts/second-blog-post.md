@@ -5,7 +5,4 @@ snippet: The Scavenger hunt
 disable_html_sanitization: true
 allow_math: true 
 ---
-
-![image][def]
-
-[def]: image1.jpg
+![image](itslach/dms1_2blog/static/wk01/IMG20240722101733.jpg)
