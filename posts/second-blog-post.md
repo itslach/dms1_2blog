@@ -6,3 +6,6 @@ disable_html_sanitization: true
 allow_math: true 
 ---
 
+![image][def]
+
+[def]: image1.jpg
