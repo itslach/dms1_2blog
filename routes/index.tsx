@@ -11,7 +11,7 @@ export const handler: Handlers<Post[]> = {
 export default function BlogIndexPage(props: PageProps<Post[]>) {
   const posts = props.data;
   return (
-    <main class="max-w-screen-md px-4 pt-16 mx-auto">
+    <main class="max-w-screen-md px-4 pt-14 mx-auto">
       <h1 class="text-5xl font-bold">Digital Media Studio 1 Blog - Lachlan Miles</h1>
       <div class="mt-8">
         {posts.map((post) => <PostCard post={post} />)}
