@@ -6,4 +6,4 @@ disable_html_sanitization: true
 allow_math: true 
 ---
 
-![Header Image](Wk1s1/coolstar.png)
+![Header Image](itslach/dms1_2blog/static/Wk1s1/coolstar.png)
