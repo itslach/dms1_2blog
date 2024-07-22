@@ -5,12 +5,8 @@ snippet: A space thats important to me
 disable_html_sanitization: true
 allow_math: true 
 ---
-![cool star](https://www.pngall.com/wp-content/uploads/14/Y2k-Star-PNG-Photo.png)
 
-
-
-
- <div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center;">
  <img src="https://www.pngall.com/wp-content/uploads/14/Y2k-Star-PNG-Photo.png" alt="Header Image" style="margin-right: 20px; width: 200px; height: auto;">
   <p>
     This is the main content of the document. By using a flex container, the image and this text can be aligned side-by-side.
