@@ -12,6 +12,9 @@ allow_math: true
 <img src="https://www.pngall.com/wp-content/uploads/14/Y2k-Star-PNG-Photo.png"; img style="height: 20px; width: 20px;">
  <div style="display: flex; align-items: center;">
  <img src="https://www.pngall.com/wp-content/uploads/14/Y2k-Star-PNG-Photo.png" alt="Header Image" style="margin-right: 20px; width: 200px; height: auto;">
- 
+  <p>
+    This is the main content of the document. By using a flex container, the image and this text can be aligned side-by-side.
+  </p>
+</div>
  -->
  
