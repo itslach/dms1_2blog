@@ -1,6 +1,6 @@
 ---
 title: This is a blog post!
-published_at: 2022-11-04
+published_at: 2024-07-22
 snippet: An example of a blog post.
 disable_html_sanitization: true
 allow_math: true
@@ -8,7 +8,7 @@ allow_math: true
 
 # This is h1
 
-![a drippy lemon](logo.svg)
+![a drippy lemon](favicon.ico)
 
 ^ images are written like this: `![description](file_path/file_name.png)`
 
