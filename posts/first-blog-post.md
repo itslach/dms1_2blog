@@ -1,10 +1,9 @@
 ---
-title: DMS1_MY_BLOG
+title: DMS1_BLOGPOST1
 published_at: 2024-07-22
-snippet: An example of a blog post.
+snippet: The first finding
 disable_html_sanitization: true
 allow_math: true
-[^1]
 ---
 
 # ENTRY_1
