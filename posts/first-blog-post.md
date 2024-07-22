@@ -97,4 +97,3 @@ Visit [ $\KaTeX$ ](https://katex.org/docs/supported#fractions-and-binomials) for
 
 
 
-[def]: IMG20240722101733.jpg
