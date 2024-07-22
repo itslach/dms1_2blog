@@ -1,5 +1,5 @@
 ---
-title: DMS1_BLOGPOST1
+title: DMS1_BLOGPOST_TEST
 published_at: 2024-07-22
 snippet: The first finding
 disable_html_sanitization: true
