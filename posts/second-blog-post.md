@@ -5,5 +5,3 @@ snippet: A space thats important to me
 disable_html_sanitization: true
 allow_math: true 
 ---
-
-![Header Image](itslach/dms1_2blog/static/Wk1s1/coolstar.png)
