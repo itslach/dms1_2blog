@@ -6,3 +6,4 @@ disable_html_sanitization: true
 allow_math: true 
 ---
 ![cool star](https://www.pngall.com/wp-content/uploads/14/Y2k-Star-PNG-Photo.png)
+<img src="https://www.pngall.com/wp-content/uploads/14/Y2k-Star-PNG-Photo.png"; img style="height: 20px; width: 20px;">
