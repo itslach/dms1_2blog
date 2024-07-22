@@ -6,4 +6,4 @@ disable_html_sanitization: true
 allow_math: true 
 ---
 
-## ![first image](IMG20240722101733.jpg)
+## ![first image](itslach/dms1_2blog/static/wk01/IMG20240722101733.jpg)
