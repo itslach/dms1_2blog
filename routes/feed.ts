@@ -31,6 +31,7 @@ export const handler: Handlers<Post[]> = {
         link: `${origin}/${post.slug}`,
         copyright,
         published: post.publishedAt,
+        image: post.image,
       };
       feed.addItem(item);
     });
