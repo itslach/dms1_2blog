@@ -56,8 +56,7 @@ allow_math: true
 ---
 <div style="display: flex; align-items: center;">
  <img src="screenshots/embedvideoss.png" alt="Header Image" style="margin-right: 20px; width: 500px; height: 500;">
- <img src="screenshots/embedvideoss.png" alt="Header Image" style="margin-left: 20px; width: 500px; height: 500;">
-  <p>
+<p>
     <span class="highlight">2024.07.23</span>
    Attached is evidence that I was able to use video embeding and code to upload a video to my blog, at the time of this screenshot I just used a filler video of a random youtube video, just to test if it would work.  
   </p>
