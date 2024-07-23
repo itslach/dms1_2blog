@@ -8,7 +8,7 @@ allow_math: true
 
 <img src="https://www.hardjewelry.com/cdn/shop/files/ezgif.com-gif-maker_3.gif?v=1649272041" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
 
-# **CREATION OF THE BLOG**
+> # **CREATION OF THE BLOG**
 ---
 <style>
   .highlight {
@@ -43,6 +43,7 @@ allow_math: true
     Attached is screen-captured evidence of me utilising html code to not only add in a .gif file into my blog, but learning how to change the size and orientation of the image. The described code is highlighted in drawn area. 
   </p>
 </div>
+
 ---
 <div style="display: flex; align-items: center;">
  <img src="screenshots/scavengerhuntscreenshot.png" alt="Header Image" style="margin-right: 20px; width: 500px; height: 500;">
