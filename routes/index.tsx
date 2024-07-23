@@ -30,7 +30,7 @@ function PostCard(props: { post: Post }) {
           <img
             src={post.image}
             alt={post.title}
-            class="w-full h-auto"
+            class="w-50px h-auto"
           />
         )}
         <h3 class="text(3xl gray-900) font-bold">
