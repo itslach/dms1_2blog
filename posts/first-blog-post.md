@@ -1,6 +1,6 @@
 ---
 title: DMS1_CREATION
-published_at: 2024-07-22
+published_at: 2024-07-21
 snippet: Basic documentation of editing and creation of blog
 disable_html_sanitization: true
 allow_math: true
