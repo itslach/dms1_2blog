@@ -4,35 +4,7 @@ published_at: 2024-07-22
 snippet: Basic documentation of editing and creation of blog
 disable_html_sanitization: true
 allow_math: true
-image: https://i.pinimg.com/originals/5d/9b/69/5d9b69ae97f2a4a59acbcbe36668f3be.jpg
 ---
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-</head>
-<body>
-  <header>
-    {% if page.image %}
-      <img src="{{ page.image }}" alt="{{ page.title }}" class="post-image">
-    {% endif %}
-    <h1>{{ page.title }}</h1>
-    <p class="post-date">{{ page.date | date: "%B %-d, %Y" }}</p>
-  </header>
-  <main>
-    {{ content }}
-  </main>
-</body>
-</html>
-
-
-
-
-
-
 
 <img src="https://www.hardjewelry.com/cdn/shop/files/ezgif.com-gif-maker_3.gif?v=1649272041" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
 
