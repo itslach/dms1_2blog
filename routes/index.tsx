@@ -15,9 +15,9 @@ function BlogHeader() {
         <h2 className="text-2xl font-italic">Created by Student 3410666</h2>
       </div>
       <img
-        src="https://i.pinimg.com/originals/ad/c5/23/adc523991a4990f2e4f9d50e6b3aa59f.gif" // Update with the correct path to your image
+        src="https://i.pinimg.com/originals/96/52/0c/96520c05974dfb7acaaeb01126119353.gif" // Update with the correct path to your image
         alt="Blog logo"
-        className="w-80 h-auto ml-4" // Tailwind classes for size and margin-left
+        className="w-60 h-auto ml-4" // Tailwind classes for size and margin-left
         style={{ objectFit: 'contain' }}
       />
     </div>
