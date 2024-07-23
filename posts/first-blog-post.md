@@ -12,7 +12,7 @@ image: https://i.pinimg.com/564x/a6/e9/1b/a6e91bd10d755932b3f47543e1520f8f.jpg
 <img
   src={post.image}
   alt={post.title}
-  style={{ width: '200px', height: 'auto' }} // Adjust the width and height as needed
+  style={{ width: '50px', height: 'auto' }} // Adjust the width and height as needed
 />
 
 
