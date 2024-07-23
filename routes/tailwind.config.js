@@ -2,7 +2,7 @@ module.exports = {
     theme: {
       extend: {
         fontFamily: {
-          sans: ['Roboto', 'sans-serif'], // Example custom font
+          sans: ['Roboto', 'sans-serif'], 
           serif: ['Merriweather', 'serif'],
           mono: ['Menlo', 'monospace'],
         },
