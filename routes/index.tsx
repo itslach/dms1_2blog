@@ -37,6 +37,7 @@ function PostCard(props: { post: Post }) {
           })}
         </time>
         {image && <img src={image} alt={description} />}
+        <div dangerouslySetInnerHTML={{ __html: props.children }} />
         <div class="mt-4 text-gray-900">
           {post.snippet}
         </div>
