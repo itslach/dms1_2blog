@@ -13,7 +13,7 @@ export default function BlogIndexPage(props: PageProps<Post[]>) {
   return (
     <main class="max-w-screen-md px-4 pt-10 mx-auto">
       <h1 class="text-5xl font-bold">DMS1-BLOG </h1>
-      <h2 class="text-5x1 font-italic">Created by 3410666 </h2>
+      <h2 class="text-5x1 font-italic">Created by Student 3410666 </h2>
       <div class="mt-8">
         {posts.map((post) => <PostCard post={post} />)}
       </div>
