@@ -32,12 +32,13 @@ allow_math: true
 ---
 ## `A MACHINE DELIVERING BEVERAGES FROM A FAR AWAY LAND`
 
-![a book of wisdom](Wk1s1/IMG20240722104250.png)
+<img src="Wk1s1/IMG20240722104250.png" alt="digitalwisdom" width="500" height="500">
 
 ---
 ## `A BOOK OF DIGITAL MEDIA WISDOM`
 
-![flying paper cargo](Wk1s1/IMG20240722104354.png)
+<img src="Wk1s1/IMG20240722104354.png" alt="digitalwisdom" width="500" height="500">
+
 ---
 ## `FLYING PAPER CARGO`
 
