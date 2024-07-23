@@ -63,3 +63,11 @@ export const handler: Handlers<Post[]> = {
   </main>
 </body>
 </html>
+
+.post-image {
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
