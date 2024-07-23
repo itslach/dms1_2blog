@@ -23,3 +23,11 @@ allow_math: true
 ![drinks from a distant land](Wk1s1/IMG20240722104531.png)
 ---
 ## *A MACHINE DELIVERING BEVERAGES FROM A FAR AWAY LAND*
+
+![a book of wisdom](Wk1s1/IMG20240722104250.png)
+---
+## *A BOOK OF DIGITAL MEDIA WISDOM*
+
+![flying paper cargo](Wk1s1/IMG20240722104354.png)
+---
+## *FLYING PAPER CARGO*
