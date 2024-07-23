@@ -7,6 +7,8 @@ disable_html_sanitization: true
 allow_math: true 
 ---
 <img src="https://www.hardjewelry.com/cdn/shop/files/ezgif.com-gif-maker_3.gif?v=1649272041" alt="Description of Image" width="75" height="75">
+<img src="https://www.hardjewelry.com/cdn/shop/files/ezgif.com-gif-maker_3.gif?v=1649272041" alt="Description of Image" style="float:right; margin-left:20px; width:300px; height:auto;">
+
 
  <div style="display: flex; align-items: center;">
  <img src="https://www.pngall.com/wp-content/uploads/14/Y2k-Star-PNG-Photo.png" alt="Header Image" style="margin-right: 20px; width: 200px; height: auto;">
