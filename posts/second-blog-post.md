@@ -22,7 +22,7 @@ allow_math: true
 ---
 ## `THE WINGED VISITOR`
 
-![door 4 condemned](Wk1s1/IMG20240722110147.png)
+<img src="Wk1s1/IMG20240722110147.png" alt="door4condemned" width="500" height="500">
 
 ---
 ## `A DOOR FOR THE CONDEMNED`
