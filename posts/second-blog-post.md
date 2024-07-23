@@ -30,7 +30,7 @@ allow_math: true
 
 ![a book of wisdom](Wk1s1/IMG20240722104250.png)
 ---
-## `*A BOOK OF DIGITAL MEDIA WISDOM*``
+## `*A BOOK OF DIGITAL MEDIA WISDOM*`
 
 ![flying paper cargo](Wk1s1/IMG20240722104354.png)
 ---
