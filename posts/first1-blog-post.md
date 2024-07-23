@@ -16,4 +16,6 @@ allow_math: true
 ---
 ## *THE WINGED VISITOR*
 
-![door 4 condemned]
+![door 4 condemned](Wk1s1/IMG20240722110147.png)
+---
+## *A DOOR FOR THE CONDEMNED*
