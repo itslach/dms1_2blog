@@ -4,6 +4,7 @@ published_at: N/A
 snippet: Temporary notes for me to refer back to
 disable_html_sanitization: true
 allow_math: true
+image: https://media.tenor.com/WDvrJfLpYksAAAAi/y2k.gif
 ---
 
 are written like this: `![description](file_path/file_name.png)`
