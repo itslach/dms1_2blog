@@ -3,7 +3,6 @@ title: DMS1_POST002
 published_at: 2024-07-23
 snippet: A space thats important to me
 disable_html_sanitization: true
-
 allow_math: true 
 ---
 
