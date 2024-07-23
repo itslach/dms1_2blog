@@ -19,6 +19,23 @@ allow_math: true
   }
 </style>
 
+<style>
+  .flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 10px;
+  }
+  .flex-item {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  .bold {
+    font-weight: bold;
+  }
+</style>
+
 <div style="display: flex; align-items: center;">
  <img src="screenshots/imgcodescreenshot2.png" alt="Header Image" style="margin-right: 20px; width: 500px; height: 500;">
   <p>
@@ -31,7 +48,7 @@ allow_math: true
  <img src="screenshots/scavengerhuntscreenshot.png" alt="Header Image" style="margin-right: 20px; width: 500px; height: 500;">
   <p>
     <span class="highlight">2024.07.23</span>
-    Attached is the creation of the Scavenger Hunt blog post, which I utilised several different coding techniques. I was able to attach png files, an animated **.gif** file, **horizontal rules**, and **bold** text.  
+    Attached is the creation of the Scavenger Hunt blog post, which I utilised several different coding techniques. I was able to attach png files, an animated <span class="bold">.gif</span> file, horizontal rules, and bold text.  
   </p>
 </div>
 
