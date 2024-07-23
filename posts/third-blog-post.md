@@ -28,5 +28,4 @@ allow_math: true
 
 </script>
  
- 
  <img src="https://www.hardjewelry.com/cdn/shop/files/ezgif.com-gif-maker_3.gif?v=1649272041" alt="Description of Image" width="50" height="50">
