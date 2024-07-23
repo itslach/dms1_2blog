@@ -25,8 +25,6 @@ function BlogHeader() {
   );
 }
 
-export default BlogHeader;
-
 export default function BlogIndexPage(props: PageProps<Post[]>) {
   const posts = props.data;
   return (
