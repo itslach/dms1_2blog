@@ -7,13 +7,27 @@ export const handler: Handlers<Post[]> = {
     return ctx.render(posts);
   },
 };
+function BlogHeader() {
+  return (
+    <div className="flex items-center justify-between py-4"> {/* Flex container */}
+      <div>
+        <h1 className="text-5xl font-bold">DMS1-BLOG</h1>
+        <h2 className="text-5xl font-italic">Created by Student 3410666</h2>
+      </div>
+      <img
+        src="https://i.pinimg.com/564x/6e/56/4f/6e564f6880d1061eb9157d4407dc4d89.jpg" // Update with the correct path to your image
+        alt="Blog logo"
+        className="w-16 h-16 ml-4" // Tailwind classes for size and margin-left
+      />
+    </div>
+  );
+}
 
 export default function BlogIndexPage(props: PageProps<Post[]>) {
   const posts = props.data;
   return (
     <main class="max-w-screen-md px-4 pt-10 mx-auto">
-      <h1 class="text-5xl font-bold">DMS1-BLOG </h1>
-      <h2 class="text-5x1 font-italic">Created by Student 3410666 </h2>
+      <BlogHeader />
       <div class="mt-8">
         {posts.map((post) => <PostCard post={post} />)}
       </div>
