@@ -1,6 +1,6 @@
 ---
 title: DMS1NOTES
-published_at: N/A
+published_at: 3005-01-01
 snippet: Temporary notes for me to refer back to
 disable_html_sanitization: true
 allow_math: true
