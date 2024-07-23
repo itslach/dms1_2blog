@@ -40,5 +40,6 @@ export async function getPost(slug: string): Promise<Post | null> {
     snippet: attrs.snippet,
     disableHtmlSanitization: attrs.disable_html_sanitization,
     allowMath: attrs.allow_math,
+    image: attrs.image
   };
 }
