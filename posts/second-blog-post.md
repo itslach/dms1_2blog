@@ -12,23 +12,28 @@ allow_math: true
 ---
 ## *The first day of Digital Studio Production consisted of a Scavenger Hunt that was completed with randomly assigned students from the class. It consisted of us going around the campus to find and solve several cryptids that would lead us to an object/landmark. We then had to document that we had completed each by taking a selfie with the group; as seen below*
 
-<img src="Wk1s1/IMG20240722101957.png" alt="disembodied hands" width="250" height="250">
+<img src="Wk1s1/IMG20240722101957.png" alt="disembodied hands" width="300" height="300">
+
 ---
 ## `THE DISEMBODIED HANDS`
 
 ![the winged visitor](Wk1s1/IMG20240722110445.png)
+
 ---
 ## `THE WINGED VISITOR`
 
 ![door 4 condemned](Wk1s1/IMG20240722110147.png)
+
 ---
 ## `A DOOR FOR THE CONDEMNED`
 
 ![drinks from a distant land](Wk1s1/IMG20240722104531.png)
+
 ---
 ## `A MACHINE DELIVERING BEVERAGES FROM A FAR AWAY LAND`
 
 ![a book of wisdom](Wk1s1/IMG20240722104250.png)
+
 ---
 ## `A BOOK OF DIGITAL MEDIA WISDOM`
 
