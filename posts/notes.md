@@ -1,6 +1,12 @@
-![a drippy lemon](logo.svg)
+---
+title: DMS1NOTES
+published_at: N/A
+snippet: Temporary notes for me to refer back to
+disable_html_sanitization: true
+allow_math: true
+---
 
-^ images are written like this: `![description](file_path/file_name.png)`
+are written like this: `![description](file_path/file_name.png)`
 
 ## This is h2
 
