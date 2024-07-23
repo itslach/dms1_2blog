@@ -6,6 +6,8 @@ disable_html_sanitization: true
 allow_math: true 
 ---
 
+<img src="https://www.hardjewelry.com/cdn/shop/files/ezgif.com-gif-maker_3.gif?v=1649272041" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
+
 # **THE SCAVENGER HUNT**
 ---
 ## *The first day of Digital Studio Production consisted of a Scavenger Hunt that was completed with randomly assigned students from the class. It consisted of us going around the campus to find and solve several cryptids that would lead us to an object/landmark. We then had to document that we had completed each by taking a selfie with the group; as seen below*
