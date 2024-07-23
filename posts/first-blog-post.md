@@ -28,10 +28,10 @@ allow_math: true
 </div>
 
 <div style="display: flex; align-items: center;">
- <img src="" alt="Header Image" style="margin-right: 20px; width: 500px; height: 500;">
+ <img src="screenshots/scavengerhuntscreenshot.png" alt="Header Image" style="margin-right: 20px; width: 500px; height: 500;">
   <p>
     <span class="highlight">2024.07.23</span>
-    Attached is screen-captured evidence of me utilising html code to not only add in a .gif file into my blog, but learning how to change the size and orientation of the image. The described code is highlighted in drawn area. 
+    Attached is the creation of the Scavenger Hunt blog post, which I utilised several different coding techniques. I was able to attach png files, an animated .gif file, horizontal rules, and bold text.  
   </p>
 </div>
 
