@@ -2,7 +2,7 @@ module.exports = {
     theme: {
       extend: {
         fontFamily: {
-          sans: ['Anton SC', 'sans-serif'],
+          sans: ['"Anton SC"', 'sans-serif'],
         },
       },
     },
