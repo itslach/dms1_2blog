@@ -12,7 +12,7 @@ function BlogHeader() {
     <div className="flex items-center justify-between py-4"> {/* Flex container */}
       <div>
         <h1 className="text-5xl font-bold">DMS1-BLOG</h1>
-        <h2 className="text-2xl font-italic">Created by Student 3410666</h2>
+        <h2 className="text-base font-italic">Created by Student 3410666</h2>
       </div>
       <img
         src="https://i.pinimg.com/originals/96/52/0c/96520c05974dfb7acaaeb01126119353.gif" // Update with the correct path to your image
