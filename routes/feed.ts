@@ -43,3 +43,23 @@ export const handler: Handlers<Post[]> = {
     });
   },
 };
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header>
+    {% if page.image %}
+      <img src="{{ page.image }}" alt="{{ page.title }}" class="post-image">
+    {% endif %}
+    <h1>{{ page.title }}</h1>
+    <p class="post-date">{{ page.date | date: "%B %-d, %Y" }}</p>
+  </header>
+  <main>
+    {{ content }}
+  </main>
+</body>
+</html>
