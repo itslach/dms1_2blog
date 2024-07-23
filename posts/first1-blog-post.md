@@ -12,4 +12,8 @@ allow_math: true
 ---
 ## *THE DISEMBODIED HANDS*
 
-![explosive coffee]()
+![the winged visitor](Wk1s1/IMG20240722110445.png)
+---
+## *THE WINGED VISITOR*
+
+![door 4 condemned]
