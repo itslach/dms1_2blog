@@ -17,7 +17,7 @@ allow_math: true
 ---
 ## `THE DISEMBODIED HANDS`
 
-![the winged visitor](Wk1s1/IMG20240722110445.png)
+<img src="Wk1s1/IMG20240722110445.png" alt="winged visitor" width="500" height="500">
 
 ---
 ## `THE WINGED VISITOR`
