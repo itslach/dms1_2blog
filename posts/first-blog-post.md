@@ -12,7 +12,7 @@ allow_math: true
 ---
 <style>
   .highlight {
-    background-color: #f6f8fa;
+    background-color: #a9a9a9;
     padding: 2px 8px;
     border-radius: 6px;
     font-family: monospace;
@@ -62,7 +62,7 @@ allow_math: true
   </p>
 </div>
 
-`your mum`
+---
 
  
 
