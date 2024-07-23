@@ -31,11 +31,11 @@ function PostCard(props: { post: Post }) {
           <img
             src={post.image}
             alt={post.title}
-            style={{ width: '200px', height: 'auto'}}
+            classname="w-48 h-auto mr-4" // Tailwind classes for width, height, and margin-right
             
           />
         )}
-       <div>
+       <div> {/* Flex item for text content */}
         <h3 class="text(3xl gray-900) font-bold">
           {post.title}
         </h3>
@@ -49,9 +49,9 @@ function PostCard(props: { post: Post }) {
         <div class="mt-4 text-gray-900">
           {post.snippet}
         </div>
-        </div>
-        </div>
-      </a>
+      </div>
     </div>
+  </a>
+</div>
   );
 }
