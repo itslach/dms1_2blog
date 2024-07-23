@@ -27,3 +27,4 @@ allow_math: true
 
 </script>
  
+ ![HJ LOGO](https://www.hardjewelry.com/cdn/shop/files/ezgif.com-gif-maker_3.gif?v=1649272041)
