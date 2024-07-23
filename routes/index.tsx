@@ -1,5 +1,6 @@
 import { Handlers, PageProps } from "$fresh/server.ts";
 import { getPost, getPosts, Post } from "@/utils/posts.ts";
+import './styles.css';
 
 export const handler: Handlers<Post[]> = {
   async GET(_req, ctx) {
@@ -30,11 +31,8 @@ function PostCard(props: { post: Post }) {
           <img
             src={post.image}
             alt={post.title}
-            class="image-resize"
-            .image-resize {
-            width: 200px; /* Adjust width */
-            height: auto; /* Maintain aspect ratio */
-}
+            style={{ width: '200px', height: 'auto'}}
+            
           />
         )}
         <h3 class="text(3xl gray-900) font-bold">
