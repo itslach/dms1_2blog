@@ -44,4 +44,16 @@ export const handler: Handlers<Post[]> = {
   },
 };
 
+export default function PostPage(props: PageProps) {
+  const { title, description, date, image } = props.data;
 
+  return (
+    <article>
+      <h1>{title}</h1>
+      <p>{description}</p>
+      <time dateTime={date}>{new Date(date).toDateString()}</time>
+      {image && <img src={image} alt={description} />}
+      <div dangerouslySetInnerHTML={{ __html: props.children }} />
+    </article>
+  );
+}
