@@ -37,7 +37,7 @@ allow_math: true
 ---
 ## *AN EXPLOSIVE COFFEE*
 
-![study for sith](Wk1s1/IMG20240722104228.png)
+![study for sith](Wk1s1/IMG20240722104428.png)
 ---
 ## *A STUDY ROOM FIT FOR A SITH LORD*
 
