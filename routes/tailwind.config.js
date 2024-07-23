@@ -3,6 +3,7 @@ module.exports = {
       extend: {
         fontFamily: {
           sans: ['"Anton SC"', 'sans-serif'], // Ensure the font name is correct and wrapped in quotes if it contains spaces
+          serif:['"Prompt"', 'sans-serif'],
         },
       },
     },
