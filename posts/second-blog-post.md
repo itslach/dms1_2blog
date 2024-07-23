@@ -12,7 +12,7 @@ allow_math: true
 ---
 ## *The first day of Digital Studio Production consisted of a Scavenger Hunt that was completed with randomly assigned students from the class. It consisted of us going around the campus to find and solve several cryptids that would lead us to an object/landmark. We then had to document that we had completed each by taking a selfie with the group; as seen below*
 
-![disembodied hands](Wk1s1/IMG20240722101957.png)
+<img src="Wk1s1/IMG20240722101957.png" alt="disembodied hands" width="500" height="300">
 ---
 ## `THE DISEMBODIED HANDS`
 
