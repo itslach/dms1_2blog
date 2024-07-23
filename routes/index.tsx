@@ -30,7 +30,11 @@ function PostCard(props: { post: Post }) {
           <img
             src={post.image}
             alt={post.title}
-            class="w-5px h-5px"
+            class="image-resize"
+            .image-resize {
+            width: 200px; /* Adjust width */
+            height: auto; /* Maintain aspect ratio */
+}
           />
         )}
         <h3 class="text(3xl gray-900) font-bold">
