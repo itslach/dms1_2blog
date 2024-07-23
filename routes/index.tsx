@@ -27,14 +27,6 @@ function PostCard(props: { post: Post }) {
     <div class="py-8 border(t gray-200)">
       <a class="sm:col-span-2" href={`/${post.slug}`}>
       <div className= "flex items-start">
-      {post.image && (
-          <img
-            src={post.image}
-            alt={post.title}
-            className="w-48 h-auto mr-4" // Tailwind classes for width, height, and margin-right
-            
-          />
-        )}
        <div> {/* Flex item for text content */}
         <h3 class="text(3xl gray-900) font-bold">
           {post.title}
@@ -50,8 +42,17 @@ function PostCard(props: { post: Post }) {
           {post.snippet}
         </div>
       </div>
+      {post.image && (
+       <img
+            src={post.image}
+            alt={post.title}
+            className="w-48 h-auto mr-4" // Tailwind classes for width, height, and margin-right
+            
+          />
+        )}
     </div>
   </a>
 </div>
   );
 }
+
