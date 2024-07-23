@@ -3,6 +3,7 @@ title: DMS1_BLOGPOST2
 published_at: 2024-07-23
 snippet: A space thats important to me
 disable_html_sanitization: true
+image: https://www.hardjewelry.com/cdn/shop/files/ezgif.com-gif-maker_3.gif?v=1649272041
 allow_math: true 
 ---
 
