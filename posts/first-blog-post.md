@@ -12,7 +12,7 @@ allow_math: true
 ---
 <style>
   .highlight {
-    background-color: #a9a9a9;
+    background-color: #d3d3d3;
     padding: 2px 8px;
     border-radius: 6px;
     font-family: monospace;
