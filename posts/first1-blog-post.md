@@ -11,3 +11,5 @@ allow_math: true
 ![disembodied hands](Wk1s1/IMG20240722101957.png)
 ---
 ## *THE DISEMBODIED HANDS*
+
+![explosive coffee]()
