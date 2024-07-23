@@ -26,6 +26,7 @@ function PostCard(props: { post: Post }) {
   return (
     <div class="py-8 border(t gray-200)">
       <a class="sm:col-span-2" href={`/${post.slug}`}>
+      <div classname= "flex items-start">
       {post.image && (
           <img
             src={post.image}
@@ -34,6 +35,7 @@ function PostCard(props: { post: Post }) {
             
           />
         )}
+       <div>
         <h3 class="text(3xl gray-900) font-bold">
           {post.title}
         </h3>
@@ -46,6 +48,8 @@ function PostCard(props: { post: Post }) {
         </time>
         <div class="mt-4 text-gray-900">
           {post.snippet}
+        </div>
+        </div>
         </div>
       </a>
     </div>
