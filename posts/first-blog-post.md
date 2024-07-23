@@ -10,7 +10,12 @@ allow_math: true
 
 # **CREATION OF THE BLOG**
 ---
-
+<div style="display: flex; align-items: center;">
+ <img src="screenshots/imgcodescreenshot.png" alt="Header Image" style="margin-right: 20px; width: 200px; height: auto;">
+  <p>
+    Attached is screen-captured evidence of me utilising html code to not only add in a .gif file into my blog, but learning how to change the size and orientation of the image. <mark>2024.07.22</mark>
+  </p>
+</div>
 
 
 
