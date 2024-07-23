@@ -12,7 +12,7 @@ function BlogHeader() {
     <div className="flex items-center justify-between py-4"> {/* Flex container */}
       <div>
         <h1 className="text-2xl font-bold">DMS1</h1>
-        <h1 className="text-4xl font-bold font-Anton-sc">DIGITAL MEDIA BLOG</h1>
+        <h1 className="text-4xl font-bold font-sans">DIGITAL MEDIA BLOG</h1>
         <h3 className="text-lg font-italic">Created by Student 3410666</h3>
       </div>
       <img
@@ -24,6 +24,8 @@ function BlogHeader() {
     </div>
   );
 }
+
+export default BlogHeader;
 
 export default function BlogIndexPage(props: PageProps<Post[]>) {
   const posts = props.data;
