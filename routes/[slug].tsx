@@ -24,6 +24,8 @@ export default function PostPage(props: PageProps<Post>) {
       </Head>
       <main class="max-w-screen-md px-4 pt-16 mx-auto">
         <h1 class="text-5xl font-bold">{post.title}</h1>
+        {image && <img src={image} alt={description} />}
+      <div dangerouslySetInnerHTML={{ __html: props.children }} />
         <time class="text-gray-500">
           {new Date(post.publishedAt).toLocaleDateString("en-us", {
             year: "numeric",
