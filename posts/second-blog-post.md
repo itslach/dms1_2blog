@@ -14,11 +14,11 @@ allow_math: true
 
 ![disembodied hands](Wk1s1/IMG20240722101957.png)
 ---
-## `*THE DISEMBODIED HANDS*`
+## `THE DISEMBODIED HANDS`
 
 ![the winged visitor](Wk1s1/IMG20240722110445.png)
 ---
-## `*THE WINGED VISITOR*`
+## `THE WINGED VISITOR`
 
 ![door 4 condemned](Wk1s1/IMG20240722110147.png)
 ---
@@ -26,21 +26,21 @@ allow_math: true
 
 ![drinks from a distant land](Wk1s1/IMG20240722104531.png)
 ---
-## `*A MACHINE DELIVERING BEVERAGES FROM A FAR AWAY LAND*`
+## `A MACHINE DELIVERING BEVERAGES FROM A FAR AWAY LAND`
 
 ![a book of wisdom](Wk1s1/IMG20240722104250.png)
 ---
-## `*A BOOK OF DIGITAL MEDIA WISDOM*`
+## `A BOOK OF DIGITAL MEDIA WISDOM`
 
 ![flying paper cargo](Wk1s1/IMG20240722104354.png)
 ---
-## `*FLYING PAPER CARGO*`
+## `FLYING PAPER CARGO`
 
 ![an explosive coffee](Wk1s1/IMG20240722101733.png)
 ---
-## `*AN EXPLOSIVE COFFEE*`
+## `AN EXPLOSIVE COFFEE`
 
 ![study for sith](Wk1s1/IMG20240722104428.png)
 ---
-## `*A STUDY ROOM FIT FOR A SITH LORD*`
+## `A STUDY ROOM FIT FOR A SITH LORD`
 
