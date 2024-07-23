@@ -26,12 +26,12 @@ function PostCard(props: { post: Post }) {
   return (
     <div class="py-8 border(t gray-200)">
       <a class="sm:col-span-2" href={`/${post.slug}`}>
-      <div classname= "flex items-start">
+      <div className= "flex items-start">
       {post.image && (
           <img
             src={post.image}
             alt={post.title}
-            classname="w-48 h-auto mr-4" // Tailwind classes for width, height, and margin-right
+            className="w-48 h-auto mr-4" // Tailwind classes for width, height, and margin-right
             
           />
         )}
