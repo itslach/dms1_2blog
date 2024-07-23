@@ -1,6 +1,5 @@
 import { Handlers, PageProps } from "$fresh/server.ts";
 import { getPost, getPosts, Post } from "@/utils/posts.ts";
-import './styles.css';
 
 export const handler: Handlers<Post[]> = {
   async GET(_req, ctx) {
