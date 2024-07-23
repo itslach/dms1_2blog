@@ -10,15 +10,6 @@ allow_math: true
 
 # **CREATION OF THE BLOG**
 ---
-<div style="display: flex; align-items: center;">
- <img src="screenshots/imgcodescreenshot2.png" alt="Header Image" style="margin-right: 20px; width: 500px; height: 500;">
-  <p>
-    <mark>2024.07.22</mark>
-    Attached is screen-captured evidence of me utilising html code to not only add in a .gif file into my blog, but learning how to change the size and orientation of the image. The described code is highlighted in drawn area. 
-  </p>
-</div>
-
-
 <style>
   .highlight {
     background-color: #f6f8fa;
@@ -28,11 +19,18 @@ allow_math: true
   }
 </style>
 
-This is an example of text with a highlight effect: <span class="highlight">YYYY-MM-DD</span>.
+<div style="display: flex; align-items: center;">
+ <img src="screenshots/imgcodescreenshot2.png" alt="Header Image" style="margin-right: 20px; width: 500px; height: 500;">
+  <p>
+    2024.07.22 <span class="highlight">2024.07.22</span>
+    Attached is screen-captured evidence of me utilising html code to not only add in a .gif file into my blog, but learning how to change the size and orientation of the image. The described code is highlighted in drawn area. 
+  </p>
+</div>
 
-# More Content
 
-You can use the same style multiple times. For example, here is another date: <span class="highlight">2024-07-23</span>.
+ 
+
+
 
 
 
