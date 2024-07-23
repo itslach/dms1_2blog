@@ -27,7 +27,7 @@ allow_math: true
 ---
 ## `A DOOR FOR THE CONDEMNED`
 
-![drinks from a distant land](Wk1s1/IMG20240722104531.png)
+<img src="Wk1s1/IMG20240722104531.png" alt="distandland" width="500" height="500">
 
 ---
 ## `A MACHINE DELIVERING BEVERAGES FROM A FAR AWAY LAND`
