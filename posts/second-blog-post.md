@@ -42,11 +42,13 @@ allow_math: true
 ---
 ## `FLYING PAPER CARGO`
 
-![an explosive coffee](Wk1s1/IMG20240722101733.png)
+<img src="Wk1s1/IMG20240722101733.png" alt="explosivecoffee" width="500" height="500">
+
 ---
 ## `AN EXPLOSIVE COFFEE`
 
-![study for sith](Wk1s1/IMG20240722104428.png)
+<img src="Wk1s1/IMG20240722104428.png" alt="sithlord" width="500" height="500">
+
 ---
 ## `A STUDY ROOM FIT FOR A SITH LORD`
 
