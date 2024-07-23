@@ -19,3 +19,7 @@ allow_math: true
 ![door 4 condemned](Wk1s1/IMG20240722110147.png)
 ---
 ## *A DOOR FOR THE CONDEMNED*
+
+![drinks from a distant land](Wk1s1/IMG20240722104531.png)
+---
+## *A MACHINE DELIVERING BEVERAGES FROM A FAR AWAY LAND*
