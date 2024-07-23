@@ -31,3 +31,12 @@ allow_math: true
 ![flying paper cargo](Wk1s1/IMG20240722104354.png)
 ---
 ## *FLYING PAPER CARGO*
+
+![an explosive coffee](Wk1s1/IMG20240722101733.png)
+---
+## *AN EXPLOSIVE COFFEE*
+
+![study for sith](Wk1s1/IMG20240722104228.png)
+---
+## *A STUDY ROOM FIT FOR A SITH LORD*
+
