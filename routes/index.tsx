@@ -26,8 +26,8 @@ function PostCard(props: { post: Post }) {
   return (
     <div class="py-8 border(t gray-200)">
       <a class="sm:col-span-2" href={`/${post.slug}`}>
-      <div className= "flex items-start">
-       <div> {/* Flex item for text content */}
+      <div className= "flex items-start justify-between">
+       <div className= "flex-grow"> {/* Flex item for text content */}
         <h3 class="text(3xl gray-900) font-bold">
           {post.title}
         </h3>
@@ -46,7 +46,7 @@ function PostCard(props: { post: Post }) {
        <img
             src={post.image}
             alt={post.title}
-            className="w-25 h-auto mr-4" // Tailwind classes for width, height, and margin-right
+            className="w-25 h-auto mr-4 order-last" // Tailwind classes for width, height, and margin-right
             
           />
         )}
