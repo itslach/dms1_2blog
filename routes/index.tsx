@@ -26,6 +26,13 @@ function PostCard(props: { post: Post }) {
   return (
     <div class="py-8 border(t gray-200)">
       <a class="sm:col-span-2" href={`/${post.slug}`}>
+      {post.image && (
+          <img
+            src={post.image}
+            alt={post.title}
+            class="w-full h-auto"
+          />
+        )}
         <h3 class="text(3xl gray-900) font-bold">
           {post.title}
         </h3>
