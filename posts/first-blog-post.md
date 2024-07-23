@@ -4,6 +4,7 @@ published_at: 2024-07-22
 snippet: Basic documentation of editing and creation of blog
 disable_html_sanitization: true
 allow_math: true
+image: https://i.pinimg.com/originals/5d/9b/69/5d9b69ae97f2a4a59acbcbe36668f3be.jpg
 ---
 
 <img src="https://www.hardjewelry.com/cdn/shop/files/ezgif.com-gif-maker_3.gif?v=1649272041" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
