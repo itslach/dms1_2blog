@@ -12,7 +12,7 @@ function BlogHeader() {
     <div className="flex items-center justify-between py-4">
       <div>
         <img
-          src="Wk1s1/digitalmediablog2.png" // Update with the correct path to your image
+          src="Wk1s1/digitalmediablog3.png" // Update with the correct path to your image
           alt="Digital Media Blog Header"
           className="w-300 h-auto" // Adjust the width and height as needed
         />
