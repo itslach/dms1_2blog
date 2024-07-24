@@ -12,7 +12,7 @@ function BlogHeader() {
     <div className="flex items-center justify-between py-4">
       <div>
         <h1 className="text-2xl font-bold ">DMS1</h1>
-        <h2 className="text-5xl font-italic font-sans">DIGITAL MEDIA BLOG</h2>
+        <h2 className="text-5xl font-bold ">DIGITAL MEDIA BLOG</h2>
         <h3 className="text-xl font-italic ">Created by Student 3410666</h3>
       </div>
       <img
