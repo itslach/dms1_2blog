@@ -3,7 +3,7 @@ module.exports = {
   theme: {
     extend: {
       colours: {
-        customLightGrey: 'd3d3d3',
+        customLightGrey: '#d3d3d3',
       },
       fontFamily: {
         sans: ['"Prompt"', '"Bebas Neue"', 'sans-serif'], // Include both fonts in the same array
