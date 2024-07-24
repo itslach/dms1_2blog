@@ -18,7 +18,7 @@ function BlogHeader() {
       <img
         src="https://i.pinimg.com/564x/32/e3/62/32e36224bed498ea74d643222f918da9.jpg" 
         alt="Blog logo"
-        className="w-50 h-auto ml-4"
+        className="w-50 h-50 ml-4"
         style={{ objectFit: 'contain' }}
       />
     </div>
