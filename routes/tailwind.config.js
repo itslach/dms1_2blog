@@ -1,13 +1,12 @@
 module.exports = {
-  purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'], 
+  purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'],
   theme: {
-      extend: {
-        fontFamily: {
-          sans:['"Prompt"', 'sans-serif'],
-        },
+    extend: {
+      fontFamily: {
+        sans: ['"Prompt"', '"Bebas Neue"', 'sans-serif'], // Include both fonts in the same array
       },
     },
-    variants: {},
-    plugins: [],
-  }
-  
+  },
+  variants: {},
+  plugins: [],
+}
