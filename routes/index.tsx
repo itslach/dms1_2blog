@@ -72,3 +72,20 @@ function PostCard(props: { post: Post }) {
   );
 }
 
+function App() {
+  return (
+    <div style={{
+      backgroundImage: 'https://i.pinimg.com/564x/a1/f2/07/a1f2073cf3cb0c7076c3b71840b5339a.jpg', // Path to your background image
+      backgroundSize: 'cover',
+      backgroundRepeat: 'no-repeat',
+      backgroundAttachment: 'fixed',
+      backgroundPosition: 'center',
+      minHeight: '100vh', // Ensure it covers the full height of the viewport
+    }}>
+      <BlogHeader />
+      {/* Add the rest of your components here */}
+    </div>
+  );
+}
+
+export default App;
