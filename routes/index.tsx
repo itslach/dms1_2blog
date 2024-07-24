@@ -14,7 +14,7 @@ function BlogHeader() {
         <img
           src="Wk1s1/digitalmediablog.png" // Update with the correct path to your image
           alt="Digital Media Blog Header"
-          className="w-100 h-100" // Adjust the width and height as needed
+          className="w-300 h-300" // Adjust the width and height as needed
         />
       </div>
       <img
