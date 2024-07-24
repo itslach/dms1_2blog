@@ -60,7 +60,7 @@ image: https://i.pinimg.com/564x/1c/38/91/1c3891465a90760711afc76d856e376e.jpg
  <img src="screenshots/embedvideoss.png" alt="Header Image" style="margin-right: 20px; width: 500px; height: 500;">
 <p>
     <span class="highlight">2024.07.23</span>
-   Attached is evidence that I was able to use video embeding and code to upload a video to my blog, at the time of this screenshot I just used a filler video of a random youtube video, just to test if it would work.  
+   Attached is evidence that I was able to use video embeding and code to upload a video to my blog, at the time of this screenshot I just used a filler video of a random youtube video, just to test if it would work. The uploading of a video from youtube to the blog required retrieving an <span class="bold">embed</span> link for the <span class="bold">.mp4</span> file from <span class="bold">youtube</span>, I then utilised <span class="bold">module scripts</span> to alter the <span class="bold">height</span> and <span class="bold">width</span> of the video player.
   </p>
 </div>
 
