@@ -16,7 +16,7 @@ function BlogHeader() {
         <h3 className="text-xl font-italic text-gray-400">Created by Student 3410666</h3>
       </div>
       <img
-        src="https://i.pinimg.com/564x/32/e3/62/32e36224bed498ea74d643222f918da9.jpg" 
+        src="Wk1s1/DIGITAL1.png" 
         alt="Blog logo"
         className="w-40 h-auto ml-4"
         style={{ objectFit: 'contain' }}
@@ -72,19 +72,4 @@ function PostCard(props: { post: Post }) {
   );
 }
 
-function App() {
-  return (
-    <div style={{
-      backgroundImage: 'https://i.pinimg.com/564x/a1/f2/07/a1f2073cf3cb0c7076c3b71840b5339a.jpg', // Path to your background image
-      backgroundSize: 'cover',
-      backgroundRepeat: 'no-repeat',
-      backgroundAttachment: 'fixed',
-      backgroundPosition: 'center',
-      minHeight: '100vh', // Ensure it covers the full height of the viewport
-    }}>
-      <BlogHeader />
-      {/* Add the rest of your components here */}
-    </div>
-  );
-}
 
