@@ -11,18 +11,22 @@ function BlogHeader() {
   return (
     <div className="flex items-center justify-between py-4">
       <div>
-        <h1 className="text-2xl font-bold ">DMS1</h1>
-        <h2 className="text-5xl font-bold ">DIGITAL MEDIA BLOG</h2>
-        <h3 className="text-xl font-italic text-gray-400">Created by Student 3410666</h3>
+        <img
+          src="Wk1s1/digitalmediablog.png" // Update with the correct path to your image
+          alt="Digital Media Blog Header"
+          className="w-auto h-auto" // Adjust the width and height as needed
+        />
       </div>
       <img
-        src="Wk1s1/DIGITAL1.png" 
+        src="https://i.pinimg.com/564x/32/e3/62/32e36224bed498ea74d643222f918da9.jpg" // Update with the correct path to your second image if needed
         alt="Blog logo"
         className="w-40 h-auto ml-4"
         style={{ objectFit: 'contain' }}
       />
     </div>
   );
+}
+
 }
 
 export default function BlogIndexPage(props: PageProps<Post[]>) {
@@ -73,3 +77,20 @@ function PostCard(props: { post: Post }) {
 }
 
 
+// function BlogHeader() {
+// return (
+//   <div className="flex items-center justify-between py-4">
+//    <div>
+//        <h1 className="text-2xl font-bold ">DMS1</h1>
+//        <h2 className="text-5xl font-bold ">DIGITAL MEDIA BLOG</h2>
+//        <h3 className="text-xl font-italic text-gray-400">Created by Student 3410666</h3>
+//      </div>
+//      <img
+//        src="Wk1s1/DIGITAL1.png" 
+//        alt="Blog logo"
+//        className="w-40 h-auto ml-4"
+//        style={{ objectFit: 'contain' }}
+//      />
+//    </div>
+ // );
+// }
