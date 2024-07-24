@@ -13,7 +13,7 @@ function BlogHeader() {
       <div>
         <h1 className="text-2xl font-bold ">DMS1</h1>
         <h2 className="text-5xl font-bold ">DIGITAL MEDIA BLOG</h2>
-        <h3 className="text-xl font-italic text-grey-400">Created by Student 3410666</h3>
+        <h3 className="text-xl font-italic text-gray-400">Created by Student 3410666</h3>
       </div>
       <img
         src="https://i.pinimg.com/564x/32/e3/62/32e36224bed498ea74d643222f918da9.jpg" 
