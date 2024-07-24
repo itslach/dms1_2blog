@@ -4,7 +4,7 @@ published_at: 3005-01-01
 snippet: Temporary notes for me to refer back to
 disable_html_sanitization: true
 allow_math: true
-image: https://i.pinimg.com/564x/1c/38/91/1c3891465a90760711afc76d856e376e.jpg
+image: https://i.pinimg.com/564x/6e/7d/25/6e7d25809d2fe34b45f8398e8bf48fda.jpg
 ---
 
 are written like this: `![description](file_path/file_name.png)`
