@@ -1,5 +1,6 @@
 module.exports = {
-    theme: {
+  purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'], 
+  theme: {
       extend: {
         fontFamily: {
           sans:['"Prompt"', 'sans-serif'],
