@@ -28,11 +28,9 @@ Due to the fact that I had just recently moved to melbourne only a month ago, it
 
 </script>
  
- # ** MY 30 SECOND PREMIERE EXPERIMENTATION
+ # **MY 30 SECOND PREMIERE EXPERIMENTATION**
 
- ## *EVALUATION*
-
- <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/991881280?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="30s EXP (CUT TO EDIT)"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/991881280?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="30s EXP (CUT TO EDIT)"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
  
  <script type="module">
 
@@ -41,3 +39,9 @@ Due to the fact that I had just recently moved to melbourne only a month ago, it
     const iframe  = document.getElementById (`sorry_music_video`)
     iframe.width  = iframe.parentNode.scrollWidth
     iframe.height = iframe.width * 9 / 16
+
+</script>
+
+
+> ## *EVALUATION*
+
