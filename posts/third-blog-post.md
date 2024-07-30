@@ -55,3 +55,4 @@ Due to the fact that I had just recently moved to melbourne only a month ago, it
 <p class="custom-font">
 With this experimentation, I wanted to use basic effects to effectively convey the passing of time to the viewer, and that anywhere in the world time is always passing differently for everyone. I deliberately added a backing soundtrack that I felt made the video more peaceful and also added a metronome beat, that I could use to guide each cut between shots, this further added to the sense of time throughout the video> In roughly the middle of the video I used quick cuts every second to convey rapid movements, and used l-cuts and morph/dissolve transitions to elevate the viewing experience and add another layer of sensory relation.
 </p>
+---
