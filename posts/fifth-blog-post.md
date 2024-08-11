@@ -1,6 +1,6 @@
 ---
 title: DMS1_POST004
-published_at: 2024-03-04
+published_at: 2024-08-08
 snippet: Documentation of Assignment Storyboard Prototype
 disable_html_sanitization: true
 allow_math: true
@@ -14,3 +14,8 @@ image: https://i.pinimg.com/564x/1c/38/91/1c3891465a90760711afc76d856e376e.jpg
     font-family: 'Courier New', Courier, monospace;
   }
 </style>
+
+> # **WK2S2 HOMEWORK**
+
+## **SELF PORTRAIT** *'this is me'* **STORYBOARD**
+
