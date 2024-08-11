@@ -19,7 +19,7 @@ function BlogHeader() {
       </div>
       <img
         src="" // Update with the correct path to your second image if needed
-        alt="Blog logo"
+        alt=""
         className="w-40 h-auto ml-4"
         style={{ objectFit: 'contain' }}
       />
