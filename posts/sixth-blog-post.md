@@ -15,6 +15,20 @@ image: https://i.pinimg.com/564x/1c/38/91/1c3891465a90760711afc76d856e376e.jpg
 
 <img src="storyboards/IMG_0076.JPG" alt="storyboardpage2" width="1000" height="1000">
 
+## *ANALYSIS*
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+My storyboard and overall concept/idea for my project went under tremendous changes since the creation of my prototype storyboard, I delved deep into myself to try and find what made who I am, I came to the realisation that, being new to living in a big city, alot of who I was, was still back where I used to live, things I left behind like my friends and family and the memories that made me who I am. I ultimately decided I wanted the concept of my project to be about memories and nostalgia, while still incorporating other things in my life that made me. I planned to achieve this by using a mix of film and photo, and footage taken by me for the project and photo and videos I had taken in my past of memories, blending these two mediums together to create an engaging and fulfilling project. I aimed to use various different royalty free sound effects and varying music tracks to help convey these feelings in different parts of my project, and use the tempo of the main soundtrack to drive the shots in the film. I also wanted to implement atleast one image slideshow/montage, this would be a scene to show memories in the form of photos, and change up the flow from shots between clips, the soundtrack would help guide how long each image should stay on screen for before transitioning to the next, and guide where in my video I would want these mini-montages to belong.
+
+---
+
+
 
 ## *A KEY MOMENT*
 
