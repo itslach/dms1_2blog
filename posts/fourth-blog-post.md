@@ -1,7 +1,7 @@
 ---
 title: DMS1_POST003
 published_at: 2024-07-30
-snippet: Storyboarding Film/Prototype
+snippet: Storyboarding Film Experiment
 disable_html_sanitization: true
 allow_math: true
 image: https://i.pinimg.com/564x/1c/38/91/1c3891465a90760711afc76d856e376e.jpg
