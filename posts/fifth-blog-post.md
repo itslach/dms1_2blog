@@ -24,3 +24,7 @@ image: https://i.pinimg.com/564x/1c/38/91/1c3891465a90760711afc76d856e376e.jpg
 <img src="storyboards/IMG_0072.JPG" alt="storyboardpage1" width="1000" height="1000">
 
 <img src="storyboards/IMG_0073.JPG" alt="storyboardpage1" width="1000" height="1000">
+
+## *EVALUATION*
+
+I faced a variety of challenges when trying to design an initial storyboard and really decide on a direction that I wanted to take my project.
