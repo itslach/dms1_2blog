@@ -66,7 +66,7 @@ function PostCard(props: { post: Post }) {
        <img
             src={post.image}
             alt={post.title}
-            className="w-40 h-40 mr-4 order-last" // Tailwind classes for width, height, and margin-right
+            className="w-60 h-40 mr-4 order-last" // Tailwind classes for width, height, and margin-right
             
           />
         )}
