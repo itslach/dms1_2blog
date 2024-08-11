@@ -1,6 +1,6 @@
 ---
 title: DMS1_POST004
-published_at: 2024-08-08
+published_at: 2024-08-04
 snippet: Documentation of Assignment Storyboard Prototype
 disable_html_sanitization: true
 allow_math: true
@@ -19,8 +19,8 @@ image: https://i.pinimg.com/564x/1c/38/91/1c3891465a90760711afc76d856e376e.jpg
 
 ## **SELF PORTRAIT** *'this is me'* **STORYBOARD**
 
-<img src="IMG_0071.JPG" alt="storyboardpage1" width="1000" height="1000">
+<img src="storyboards/IMG_0071.JPG" alt="storyboardpage1" width="1000" height="1000">
 
-<img src="IMG_0072.JPG" alt="storyboardpage1" width="1000" height="1000">
+<img src="storyboards/IMG_0072.JPG" alt="storyboardpage1" width="1000" height="1000">
 
-<img src="IMG_0073.JPG" alt="storyboardpage1" width="1000" height="1000">
+<img src="storyboards/IMG_0073.JPG" alt="storyboardpage1" width="1000" height="1000">
