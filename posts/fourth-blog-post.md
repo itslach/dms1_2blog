@@ -34,6 +34,4 @@ image:
 <p class="custom-font">
 I chose to pick this early on scene from the movie<span class="bold">NEED FOR SPEED - 2014</span> as it is one of my favourite movies of all time, and this particular scene had alot of different movements, cuts and shot types happening within it. i was able to experiment with drawing <span class="bold">Close-Ups, Point of View shots, Tracking Shots, Far shots, Extreme Close ups</span> and some more. I believe my storyboard was quite accurate and reflected well how the actual movie plays out, I believe my descriptions of each shot were also accurate and informative.
 
----
 
-# **ASSESSMENT 1 STORYBOARD - "lost in thought"**
