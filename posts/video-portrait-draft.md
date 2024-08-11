@@ -8,3 +8,16 @@ image:
 ---
 
 <img src="https://www.hardjewelry.com/cdn/shop/files/ezgif.com-gif-maker_3.gif?v=1649272041" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G8z_Kd1fCxs?si=I-IUSDyiNomrwbCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<script type="module">
+
+    console.log (`hello world! 🚀`)
+
+    const iframe  = document.getElementById (`sorry_music_video`)
+    iframe.width  = iframe.parentNode.scrollWidth
+    iframe.height = iframe.width * 9 / 16
+
+</script>
+---
