@@ -15,6 +15,8 @@ image: /images/05.jpg
 
 <img src="storyboards/IMG_0076.JPG" alt="storyboardpage2" width="1000" height="1000">
 
+<img src="storyboards/IMG_0082.JPG" alt="storyboardpage2" width="1000" height="1000">
+
 ## *ANALYSIS*
 
 <style>
