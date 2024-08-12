@@ -67,10 +67,10 @@ image: /images/creation.jpg
 ---
 
  <div style="display: flex; align-items: center;">
- <img src="screenshots/embedvideoss.png" alt="Header Image" style="margin-right: 20px; width: 500px; height: 500;">
+ <img src="screenshots/font.png" alt="Header Image" style="margin-right: 20px; width: 500px; height: 500;">
 <p>
     <span class="highlight">2024.07.23</span>
-  
+  Attached is evidence that I was able to use style syntax and custom font familys to implement different font styles into my blog. I used my further research into markdown and tailwind to teach myself how I could do this in the most easy way. I used this technical skill in my blog to create contrast and showcase my use of technical abilities throughout my project/homework.
   </p>
 </div>
 
