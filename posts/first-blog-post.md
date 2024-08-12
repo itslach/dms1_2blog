@@ -104,6 +104,3 @@ image: /images/creation.jpg
   </p>
 </div>
 
-
-
-
