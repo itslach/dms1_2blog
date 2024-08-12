@@ -87,10 +87,20 @@ image: /images/creation.jpg
 ---
 
 <div style="display: flex; align-items: center;">
- <img src="screenshots/vector.png" alt="Header Image" style="margin-right: 20px; width: 500px; height: 500;">
+ <img src="Wk1s1/digitalmediablog2.png" alt="Header Image" style="margin-right: 20px; width: 500px; height: 500;">
 <p>
-    <span class="highlight">2024.08.05</span>
-   
+    <span class="highlight">2024.07.28</span>
+   This was the first prototype design for an image logo header for my blog page. Using a combination of Adobe Photoshop and Illustrator I created this simple 3D text design to use as my Header, as I was obsessed with these sorts of themes of text with a glossy/chromatic finish. I unfortunately do not have any screenshot records of this creation process.
+  </p>
+</div>
+
+---
+
+<div style="display: flex; align-items: center;">
+ <img src="Wk1s1/digitalmediablog3.png" alt="Header Image" style="margin-right: 20px; width: 500px; height: 500;">
+<p>
+    <span class="highlight">2024.08.07</span>
+   This was the second prototype blog logo design and ultimately the final design I chose to use. I had become interested with brutalism and metalheart designs in graphic designs at the time and saw lots of these theme text logos, that fall under a category of 'angelic grunge' and decided to replicate it for my project. The design was relatively easy to make in Adobe Photoshop and only took a few hours, I unfortunately do not have any screenshots for this process either.
   </p>
 </div>
 
