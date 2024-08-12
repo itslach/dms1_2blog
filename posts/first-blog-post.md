@@ -1,7 +1,7 @@
 ---
 title: DMS1_CREATION
 published_at: 2024-07-21
-snippet: Basic documentation of editing and creation of blog
+snippet: Basic documentation of editing and creation of blog and video.
 disable_html_sanitization: true
 allow_math: true
 image: /images/creation.jpg
@@ -66,7 +66,13 @@ image: /images/creation.jpg
 
 ---
 
- 
+ <div style="display: flex; align-items: center;">
+ <img src="screenshots/embedvideoss.png" alt="Header Image" style="margin-right: 20px; width: 500px; height: 500;">
+<p>
+    <span class="highlight">2024.07.23</span>
+  
+  </p>
+</div>
 
 
 
