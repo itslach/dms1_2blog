@@ -69,11 +69,30 @@ image: /images/creation.jpg
  <div style="display: flex; align-items: center;">
  <img src="screenshots/font.png" alt="Header Image" style="margin-right: 20px; width: 500px; height: 500;">
 <p>
-    <span class="highlight">2024.07.23</span>
+    <span class="highlight">2024.07.29</span>
   Attached is evidence that I was able to use style syntax and custom font familys to implement different font styles into my blog. I used my further research into markdown and tailwind to teach myself how I could do this in the most easy way. I used this technical skill in my blog to create contrast and showcase my use of technical abilities throughout my project/homework.
   </p>
 </div>
 
+---
+
+<div style="display: flex; align-items: center;">
+ <img src="screenshots/vector.png" alt="Header Image" style="margin-right: 20px; width: 500px; height: 500;">
+<p>
+    <span class="highlight">2024.08.04</span>
+   Attached is the creation of a vector logo/img that I quickly made in Adobe Illustrator. I added this to my blog for fun/extra challenge as I felt like my blog was missing something substantial to make it more visually appealing, and I really like when websites having images to draw attention, so I decided to make something simple and quick to build towards this idea and add a layer of depth to my video.
+  </p>
+</div>
+
+---
+
+<div style="display: flex; align-items: center;">
+ <img src="screenshots/vector.png" alt="Header Image" style="margin-right: 20px; width: 500px; height: 500;">
+<p>
+    <span class="highlight">2024.08.05</span>
+   
+  </p>
+</div>
 
 
 
