@@ -7,6 +7,8 @@ allow_math: true
 image: /images/07.jpg
 ---
 
+># **DIGITAL MEDIA 1 - ASSIGNMENT 1 - SELF PORTRAIT 'this is me'**
+
 <img src="https://www.hardjewelry.com/cdn/shop/files/ezgif.com-gif-maker_3.gif?v=1649272041" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
 
 
@@ -22,3 +24,13 @@ image: /images/07.jpg
 
 </script>
 ---
+
+# **FINAL ANALYSIS**
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
