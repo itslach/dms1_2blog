@@ -4,7 +4,7 @@ published_at: 2024-08-08
 snippet: Documentation of Final Assignment Storyboard
 disable_html_sanitization: true
 allow_math: true
-image: /images/05.jpg
+image: /images/sketch6.jpg
 ---
 
 <img src="https://www.hardjewelry.com/cdn/shop/files/ezgif.com-gif-maker_3.gif?v=1649272041" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
