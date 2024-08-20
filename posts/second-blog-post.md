@@ -4,7 +4,7 @@ published_at: 2024-07-22
 snippet: The Scavenger hunt
 disable_html_sanitization: true
 allow_math: true
-image: /images/01.jpg
+image: /images/sketch11.jpg
 ---
 
 <img src="https://www.hardjewelry.com/cdn/shop/files/ezgif.com-gif-maker_3.gif?v=1649272041" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
