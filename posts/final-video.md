@@ -4,7 +4,7 @@ published_at: 2024-08-10
 snippet: Assignment 1 Video Final - 'this is me'
 disable_html_sanitization: true
 allow_math: true
-image: /images/07.jpg
+image: /images/sketch4.jpg
 ---
 
 ># **DIGITAL MEDIA 1 - ASSIGNMENT 1 - SELF PORTRAIT 'this is me'**
