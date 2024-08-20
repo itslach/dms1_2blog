@@ -4,7 +4,7 @@ published_at: 2024-08-09
 snippet: Assignment 1 Video Portrait Draft
 disable_html_sanitization: true
 allow_math: true
-image: /images/06.jpg
+image: /images/sketch5.jpg
 ---
 
 ># *this is me*  -  **Video Self Portrait Draft**
