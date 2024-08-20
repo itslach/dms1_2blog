@@ -1,6 +1,6 @@
 ---
 title: DMS1_POST009
-published_at: 2024-015-12
+published_at: 2024-15-12
 snippet: Thumbnail Sketches Activity
 disable_html_sanitization: true
 allow_math: true
