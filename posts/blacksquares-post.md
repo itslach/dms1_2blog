@@ -26,12 +26,11 @@ image: /images/sketch2.jpg
 </style>
 
 <p class="custom-font">
+When completing this in class Activity, I applied skills I had learnt from videos in class about creating a desired emotion with an icon, or representing an emotion.n
 
 
-
-# **ASSIGNMENT 2 PROMPTS + MINDMAP
+# **ASSIGNMENT 2 PROMPTS + MINDMAP**
 ---
-
 <p class="custom-font">
 
 
@@ -39,4 +38,4 @@ image: /images/sketch2.jpg
 
 
 
-<img src="images/mindmap.jpg" alt="blacksquare activity" width="1000" height="1000">
+<img src="/images/mindmap.png" alt="mindmap" width="1000" height="1000">
