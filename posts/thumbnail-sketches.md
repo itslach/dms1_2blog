@@ -8,3 +8,9 @@ image: /images/sketch1.jpg
 ---
 
 <img src="https://www.hardjewelry.com/cdn/shop/files/ezgif.com-gif-maker_3.gif?v=1649272041" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
+
+># **WK5S2 HOMEWORK**
+
+## *Thumbnail Sketches Class Activity*
+
+<img src="thumbnailsketches/Untitled_Artwork.jpg" alt="coffeesketches" width="1000" height="1000">
