@@ -17,6 +17,8 @@ image: /images/sketch1.jpg
 
 ## **PERSONAL IDEA SKETCHES**
 
-<img src="thumbnailsketches/artboard1.jpg" alt="coffeesketches" width="1000" height="1000">
-<img src="thumbnailsketches/artboard2.jpg" alt="coffeesketches" width="1000" height="1000">
-<img src="thumbnailsketches/artboard3.jpg" alt="coffeesketches" width="1000" height="1000">
+<img src="thumbnailsketches/artboard1.jpg" alt="firstart" width="1000" height="1000">
+
+<img src="thumbnailsketches/artboard2.jpg" alt="secondart" width="1000" height="1000">
+
+<img src="thumbnailsketches/artboard3.jpg" alt="thirdart" width="1000" height="1000">
