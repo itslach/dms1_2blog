@@ -16,3 +16,13 @@ image: /images/sketch2.jpg
 ---
 
 <img src="images/blacksquarestask.jpg" alt="blacksquare activity" width="1000" height="1000">
+
+## *EVALUATION*
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
