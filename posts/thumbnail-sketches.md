@@ -22,3 +22,7 @@ image: /images/sketch1.jpg
 <img src="thumbnailsketches/artboard2.jpg" alt="secondart" width="1000" height="1000">
 
 <img src="thumbnailsketches/artboard3.jpg" alt="thirdart" width="1000" height="1000">
+
+## **ASSIGNMENT THUMBNAIL SKETCH ACTIVITY**
+
+<img src="thumbnailsketches/45sketche.jpg" alt="ass2sketch" width="1000" height="1000">
