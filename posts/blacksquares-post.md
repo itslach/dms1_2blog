@@ -26,3 +26,17 @@ image: /images/sketch2.jpg
 </style>
 
 <p class="custom-font">
+
+
+
+# **ASSIGNMENT 2 PROMPTS + MINDMAP
+---
+
+<p class="custom-font">
+
+
+
+
+
+
+<img src="images/mindmap.jpg" alt="blacksquare activity" width="1000" height="1000">
