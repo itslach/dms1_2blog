@@ -37,5 +37,5 @@ Upon reading the assignment two prompt list, I was immediately intrigued with th
 <img src="/images/mindmap.png" alt="mindmap" width="1000" height="1000">
 
 ---
-
+<p class="custom-font">
 I ultimately decided upon the prompt of Dreams as I believed this was an idea that would be easily applicable to my concepts for icons, and I was able to really easily brainstorm several different directions I could take the prompt in for my 9 icons.
