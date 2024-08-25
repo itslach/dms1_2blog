@@ -9,7 +9,7 @@ image: /images/sketch1.jpg
 
 <img src="https://www.hardjewelry.com/cdn/shop/files/ezgif.com-gif-maker_3.gif?v=1649272041" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
 
-># **WK5S2 HOMEWORK**
+># **WK4S2 HOMEWORK**
 
 ## *Thumbnail Sketches Class Activity*
 
@@ -17,7 +17,7 @@ image: /images/sketch1.jpg
 
 ## **PERSONAL IDEA SKETCHES**
 
-<img src="thumbnailsketches/artboard1.jpg" alt="firstart" width="1000" height="1000">
+<img src="thumbnailsketches/artboard1.JPG" alt="firstart" width="1000" height="1000">
 
 <img src="thumbnailsketches/artboard2.jpg" alt="secondart" width="1000" height="1000">
 
