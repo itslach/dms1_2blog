@@ -15,6 +15,17 @@ image: /images/sketch1.jpg
 
 <img src="thumbnailsketches/Untitled_Artwork.jpg" alt="coffeesketches" width="1000" height="1000">
 
+## *EVALUATION*
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+From the in-class activity, I believe from the 16 different icons I had sketched, the most effective were the; location marker with coffee bean symbol, the mug with connection symbol, and latte art from above. I liked these icons the most and believe they were the most effective as they conveyed a simple notion of coffee and connection it can provide. You could also argue that the icons represent how coffee is an important part of the intended audience's life, they also effectively use simple shapes and lines to convey a simple theme.
+
 ## **PERSONAL IDEA SKETCHES**
 
 <img src="thumbnailsketches/artboard1.JPG" alt="firstart" width="1000" height="1000">
