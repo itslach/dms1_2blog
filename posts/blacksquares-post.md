@@ -26,13 +26,13 @@ image: /images/sketch2.jpg
 </style>
 
 <p class="custom-font">
-When completing this in class Activity, I applied skills I had learnt from videos in class about creating a desired emotion with an icon, or representing an emotion.n
+When completing this in class Activity, I applied skills I had learnt from videos in class about creating a desired emotion with an icon, or representing an emotion.
 
 
 # **ASSIGNMENT 2 PROMPTS + MINDMAP**
 ---
 <p class="custom-font">
-
+Upon reading the assignment two prompt list, I was immediately intrigued with the ideas of; <span class="bold">Dreams</span>, <span class="bold">Future</span>, <span class="bold">System</span> and <span class="bold">Memory</span>. I thought these prompts would be ideal as my desired platform would be icon's to be used on either game developer website or within a video game HUD, that meant that the intended audience for my icons would be young teens/adults that interact regularly with video games. And my intended context would be that on the website the icon's could be used for different products/characters, and the video game icons would be menu setting icons, that when are hovered over could change to a similar, but altered image. (Specific platforms would be PC/Xbox/Playstation + Chrome/Safari).
 
 
 
