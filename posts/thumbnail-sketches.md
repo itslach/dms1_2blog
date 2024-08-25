@@ -14,3 +14,9 @@ image: /images/sketch1.jpg
 ## *Thumbnail Sketches Class Activity*
 
 <img src="thumbnailsketches/Untitled_Artwork.jpg" alt="coffeesketches" width="1000" height="1000">
+
+## **PERSONAL IDEA SKETCHES**
+
+<img src="thumbnailsketches/artboard1.jpg" alt="coffeesketches" width="1000" height="1000">
+<img src="thumbnailsketches/artboard2.jpg" alt="coffeesketches" width="1000" height="1000">
+<img src="thumbnailsketches/artboard3.jpg" alt="coffeesketches" width="1000" height="1000">
