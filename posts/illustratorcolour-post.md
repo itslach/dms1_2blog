@@ -11,3 +11,10 @@ image: /images/sketch3.jpg
 
 ># **WK5S1 HOMEWORK**
 
+<img src="thumbnailsketches/Artboard 1.png" alt="storyboardpage2" width="1000" height="1000">
+
+<img src="thumbnailsketches/Artboard 2.png" alt="storyboardpage2" width="1000" height="1000">
+
+<img src="thumbnailsketches/Artboard 3.png" alt="storyboardpage2" width="1000" height="1000">
+
+<img src="thumbnailsketches/Artboard 4.png" alt="storyboardpage2" width="1000" height="1000">
