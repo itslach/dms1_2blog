@@ -18,3 +18,15 @@ image: /images/sketch3.jpg
 <img src="thumbnailsketches/Artboard 3.png" alt="storyboardpage2" width="1000" height="1000">
 
 <img src="thumbnailsketches/Artboard 4.png" alt="storyboardpage2" width="1000" height="1000">
+
+## *EVALUATION*
+---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+After several experimentations with different colour schemes and palettes, I had come to a conclusion for my assignment project, that my desire was to use similar pastel colours in a split-complementary/triadic colour scheme. I believed these sorts of colours would be very effective in the creation of my icons and decided on them as lots of successful business/company logos use similar contrasting themes in their logos, I wanted my icons to stand out and draw the viewers attention quickly without being overly complex, as they would be icons used across a commercial website. 
