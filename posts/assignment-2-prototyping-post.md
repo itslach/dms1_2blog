@@ -57,7 +57,7 @@ I began to create a foundation for my icons, as seen in the above examples of my
 
 ---
 
-<img src="icons/bettersleep.png" alt="experimenting" width="1000" height="1000">
+<img src="icons/bettersleep.png" alt="experimenting" width="250" height="500">
 
 <style>
   .custom-font {
