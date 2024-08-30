@@ -55,6 +55,8 @@ I began experimenting with different colour schemes and icon layouts on Adobe Il
 <p class="custom-font">
 I began to create a foundation for my icons, as seen in the above examples of my first three icons. I knew I wanted to use highly simplified shapes to create appealing and exciting images for kids, I used minimal colour in my icons, but utilised loud colours that stood out very easily and draw the viewers attention quickly. The main purpose for each icon was to be used as icons for different modes in the app.
 
+---
+
 <img src="icons/bettersleep.png" alt="experimenting" width="1000" height="1000">
 
 <style>
