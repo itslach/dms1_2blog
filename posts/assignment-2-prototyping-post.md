@@ -53,9 +53,24 @@ I began experimenting with different colour schemes and icon layouts on Adobe Il
 </style>
 
 <p class="custom-font">
-I began to create a foundation for my icons, as seen in the above examples of my first three icons.
-   
+I began to create a foundation for my icons, as seen in the above examples of my first three icons. I knew I wanted to use highly simplified shapes to create appealing and exciting images for kids, I used minimal colour in my icons, but utilised loud colours that stood out very easily and draw the viewers attention quickly. The main purpose for each icon was to be used as icons for different modes in the app.
 
+<img src="icons/bettersleep.png" alt="experimenting" width="1000" height="1000">
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+I took heavy inspiration from the mobile app 'BetterSleep', as they used a variety of minimalistic style icons across their app, displayed as buttons that commit different actions across the platform. I wanted to utilise their idea but change it, and make it so that the icon would change to a different image when it is pressed.
+   
+<div class="row">
+        <div class="image-container"><img id="icon1.2" src="icons/icon1.2.png" height="200" width="200"/></div>
+        <div class="image-container"><img id="icon2.2" src="icons/icon2.2.png" height="200" width="200"/></div>
+        <div class="image-container"><img id="icon3.3" src="icons/icon3.2.png" height="200" width="200"/></div>
+    </div>
 
 
 
