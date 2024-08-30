@@ -23,7 +23,23 @@ image: /images/sketch5.jpg
 <p class="custom-font">
 I began experimenting with different colour schemes and icon layouts on Adobe Illustrator. It was during this experimentation that I underwent a major change for my project, after I began developing several different icons I had realised that they were not going to be very well suited to a video game HUD or commercial website, and was struggling to think of icons that would work in this environment. After a few days of brainstorming I came to a conclusion, and decided to create icons that could be used on an overnight sleeping/rain weather app, especially targeted towards children. 
 
-<div class="column">
+<style>
+        .row{
+            width:720px;
+            margin: 10px auto 10px auto ;
+        }
+        .image-container {
+            display: table-cell;
+            vertical-align: middle;
+            padding:20px;
+        }
+ </style>
+
+
+
+
+
+<div class="row">
         <div class="image-container"><img id="icon1" src="icons/icon1.png" height="200" width="200"/></div>
         <div class="image-container"><img id="icon2" src="icons/icon2.png" height="200" width="200"/></div>
         <div class="image-container"><img id="icon3" src="icons/icon3.png" height="200" width="200"/></div>
