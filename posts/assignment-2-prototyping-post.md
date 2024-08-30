@@ -80,10 +80,30 @@ I took heavy inspiration from the mobile app 'BetterSleep', as they used a varie
         <div class="image-container"><img id="icon3.3" src="icons/icon3.2.png" height="200" width="200"/></div>
     </div>
 
+    <style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
 
 
 
 
+<div class="row">
+        <div class="image-container"><img id="icon4" src="icons/icon4.png" height="200" width="200"/></div>
+        <div class="image-container"><img id="icon5" src="icons/icon5.png" height="200" width="200"/></div>
+        <div class="image-container"><img id="icon6" src="icons/icon6.png" height="200" width="200"/></div>
+    </div>
+
+---
+
+<div class="row">
+        <div class="image-container"><img id="icon7" src="icons/icon7.png" height="200" width="200"/></div>
+        <div class="image-container"><img id="icon8" src="icons/icon8.png" height="200" width="200"/></div>
+        <div class="image-container"><img id="icon9" src="icons/icon9.png" height="200" width="200"/></div>
+    </div>
 
 
 
