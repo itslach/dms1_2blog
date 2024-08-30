@@ -9,14 +9,26 @@ image: /images/sketch5.jpg
 
 <img src="https://www.hardjewelry.com/cdn/shop/files/ezgif.com-gif-maker_3.gif?v=1649272041" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
 
-<div style="display: flex; align-items: center;">
- <img src="new screenshots/screenshot1.png" alt="first screenshot" style="margin-right: 20px; width: 500px; height: 500;">
-  <p>
-    <span class="highlight">Icon experimenting</span>
-    
-  </p>
-</div>
+# **ICON EXPERIMENTING**
 
+<img src="new screenshots/screenshot1.png" alt="experimenting" width="1000" height="1000">
+---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+I began experimenting with different colour schemes and icon layouts on Adobe Illustrator. It was during this experimentation that I underwent a major change for my project, after I began developing several different icons I had realised that they were not going to be very well suited to a video game HUD or commercial website, and was struggling to think of icons that would work in this environment. After a few days of brainstorming I came to a conclusion, and decided to create icons that could be used on an overnight sleeping/rain weather app, especially targeted towards children. 
+
+<div class="row">
+        <div class="image-container"><img id="icon7" src="newicons/icon7.png" height="200" width="200"/></div>
+        <div class="image-container"><img id="icon8" src="newicons/icon8.png" height="200" width="200"/></div>
+        <div class="image-container"><img id="icon9" src="newicons/icon9.png" height="200" width="200"/></div>
+    </div>
+   
 
 
 
