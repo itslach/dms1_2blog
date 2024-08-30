@@ -24,10 +24,20 @@ image: /images/sketch5.jpg
 I began experimenting with different colour schemes and icon layouts on Adobe Illustrator. It was during this experimentation that I underwent a major change for my project, after I began developing several different icons I had realised that they were not going to be very well suited to a video game HUD or commercial website, and was struggling to think of icons that would work in this environment. After a few days of brainstorming I came to a conclusion, and decided to create icons that could be used on an overnight sleeping/rain weather app, especially targeted towards children. 
 
 <div class="row">
-        <div class="image-container"><img id="icon7" src="newicons/icon7.png" height="200" width="200"/></div>
-        <div class="image-container"><img id="icon8" src="newicons/icon8.png" height="200" width="200"/></div>
-        <div class="image-container"><img id="icon9" src="newicons/icon9.png" height="200" width="200"/></div>
+        <div class="image-container"><img id="icon1" src="icons/icon1.png" height="200" width="200"/></div>
+        <div class="image-container"><img id="icon2" src="icons/icon2.png" height="200" width="200"/></div>
+        <div class="image-container"><img id="icon3" src="icons/icon3.png" height="200" width="200"/></div>
     </div>
+---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+I began to create a foundation for my icons, as seen in the above examples of my first three icons.
    
 
 
