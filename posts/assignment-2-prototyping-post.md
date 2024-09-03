@@ -115,7 +115,7 @@ After trialing a few different alternate designs for each icon, these were the 3
 I then created the last 6 icons, with their alternatives, but something wasn't right, as much as I loved the designs I had come up with for my icons, I didn't believe the icons had any strong sense that they belonged together and I wasnt happy with the quality of the products I had produced. So I ultimately decided to scrap these Icons, being that the due date was very close and I was starting from scratch I had to quickly come up with a strong theme for my new icons and start developing them.
 
 <div class="row">
-        <div class="image-container"><img id="draft" src="newimages/brainstorm.png" height="200" width="200"/></div>
+        <div class="image-container"><img id="draft" src="newimages/brainstorm.jpg" height="200" width="200"/></div>
         <div class="image-container"><img id="experiment" src="newimages/experiment.2.png" height="200" width="200"/></div>
         <div class="image-container"><img id="first2" src="newimages/first2.png" height="200" width="200"/></div>
     </div>
