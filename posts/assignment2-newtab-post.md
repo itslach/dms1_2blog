@@ -92,6 +92,6 @@ After deciding on the blur texture to use on my icons, I began experimenting wit
 ## **FINAL PRODUCT FOR ICON_1**
 
 <div class="row">
-        <div class="image-container"><img id="icon1" src="newimages/icon1.png" height="200" width="200"/></div>
-        <div class="image-container"><img id="icon1.2" src="newimages/icon1.2.png" height="200" width="200"/></div>
+        <div class="image-container"><img id="icon1" src="newimages/icon1.png" height="350" width="350"/></div>
+        <div class="image-container"><img id="icon1.2" src="newimages/icon1.2.png" height="350" width="350"/></div>
     </div>
