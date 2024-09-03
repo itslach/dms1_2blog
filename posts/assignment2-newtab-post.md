@@ -96,6 +96,21 @@ After deciding on the blur texture to use on my icons, I began experimenting wit
         <div class="image-container"><img id="icon1.2" src="newimages/icon1.2.png" height="350" width="350"/></div>
     </div>
   
+<style>
+  .column {
+    display: grid;
+    grid-template-columns: 1fr; /* Single column */
+    grid-template-rows: repeat(2, auto); /* Two rows */
+    gap: 10px; /* Optional: Add some space between the rows */
+    width: 350px; /* Set the width of the column */
+  }
+
+  .image-container img {
+    width: 100%;
+    height: auto; /* Maintain aspect ratio */
+  }
+</style>
+
 
 <div class="column">
         <div class="image-container"><img id="icon1" src="newimages/icon1.png" height="350" width="350"/></div>
