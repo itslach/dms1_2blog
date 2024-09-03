@@ -67,3 +67,23 @@ The next step once everything on the html was loading properly was to add in new
 Now that I had the system for the icon to change working, all I had to do was repeat the same code for the other 8 icons, and find/or record another 8 audio samples for the icons. My first idea for the audio would be that the audio that plays when pressing the icon would be a sample snippet of each sleep sound.
 
 ># **ICON SOUND EXPERIMENTING**
+
+<style>
+        .row{
+            width:720px;
+            margin: 10px auto 10px auto ;
+        }
+        .image-container {
+            display: table-cell;
+            vertical-align: middle;
+            padding:20px;
+        }
+ </style>
+
+**AUDIO SOURCES**
+
+<div class="row">
+    <div class="image-container"><img id="sound" src="ss1/soundly.png" height=350" width="350"/></div>
+    <div class="image-container"><img id="youtubestudio" src="ss1/studio.png" height="350" width="350"/></div>
+</div>
+
