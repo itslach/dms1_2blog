@@ -79,3 +79,19 @@ These were the first 3 icons textures I experimented with, one blur effect, one 
         <div class="image-container"><img id="shadow2" src="alternates/04test.png" height="200" width="200"/></div>
         <div class="image-container"><img id="shadow3" src="alternates/05test.png" height="200" width="200"/></div>
     </div>
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+After deciding on the blur texture to use on my icons, I began experimenting with different drop shadows for the icon elements. The purpose for me using drop shadow on my icons was to accentuate that each icon is being pressed, so that there was a visible difference between the initial icon. I also made the whole icon's scale larger than the initial icon, to create the illusion that the icon scale grows when clicked. 
+
+## **FINAL PRODUCT FOR ICON_1**
+
+<div class="row">
+        <div class="image-container"><img id="icon1" src="newimages/icon1.png" height="200" width="200"/></div>
+        <div class="image-container"><img id="icon1.2" src="newimages/icon1.2.png" height="200" width="200"/></div>
+    </div>
