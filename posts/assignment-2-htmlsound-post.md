@@ -82,9 +82,7 @@ Now that I had the system for the icon to change working, all I had to do was re
 
 **AUDIO SOURCES**
 
-
-
 <div class="row">
-        <div class="image-container"><img id="draft" src="ss1/sstudio.png" height="400" width="400"/></div>
+        <div class="image-container"><img id="draft" src="ss1/studio.png" height="400" width="400"/></div>
         <div class="image-container"><img id="experiment" src="ss1/soundly.png" height="400" width="400"/></div>
     </div>
