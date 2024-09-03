@@ -139,18 +139,7 @@ Now that I had the system for the icon to change working, all I had to do was re
     text-decoration: none;
     cursor: pointer;
 }
-JavaScript
-javascript
-Copy code
-function openModal(imgElement) {
-    var modal = document.getElementById("myModal");
-    var modalImg = document.getElementById("img01");
-    modal.style.display = "block";
-    modalImg.src = imgElement.src;
-}
 
-function closeModal() {
-    var modal = document.getElementById("myModal");
-    modal.style.display = "none";
-}
+
 </style>
+
