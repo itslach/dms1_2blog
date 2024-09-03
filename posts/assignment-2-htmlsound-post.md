@@ -161,6 +161,8 @@ After I had acquired all my desired sounds, I had to put them through audition t
 
 <img src="ss1/repeat.png" alt="firstss" width="500" height="500">
 
+---
+
 <style>
   .custom-font {
     font-family: 'Courier New', Courier, monospace;
