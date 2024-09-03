@@ -95,3 +95,16 @@ After deciding on the blur texture to use on my icons, I began experimenting wit
         <div class="image-container"><img id="icon1" src="newimages/icon1.png" height="350" width="350"/></div>
         <div class="image-container"><img id="icon1.2" src="newimages/icon1.2.png" height="350" width="350"/></div>
     </div>
+  
+
+<div class="column">
+        <div class="image-container"><img id="icon1" src="newimages/icon1.png" height="350" width="350"/></div>
+        <div class="image-container"><img id="icon1.2" src="newimages/icon2.png" height="350" width="350"/></div>
+        <div class="image-container"><img id="icon1.2" src="newimages/icon3.png" height="350" width="350"/></div>
+        <div class="image-container"><img id="icon1.2" src="newimages/icon4.png" height="350" width="350"/></div>
+        <div class="image-container"><img id="icon1.2" src="newimages/icon5.png" height="350" width="350"/></div>
+        <div class="image-container"><img id="icon1.2" src="newimages/icon6.png" height="350" width="350"/></div>
+        <div class="image-container"><img id="icon1.2" src="newimages/icon7.png" height="350" width="350"/></div>
+        <div class="image-container"><img id="icon1.2" src="newimages/icon8.png" height="350" width="350"/></div>
+        <div class="image-container"><img id="icon1.2" src="newimages/icon9.png" height="350" width="350"/></div>
+    </div>
