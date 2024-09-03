@@ -142,6 +142,7 @@ Now that I had the system for the icon to change working, all I had to do was re
 </div>
 <script>
 function openModal(imgElement) {
+  console.log("openModal called");
   var modal = document.getElementById("myModal");
   var modalImg = document.getElementById("img01");
   modal.style.display = "flex"; // Use flex to center the modal
@@ -154,11 +155,4 @@ function closeModal() {
 </script>
 </body>
 
-<style>
-  .custom-font {
-    font-family: 'Courier New', Courier, monospace;
-  }
-</style>
-
-<p class="custom-font">
-you can click on these images to enlarge them :)
+*you can click on these images to enlarge them :)*
