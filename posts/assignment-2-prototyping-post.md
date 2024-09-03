@@ -70,7 +70,7 @@ I began to create a foundation for my icons, as seen in the above examples of my
 </style>
 
 <p class="custom-font">
-I took heavy inspiration from the mobile app 'BetterSleep', as they used a variety of minimalistic style icons across their app, displayed as buttons that commit different actions across the platform. I wanted to utilise their idea but change it, and make it so that the icon would change to a different image when it is pressed.
+I took heavy inspiration from the mobile app 'BetterSleep', as they used a variety of minimalistic style icons across their app, displayed as buttons that commit different actions across the platform. I wanted to utilise their idea but change it, and make it so that the icon would change to a different image when it is pressed. I also took inspiration from other platforms like, Google's 'Sleep App' and another app named 'Sleep Sounds'. The google platform stood out to me for their use of a monochromatic colour style, accompanied by very minimalistic icons for their functions. While the sleep sounds app used different colour schemes for it's apps functions; some split complementary, some triadic, some monochromatic and etc. I appreciated how they were able to use different colour schemes throughout their app's layout to make the different functions stand out.
 
 ---
    
@@ -80,14 +80,14 @@ I took heavy inspiration from the mobile app 'BetterSleep', as they used a varie
         <div class="image-container"><img id="icon3.3" src="icons/icon3.2.png" height="200" width="200"/></div>
     </div>
 
-    <style>
+<style>
   .custom-font {
     font-family: 'Courier New', Courier, monospace;
   }
 </style>
 
 <p class="custom-font">
-
+After trialing a few different alternate designs for each icon, these were the 3 alternatives I designed to go with for my first 3 icons. I knew that I wanted my icons to have atleast a singular aspect that would create a strong family connection between them, considering that they were going
 
 
 
