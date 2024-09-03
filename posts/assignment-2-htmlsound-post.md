@@ -49,7 +49,8 @@ I then added in the DIV containers, the purpose of these is to hold all the imag
 </style>
 
 <p class="custom-font">
-The next step once everything on the html was loading properly was to add in new css, which would allow the user to press on the icon, making it change to it's alternate icon and playing a noise when clicked.
+The next step once everything on the html was loading properly was to add in new css, which would allow the user to press on the icon, making it change to it's alternate icon and playing a noise when clicked. The above script essentially tells the machine to retrieve the initial icon from it's ID and audio from it's relative path. The 'onpointerdown' command means that when the user clicks on the icon, the 'icon1' audio will play and change to the variable from its path source, and back to original icon. The line 'setTimeout' and variable '2000' is telling the machine how long the second icon should appear on screen for, before changing back to the original icon. There is an example of this in use for my first icon in the below video.
 
+ **VIDEO EXAMPLE OF ICON 1 CHANGE**
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/792e540572e646cf9f48f9aa1c661834?sid=c478e244-0d31-447a-b34a-5bdd27b9e8db" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
