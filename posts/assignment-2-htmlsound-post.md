@@ -80,9 +80,21 @@ Now that I had the system for the icon to change working, all I had to do was re
 
 ># **ICON SOUND EXPERIMENTING**
 
-**AUDIO SOURCES**
+# **AUDIO SOURCES**
 
 <div class="row">
         <div class="image-container"><img id="draft" src="ss1/studio.png" height="400" width="400"/></div>
         <div class="image-container"><img id="experiment" src="ss1/soundly.png" height="400" width="400"/></div>
     </div>
+
+---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+The two softwares above are where I gathered the audio for my icons. Youtube Audio was great for finding some inspiration for sounds and some basic sfx that I decided to use in my project, whereas Soundly was another great alternative I found, that in it's free subscription had over 300 different sfx to use. I decided it would be alot easier to use copyright free audio for my icons, rather than create my own sounds, and would allow me to be more creative with my choices. 
+
