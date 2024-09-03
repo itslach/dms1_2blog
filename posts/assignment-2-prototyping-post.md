@@ -120,4 +120,13 @@ I then created the last 6 icons, with their alternatives, but something wasn't r
         <div class="image-container"><img id="first2" src="newimages/first2.png" height="200" width="200"/></div>
     </div>
 
-   
+    ---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+I brainstormed some more relevant icon designs that could be used on a sleeping app, the concept behind my website would be that when selecting a specific icon, an audio was meant to play for the user while they sleep, and these unique sounds would help boost different aspects in the user's life. Such as they're; health, desires, sleep quality, meditation, relationships etc. I also decided to use a split complementary colour palette, utilising different shades of greens, accompanied by red and blue colours. Also moving forward I didn't want my icon alternatives to change radically like the previous icons, as the images in those completely changed when being pressed. The style for these new icons would be that, when clicked, the icon would would grow in scale, and a drop shadow and blur layer would be applied, to make it obvious to the user that the icon was selected.
