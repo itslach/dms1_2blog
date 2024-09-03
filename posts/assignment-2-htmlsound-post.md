@@ -98,3 +98,13 @@ Now that I had the system for the icon to change working, all I had to do was re
 <p class="custom-font">
 The two softwares above are where I gathered the audio for my icons. Youtube Audio was great for finding some inspiration for sounds and some basic sfx that I decided to use in my project, whereas Soundly was another great alternative I found, that in it's free subscription had over 300 different sfx to use. I decided it would be alot easier to use copyright free audio for my icons, rather than create my own sounds, and would allow me to be more creative with my choices. 
 
+## **LICENSING**
+
+All sounds used for my icons were copyright free media, I made careful consideration to make sure all the media was available for commercial/personal use. Soundly uses a User End License Agreement, which essentially means the user has license to use the products, but not have ownership over them, and Youtube uses the 'Youtube Audio Library License', in which users can use their free sounds throughout videos, monetized or not but cannot personally distribute any of Youtube's audio files for financial gains. Below you will find a list of the audio files I used accompanied by their; category, platform, and license type.
+
+<ul style="background-color: #f0f0f0; padding: 10px; list-style-type: square;">
+  <li>Water Running By, WATER, YOUTUBE | Youtube Audio Library License</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ul>
+
