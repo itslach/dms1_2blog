@@ -140,6 +140,7 @@ Now that I had the system for the icon to change working, all I had to do was re
 </style>
 
 <script>
+console.log("Script loaded"); // To check when the script itself is loaded
 function openModal(imgElement) {
   console.log("openModal called");
   var modal = document.getElementById("myModal");
