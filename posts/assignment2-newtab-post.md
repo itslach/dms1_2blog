@@ -111,17 +111,45 @@ After deciding on the blur texture to use on my icons, I began experimenting wit
     width: 100%;
     height: auto; /* Maintain aspect ratio */
   }
+
+   #icon1 { grid-column: 1; grid-row: 1; }  
+    #icon1.2 { grid-column: 2; grid-row: 1; }  
+  #icon2 { grid-column: 1; grid-row: 2; }  
+    #icon2.2 { grid-column: 2; grid-row: 2; } 
+  #icon3 { grid-column: 1; grid-row: 3; }  
+    #icon3.2 { grid-column: 2; grid-row: 3; } 
+  #icon4 { grid-column: 1; grid-row: 4; }  
+    #icon4.2 { grid-column: 2; grid-row: 4; } 
+  #icon5 { grid-column: 1; grid-row: 5; }  
+    #icon5.2 { grid-column: 2; grid-row: 5; } 
+  #icon6 { grid-column: 1; grid-row: 6; } 
+    #icon6.2 { grid-column: 2; grid-row: 6; } 
+  #icon7 { grid-column: 1; grid-row: 7; }  
+    #icon7.2 { grid-column: 2; grid-row: 7; } 
+  #icon8 { grid-column: 1; grid-row: 8; }  
+    #icon8.2 { grid-column: 2; grid-row: 8; } 
+  #icon9 { grid-column: 1; grid-row: 9; }  
+    #icon9.2 { grid-column: 2; grid-row: 9; } 
 </style>
 
 
 <div class="column">
         <div class="image-container"><img id="icon1" src="newimages/icon1.png" height="350" width="350"/></div>
-        <div class="image-container"><img id="icon1.2" src="newimages/icon2.png" height="350" width="350"/></div>
-        <div class="image-container"><img id="icon1.2" src="newimages/icon3.png" height="350" width="350"/></div>
-        <div class="image-container"><img id="icon1.2" src="newimages/icon4.png" height="350" width="350"/></div>
-        <div class="image-container"><img id="icon1.2" src="newimages/icon5.png" height="350" width="350"/></div>
-        <div class="image-container"><img id="icon1.2" src="newimages/icon6.png" height="350" width="350"/></div>
-        <div class="image-container"><img id="icon1.2" src="newimages/icon7.png" height="350" width="350"/></div>
-        <div class="image-container"><img id="icon1.2" src="newimages/icon8.png" height="350" width="350"/></div>
-        <div class="image-container"><img id="icon1.2" src="newimages/icon9.png" height="350" width="350"/></div>
+        <div class="image-container"><img id="icon1.2" src="newimages/icon1.2.png" height="350" width="350"/></div>
+        <div class="image-container"><img id="icon2" src="newimages/icon2.png" height="350" width="350"/></div>
+        <div class="image-container"><img id="icon2.2" src="newimages/icon2.2png" height="350" width="350"/></div>
+        <div class="image-container"><img id="icon3" src="newimages/icon3.png" height="350" width="350"/></div>
+        <div class="image-container"><img id="icon3.2" src="newimages/icon3.2.png" height="350" width="350"/></div>
+        <div class="image-container"><img id="icon4" src="newimages/icon4.png" height="350" width="350"/></div>
+        <div class="image-container"><img id="icon4.2" src="newimages/icon4.2.png" height="350" width="350"/></div>
+        <div class="image-container"><img id="icon5" src="newimages/icon5.png" height="350" width="350"/></div>
+        <div class="image-container"><img id="icon5.2" src="newimages/icon5.2.png" height="350" width="350"/></div>
+        <div class="image-container"><img id="icon6" src="newimages/icon6.png" height="350" width="350"/></div>
+        <div class="image-container"><img id="icon6.2" src="newimages/icon6.2.png" height="350" width="350"/></div>
+        <div class="image-container"><img id="icon7" src="newimages/icon7.png" height="350" width="350"/></div>
+        <div class="image-container"><img id="icon7.2" src="newimages/icon7.2.png" height="350" width="350"/></div>
+        <div class="image-container"><img id="icon8" src="newimages/icon8.png" height="350" width="350"/></div>
+        <div class="image-container"><img id="icon8.2" src="newimages/icon8.2.png" height="350" width="350"/></div>
+        <div class="image-container"><img id="icon9" src="newimages/icon9.png" height="350" width="350"/></div>
+        <div class="image-container"><img id="icon9.2" src="newimages/icon9.2.png" height="350" width="350"/></div>
     </div>
