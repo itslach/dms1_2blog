@@ -146,6 +146,13 @@ function openModal(imgElement) {
   var modalImg = document.getElementById("img01");
   modal.style.display = "flex"; // Use flex to center the modal
   modalImg.src = imgElement.src;
+  document.addEventListener("DOMContentLoaded", function() {
+    // Ensure no call to openModal() here
+});
+
+window.onload = function() {
+    // Ensure no call to openModal() here
+};
 }
 function closeModal() {
   var modal = document.getElementById("myModal");
