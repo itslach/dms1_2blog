@@ -112,6 +112,7 @@ All sounds used for my icons were copyright free media, I made careful considera
 <ul class="custom-list">
   <li>Water Running By - <strong>WATER</strong> - <strong>YOUTUBE</strong> | Youtube Audio Library License</li>
   <li>Crickets With Distant Traffic - <strong>AMBIENCES</strong> - <strong>YOUTUBE</strong> | Youtube Audio Library License </li>
+  <li>Voices,Baby,Laughing,Giggling - <strong>VOICES</strong> - <strong>SOUNDLY</strong> | End User License Agreement</li>
   <li>Item 3</li>
 </ul>
 
