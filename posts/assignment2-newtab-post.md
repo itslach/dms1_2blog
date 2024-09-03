@@ -62,3 +62,12 @@ After a few hours of experimenting I had come up with the first set of 9 icons, 
         <div class="image-container"><img id="texture2" src="alternates/02test.png" height="200" width="200"/></div>
         <div class="image-container"><img id="texture3" src="alternates/icon1.2.png" height="200" width="200"/></div>
     </div>
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+These were the first 3 icons textures I experimented with, one blur effect, one water ripple effect and a photocopy texture, i layered these textures over the original icon, and changed the opacity/blending mode to overlay, reducing the opacity to 50%.
