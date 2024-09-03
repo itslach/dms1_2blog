@@ -110,7 +110,7 @@ All sounds used for my icons were copyright free media, I made careful considera
 
 
 <ul class="custom-list">
-  <li>Water Running By, WATER, YOUTUBE | Youtube Audio Library License</li>
+  <li>Water Running By, <strong>WATER</strong>, YOUTUBE | Youtube Audio Library License</li>
   <li>Item 2</li>
   <li>Item 3</li>
 </ul>
@@ -129,6 +129,7 @@ All sounds used for my icons were copyright free media, I made careful considera
   display: inline-block; /* Ensure the background fits the text size */
   width: fit-content; /* The box only as wide as the content */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Light shadow for a subtle 3D effect */
+  font-family: Arial, sans-serif;
 }
 </style>
 
