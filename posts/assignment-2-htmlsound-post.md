@@ -153,3 +153,12 @@ function closeModal() {
 }
 </script>
 </body>
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+you can click on these images to enlarge them :)
