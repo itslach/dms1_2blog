@@ -11,7 +11,7 @@ image: /images/sketch5.jpg
 
 # **ICON EXPERIMENTING**
 
-<img src="new screenshots/screenshot1.png" alt="experimenting" width="1000" height="1000">
+<img src="ss1/screenshot1.png" alt="experimenting" width="1000" height="1000">
 
 ---
 
