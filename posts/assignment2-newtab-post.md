@@ -99,28 +99,27 @@ After deciding on the blur texture to use on my icons, I began experimenting wit
 ---
   
 ## **EACH ICON WITH IT'S ALTERNATIVE**
----
 
 <style>
    body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh; /* Ensure the body takes up the full viewport height */
-    margin: 0; /* Remove any default margin */
+    min-height: 100vh; 
+    margin: 0; 
   }
   
   .column {
     display: grid;
-    grid-template-columns: repeat(2, 1fr); /* Single column */
-    grid-template-rows: auto; /* Two rows */
-    gap: 10px; /* Optional: Add some space between the rows */
-    width: 700px; /* Set the width of the column */
+    grid-template-columns: repeat(2, 1fr); 
+    grid-template-rows: auto; 
+    gap: 10px; 
+    width: 700px; 
   }
 
   .image-container img {
     width: 100%;
-    height: auto; /* Maintain aspect ratio */
+    height: auto; 
   }
 
    #icon1 { grid-column: 1; grid-row: 1; }  
@@ -163,4 +162,23 @@ After deciding on the blur texture to use on my icons, I began experimenting wit
         <div class="image-container"><img id="icon8.2" src="newimages/icon8.2.png" height="350" width="350"/></div>
         <div class="image-container"><img id="icon9" src="newimages/icon9.png" height="350" width="350"/></div>
         <div class="image-container"><img id="icon9.2" src="newimages/icon9.2.png" height="350" width="350"/></div>
+    </div>
+
+---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+After creating alternatives for every icon, I was throughouly impressed with the final outcome for my icons. It felt like there was a strong family resemblance for every icon, by using the same colour palette, background shape and texture overlays. I was able to create a set of 9 icons that felt as if they belonged together and could potentially be used on a sleeping app for all ages. After exporting all my icons from illustrator to my desktop, the next step was to implement them into my html website, this was relatively easy as I had already experimented with the html website with my previous icons.
+
+## **ILLUSTRATOR AND EXPORTING**
+
+<div class="row">
+        <div class="image-container"><img id="illustrator" src="newimages/illustrator.png" height="200" width="200"/></div>
+        <div class="image-container"><img id="icons" src="newimages/updatedicons.png" height="200" width="200"/></div>
+        <div class="image-container"><img id="VSC" src="newimages/vsCODE.png" height="200" width="200"/></div>
     </div>
