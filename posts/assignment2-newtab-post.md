@@ -98,13 +98,24 @@ After deciding on the blur texture to use on my icons, I began experimenting wit
 
 ---
   
+## **EACH ICON WITH IT'S ALTERNATIVE**
+---
+
 <style>
+   body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Ensure the body takes up the full viewport height */
+    margin: 0; /* Remove any default margin */
+  }
+  
   .column {
     display: grid;
     grid-template-columns: repeat(2, 1fr); /* Single column */
-    grid-template-rows: repeat(2, auto); /* Two rows */
+    grid-template-rows: auto; /* Two rows */
     gap: 10px; /* Optional: Add some space between the rows */
-    width: 350px; /* Set the width of the column */
+    width: 700px; /* Set the width of the column */
   }
 
   .image-container img {
