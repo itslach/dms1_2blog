@@ -112,7 +112,9 @@ Now that I had the system for the icon to change working, all I had to do was re
         text-decoration: none;
         cursor: pointer;
     }
-</style>
+  </style>
+</head>
+<body>
 
 <!-- AUDIO SOURCES -->
 
@@ -141,12 +143,13 @@ function openModal(imgElement) {
 }
 
 function closeModal() {
+   console.log("closeModal called");
     var modal = document.getElementById("myModal");
     modal.style.display = "none"; // Hide the modal
 }
 
 // No need to add any event listeners or onload functions here
 </script>
-
+</body>
 
 *you can click on these images to enlarge them :)*
