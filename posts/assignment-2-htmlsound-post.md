@@ -140,6 +140,5 @@ Now that I had the system for the icon to change working, all I had to do was re
     cursor: pointer;
 }
 
-
 </style>
 
