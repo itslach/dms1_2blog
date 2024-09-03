@@ -116,6 +116,7 @@ All sounds used for my icons were copyright free media, I made careful considera
   <li>Wind,Vegetation,Forest,Leaves 01 - <strong>WIND</strong> - <strong>SOUNDLY</strong> | End User License Agreement</li>
   <li>Ambience,School,High School,Yard - <strong>Ambience</strong> - <strong>SOUNDLY</strong> | End User License Agreement</li>
   <li>Human,Snore,Male Snoring 02 - <strong>HUMAN</strong> - <strong>SOUNDLY</strong> | End User License Agreement</li>
+  <li>Musical,Chime,Wind Chimes,Ringing - <strong>MUSICAL</strong> - <strong>SOUNDLY</strong> | End User License Agreement</li>
 </ul>
 
 <style>
