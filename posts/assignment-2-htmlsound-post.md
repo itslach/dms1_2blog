@@ -9,6 +9,18 @@ image: /images/sketch7.jpg
 
 <img src="https://www.hardjewelry.com/cdn/shop/files/ezgif.com-gif-maker_3.gif?v=1649272041" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
 
+<style>
+        .row{
+            width:720px;
+            margin: 10px auto 10px auto ;
+        }
+        .image-container {
+            display: table-cell;
+            vertical-align: middle;
+            padding:20px;
+        }
+ </style>
+
 ># **ICONS ON HTML WEBSITE**
 
 <img src="ss1/establishing.png" alt="firstss" width="500" height="500">
@@ -68,88 +80,11 @@ Now that I had the system for the icon to change working, all I had to do was re
 
 ># **ICON SOUND EXPERIMENTING**
 
-<style>
-    .row {
-        width: 720px;
-        margin: 10px auto;
-    }
-    .image-container {
-        display: inline-block;
-        padding: 20px;
-        vertical-align: middle;
-    }
-    .modal {
-        display: none; /* Hidden by default */
-        position: fixed; /* Stay in place */
-        z-index: 1; /* Sit on top */
-        left: 0;
-        top: 0;
-        width: 100%; /* Full width */
-        height: 100%; /* Full height */
-        overflow: auto; /* Enable scroll if needed */
-        background-color: rgba(0, 0, 0, 0.9); /* Black w/ opacity */
-        display: flex; /* Flexbox for centering */
-        align-items: center; /* Center vertically */
-        justify-content: center; /* Center horizontally */
-    }
-    .modal-content {
-        max-width: 80%;
-        max-height: 80%;
-        border-radius: 8px;
-    }
-    .close {
-        position: absolute;
-        top: 10px;
-        right: 25px;
-        color: #f1f1f1;
-        font-size: 40px;
-        font-weight: bold;
-        transition: 0.3s;
-    }
-    .close:hover,
-    .close:focus {
-        color: #bbb;
-        text-decoration: none;
-        cursor: pointer;
-    }
-  </style>
-</head>
-<body>
+**AUDIO SOURCES**
 
-<!-- AUDIO SOURCES -->
+
 
 <div class="row">
-    <div class="image-container">
-        <img id="sound" src="ss1/soundly.png" height="350" width="350" onclick="openModal(this)">
+        <div class="image-container"><img id="draft" src="ss1/sstudio.png" height="400" width="400"/></div>
+        <div class="image-container"><img id="experiment" src="ss1/soundly.png" height="400" width="400"/></div>
     </div>
-    <div class="image-container">
-        <img id="youtubestudio" src="ss1/studio.png" height="350" width="350" onclick="openModal(this)">
-    </div>
-</div>
-
-<!-- The Modal -->
-<div id="myModal" class="modal">
-    <span class="close" onclick="closeModal()">&times;</span>
-    <img class="modal-content" id="img01">
-</div>
-
-<script>
-function openModal(imgElement) {
-    console.log("openModal called"); // Debugging log
-    var modal = document.getElementById("myModal");
-    var modalImg = document.getElementById("img01");
-    modal.style.display = "flex"; // Show the modal
-    modalImg.src = imgElement.src; // Set the image source to the clicked image
-}
-
-function closeModal() {
-   console.log("closeModal called");
-    var modal = document.getElementById("myModal");
-    modal.style.display = "none"; // Hide the modal
-}
-
-// No need to add any event listeners or onload functions here
-</script>
-</body>
-
-*you can click on these images to enlarge them :)*
