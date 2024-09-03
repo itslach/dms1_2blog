@@ -25,6 +25,14 @@ image: /images/sketch2.jpg
 ># **ASSIGNMENT 2 ICONS_*SLEEP SENSE***
 
 <div class="row">
+        <div class="image-container"><img id="icon2" src="newimages/icon1.png" height="200" width="200"/></div>
+        <div class="image-container"><img id="icon3" src="newimages/icon2.png" height="200" width="200"/></div>
+        <div class="image-container"><img id="icon4" src="newimages/icon3.png" height="200" width="200"/></div>
+    </div>
+
+---
+
+<div class="row">
         <div class="image-container"><img id="icon2" src="newimages/icon4.png" height="200" width="200"/></div>
         <div class="image-container"><img id="icon3" src="newimages/icon5.png" height="200" width="200"/></div>
         <div class="image-container"><img id="icon4" src="newimages/icon6.png" height="200" width="200"/></div>
