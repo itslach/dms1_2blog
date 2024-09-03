@@ -117,7 +117,8 @@ All sounds used for my icons were copyright free media, I made careful considera
   <li>Ambience,School,High School,Yard - <strong>AMBIENCE</strong> - <strong>SOUNDLY</strong> | End User License Agreement</li>
   <li>Human,Snore,Male Snoring 02 - <strong>HUMAN</strong> - <strong>SOUNDLY</strong> | End User License Agreement</li>
   <li>Musical,Chime,Wind Chimes,Ringing - <strong>MUSICAL</strong> - <strong>SOUNDLY</strong> | End User License Agreement</li>
-  <li>Designed,Drone,Short,Dark,Ominous Swells - <strong>DRONE</strong> - <strong>SOUNDLY</strong> | End User License Agreement</li>
+  <li>Designed,Drone,Dark,Ominous Swells - <strong>DRONE</strong> - <strong>SOUNDLY</strong> | End User License Agreement</li>
+  <li>Magic,Elemental,Ice Spell,Shimmer - <strong>MAGIC</strong> - <strong>SOUNDLY</strong> | End User License Agreement</li>
 </ul>
 
 <style>
