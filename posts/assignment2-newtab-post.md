@@ -70,4 +70,12 @@ After a few hours of experimenting I had come up with the first set of 9 icons, 
 </style>
 
 <p class="custom-font">
-These were the first 3 icons textures I experimented with, one blur effect, one water ripple effect and a photocopy texture, i layered these textures over the original icon, and changed the opacity/blending mode to overlay, reducing the opacity to 50%.
+These were the first 3 icons textures I experimented with, one blur effect, one water ripple effect and a photocopy texture, i layered these textures over the original icon, and changed the opacity/blending mode to overlay, reducing the opacity to 50%. I ultimately decided to use the third blur effect, as it was very subtle, adding a small amount of blur/shine to the icon, which is what I was after. In these images I had also quickly added a drop shadow and changed the heart colour to red, although I continuely experimented with these values.
+
+---
+
+<div class="row">
+        <div class="image-container"><img id="shadow1" src="alternates/03test.png" height="200" width="200"/></div>
+        <div class="image-container"><img id="shadow2" src="alternates/04test.png" height="200" width="200"/></div>
+        <div class="image-container"><img id="shadow3" src="alternates/05test.png" height="200" width="200"/></div>
+    </div>
