@@ -33,6 +33,7 @@ I started uploading my icons to my html by adding style css to the < head > of m
 I then added in the DIV containers, the purpose of these is to hold all the image information for each icon. In each div container I added 3 icons, clarifying their; class, image source, image ID and the height and width of each image. The image source tells the machine where to retrieve the image from and the image ID is a value that will be useful later on when adding the alternative image.
 
 ---
+# **THE HTML PAGE LAYOUT**
 
 <img src="ss1/html.png" alt="firstss" width="500" height="500">
 
