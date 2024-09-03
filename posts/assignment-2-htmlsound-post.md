@@ -118,6 +118,10 @@ Now that I had the system for the icon to change working, all I had to do was re
     display: block;
     width: 80%;
     max-width: 700px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .close {
