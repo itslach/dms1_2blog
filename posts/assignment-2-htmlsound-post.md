@@ -54,3 +54,16 @@ The next step once everything on the html was loading properly was to add in new
  **VIDEO EXAMPLE OF ICON 1 CHANGE**
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/792e540572e646cf9f48f9aa1c661834?sid=c478e244-0d31-447a-b34a-5bdd27b9e8db" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+Now that I had the system for the icon to change working, all I had to do was repeat the same code for the other 8 icons, and find/or record another 8 audio samples for the icons. My first idea for the audio would be that the audio that plays when pressing the icon would be a sample snippet of each sleep sound.
+
+># **ICON SOUND EXPERIMENTING**
