@@ -12,3 +12,4 @@ export default function Blog404Page(props: PageProps<Post[]>) {
     </main>
   );
 }
+
