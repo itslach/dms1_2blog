@@ -139,7 +139,6 @@ Now that I had the system for the icon to change working, all I had to do was re
 
 </style>
 
-</div>
 <script>
 function openModal(imgElement) {
   console.log("openModal called");
