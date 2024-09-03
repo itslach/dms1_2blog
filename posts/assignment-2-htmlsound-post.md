@@ -115,6 +115,7 @@ Now that I had the system for the icon to change working, all I had to do was re
 </style>
 
 <!-- AUDIO SOURCES -->
+
 <div class="row">
     <div class="image-container">
         <img id="sound" src="ss1/soundly.png" height="350" width="350" onclick="openModal(this)">
@@ -132,16 +133,20 @@ Now that I had the system for the icon to change working, all I had to do was re
 
 <script>
 function openModal(imgElement) {
+    console.log("openModal called"); // Debugging log
     var modal = document.getElementById("myModal");
     var modalImg = document.getElementById("img01");
-    modal.style.display = "flex"; // Use flex to center the modal
-    modalImg.src = imgElement.src;
+    modal.style.display = "flex"; // Show the modal
+    modalImg.src = imgElement.src; // Set the image source to the clicked image
 }
 
 function closeModal() {
     var modal = document.getElementById("myModal");
-    modal.style.display = "none";
+    modal.style.display = "none"; // Hide the modal
 }
+
+// No need to add any event listeners or onload functions here
 </script>
+
 
 *you can click on these images to enlarge them :)*
