@@ -45,3 +45,20 @@ image: /images/sketch2.jpg
         <div class="image-container"><img id="icon3" src="newimages/icon8.png" height="200" width="200"/></div>
         <div class="image-container"><img id="icon4" src="newimages/icon9.png" height="200" width="200"/></div>
     </div>
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+After a few hours of experimenting I had come up with the first set of 9 icons, I believe that with the desired concept in mind, these icons did extremely well to adhere to the brief of the assignment and well align with the sleep sounds app. Each icon differently represented aspects to sleeping and dreaming, with the idea that each image represents an aspect to life that the user may dream about, with the idea that when the icon is selected, the specific audio that plays will help the user to boost different parts of their livelihood.
+
+## **EXPERIMENTING WITH ALTERNATE ICONS**
+
+<div class="row">
+        <div class="image-container"><img id="texture1" src="alternates/01test.png" height="200" width="200"/></div>
+        <div class="image-container"><img id="texture2" src="alternates/02test.png" height="200" width="200"/></div>
+        <div class="image-container"><img id="texture3" src="alternates/icon1.2.png" height="200" width="200"/></div>
+    </div>
