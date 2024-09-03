@@ -82,8 +82,6 @@ Now that I had the system for the icon to change working, all I had to do was re
 
 **AUDIO SOURCES**
 
-
-
 <div class="row">
     <div class="image-container">
         <img id="sound" src="ss1/soundly.png" height="350" width="350" onclick="openModal(this)">
@@ -109,25 +107,23 @@ Now that I had the system for the icon to change working, all I had to do was re
     width: 100%; /* Full width */
     height: 100%; /* Full height */
     overflow: auto; /* Enable scroll if needed */
-    background-color: rgb(0, 0, 0); /* Fallback color */
     background-color: rgba(0, 0, 0, 0.9); /* Black w/ opacity */
+    
+    display: flex; /* Flexbox for centering */
+    align-items: center; /* Center vertically */
+    justify-content: center; /* Center horizontally */
 }
 
 .modal-content {
-    margin: auto;
-    display: block;
-    width: 80%;
-    max-width: 700px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    max-width: 80%;
+    max-height: 80%;
+    border-radius: 8px;
 }
 
 .close {
     position: absolute;
-    top: 15px;
-    right: 35px;
+    top: 10px;
+    right: 25px;
     color: #f1f1f1;
     font-size: 40px;
     font-weight: bold;
@@ -148,7 +144,7 @@ Now that I had the system for the icon to change working, all I had to do was re
 function openModal(imgElement) {
   var modal = document.getElementById("myModal");
   var modalImg = document.getElementById("img01");
-  modal.style.display = "block";
+  modal.style.display = "flex"; // Use flex to center the modal
   modalImg.src = imgElement.src;
 }
 function closeModal() {
