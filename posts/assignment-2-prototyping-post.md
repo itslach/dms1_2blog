@@ -120,7 +120,7 @@ I then created the last 6 icons, with their alternatives, but something wasn't r
         <div class="image-container"><img id="first2" src="newimages/first2.png" height="200" width="200"/></div>
     </div>
 
-    ---
+---
 
 <style>
   .custom-font {
