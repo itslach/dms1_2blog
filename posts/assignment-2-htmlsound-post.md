@@ -139,4 +139,22 @@ All sounds used for my icons were copyright free media, I made careful considera
 }
 </style>
 
+---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+After I had acquired all my desired sounds, I had to put them through audition to make them fit to how I needed them. Firstly I had to cut every sound bite to be 2 seconds, as this is the duration of time that each icon would change for. After trimming each clip, the next step is to add a small fade to the beginning and end of the audio clip, this is to avoid any clicking of the sound at the start of each play, and ultimately make it alot smoother. Lastly before exporting I had to Normalize the audio and compression of the file, this helps to make all the quieter parts of the snippet louder without the audio clipping. Below is screenshots of me completing this process.
+
+
+<div class="row">
+        <div class="image-container"><img id="draft" src="ss1/snipping.png" height="200" width="200"/></div>
+        <div class="image-container"><img id="experiment" src="ss1/fade in.png" height="200" width="200"/></div>
+        <div class="image-container"><img id="first2" src="ss1/normalize.png" height="200" width="200"/></div>
+    </div>
+
 
