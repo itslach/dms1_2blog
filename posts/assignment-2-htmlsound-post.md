@@ -69,19 +69,52 @@ Now that I had the system for the icon to change working, all I had to do was re
 ># **ICON SOUND EXPERIMENTING**
 
 <style>
-        .row{
-            width:720px;
-            margin: 10px auto 10px auto ;
-        }
-        .image-container {
-            display: table-cell;
-            vertical-align: middle;
-            padding:20px;
-        }
- </style>
+    .row {
+        width: 720px;
+        margin: 10px auto;
+    }
+    .image-container {
+        display: inline-block;
+        padding: 20px;
+        vertical-align: middle;
+    }
+    .modal {
+        display: none; /* Hidden by default */
+        position: fixed; /* Stay in place */
+        z-index: 1; /* Sit on top */
+        left: 0;
+        top: 0;
+        width: 100%; /* Full width */
+        height: 100%; /* Full height */
+        overflow: auto; /* Enable scroll if needed */
+        background-color: rgba(0, 0, 0, 0.9); /* Black w/ opacity */
+        display: flex; /* Flexbox for centering */
+        align-items: center; /* Center vertically */
+        justify-content: center; /* Center horizontally */
+    }
+    .modal-content {
+        max-width: 80%;
+        max-height: 80%;
+        border-radius: 8px;
+    }
+    .close {
+        position: absolute;
+        top: 10px;
+        right: 25px;
+        color: #f1f1f1;
+        font-size: 40px;
+        font-weight: bold;
+        transition: 0.3s;
+    }
+    .close:hover,
+    .close:focus {
+        color: #bbb;
+        text-decoration: none;
+        cursor: pointer;
+    }
+</style>
 
-**AUDIO SOURCES**
-
+<!-- AUDIO SOURCES -->
 <div class="row">
     <div class="image-container">
         <img id="sound" src="ss1/soundly.png" height="350" width="350" onclick="openModal(this)">
@@ -97,69 +130,18 @@ Now that I had the system for the icon to change working, all I had to do was re
     <img class="modal-content" id="img01">
 </div>
 
-<style>
-    .modal {
-    display: none; /* Hidden by default */
-    position: fixed; /* Stay in place */
-    z-index: 1; /* Sit on top */
-    left: 0;
-    top: 0;
-    width: 100%; /* Full width */
-    height: 100%; /* Full height */
-    overflow: auto; /* Enable scroll if needed */
-    background-color: rgba(0, 0, 0, 0.9); /* Black w/ opacity */
-    
-    display: flex; /* Flexbox for centering */
-    align-items: center; /* Center vertically */
-    justify-content: center; /* Center horizontally */
-}
-
-.modal-content {
-    max-width: 80%;
-    max-height: 80%;
-    border-radius: 8px;
-}
-
-.close {
-    position: absolute;
-    top: 10px;
-    right: 25px;
-    color: #f1f1f1;
-    font-size: 40px;
-    font-weight: bold;
-    transition: 0.3s;
-}
-
-.close:hover,
-.close:focus {
-    color: #bbb;
-    text-decoration: none;
-    cursor: pointer;
-}
-
-</style>
-
 <script>
-console.log("Script loaded"); // To check when the script itself is loaded
 function openModal(imgElement) {
-  console.log("openModal called");
-  var modal = document.getElementById("myModal");
-  var modalImg = document.getElementById("img01");
-  modal.style.display = "flex"; // Use flex to center the modal
-  modalImg.src = imgElement.src;
-  document.addEventListener("DOMContentLoaded", function() {
-    // Ensure no call to openModal() here
-});
-
-window.onload = function() {
-    // Ensure no call to openModal() here
-};
+    var modal = document.getElementById("myModal");
+    var modalImg = document.getElementById("img01");
+    modal.style.display = "flex"; // Use flex to center the modal
+    modalImg.src = imgElement.src;
 }
+
 function closeModal() {
-  var modal = document.getElementById("myModal");
-  modal.style.display = "none";
+    var modal = document.getElementById("myModal");
+    modal.style.display = "none";
 }
 </script>
-</body>
 
 *you can click on these images to enlarge them :)*
