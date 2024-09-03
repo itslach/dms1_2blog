@@ -101,7 +101,7 @@ After deciding on the blur texture to use on my icons, I began experimenting wit
 <style>
   .column {
     display: grid;
-    grid-template-columns: 2fr; /* Single column */
+    grid-template-columns: repeat(2, 1fr); /* Single column */
     grid-template-rows: repeat(2, auto); /* Two rows */
     gap: 10px; /* Optional: Add some space between the rows */
     width: 350px; /* Set the width of the column */
