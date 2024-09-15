@@ -9,8 +9,11 @@ image: /images/sketch4.jpg
 
 <img src="https://www.hardjewelry.com/cdn/shop/files/ezgif.com-gif-maker_3.gif?v=1649272041" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
 
-># **GAME IDEA BRAINSTORMING**
-<img src="ss1/html.png" alt="firstss" width="500" height="500">
+># **INITIAL BRAINSTORMING**
+
+<img src="UnityDocumentation/brainstorming1.jpeg" alt="firstss" width="500" height="500">
+
+<img src="UnityDocumentation/brainstorming2.jpeg" alt="firstss" width="500" height="500">
 
 ---
 ## **BRAINSTORMING INSIGHT**
