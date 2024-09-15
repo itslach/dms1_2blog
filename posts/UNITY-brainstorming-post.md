@@ -11,7 +11,7 @@ image: /images/sketch4.jpg
 
 ># **INITIAL BRAINSTORMING**
 
-<div style="display: flex; justify-content: space-between; gap: 20px; margin: 0 auto; width: fit-content;">
+<div style="display: flex; justify-content: center; gap: 20px; margin: 0 auto; width: fit-content;">
   <img src="UnityDocumentation/brainstorming1.jpeg" alt="firstss" width="500" height="500">
   <img src="UnityDocumentation/brainstorming2.jpeg" alt="firstss" width="500" height="500">
 </div>
@@ -32,7 +32,7 @@ image: /images/sketch4.jpg
 
 ## **MAP ITERATIONS**
 
-<div style="display: flex; justify-content: space-between; gap: 20px; margin: 0 auto; width: fit-content;">
+<div style="display: flex; justify-content: center; gap: 20px; margin: 0 auto; width: fit-content;">
   <img src="UnityDocumentation/map1.1.jpeg" alt="firstss" width="500" height="500">
   <img src="UnityDocumentation/map1.2.jpeg" alt="firstss" width="500" height="500">
 </div>
