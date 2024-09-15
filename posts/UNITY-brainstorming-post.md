@@ -11,9 +11,11 @@ image: /images/sketch4.jpg
 
 ># **INITIAL BRAINSTORMING**
 
-<img src="UnityDocumentation/brainstorming1.jpeg" alt="firstss" width="500" height="500">
+<div style="display: flex; justify-content: space-between;">
+  <img src="UnityDocumentation/brainstorming1.jpeg" alt="firstss" width="500" height="500">
+  <img src="UnityDocumentation/brainstorming2.jpeg" alt="firstss" width="500" height="500">
+</div>
 
-<img src="UnityDocumentation/brainstorming2.jpeg" alt="firstss" width="500" height="500">
 
 ---
 ## **BRAINSTORMING INSIGHT**
