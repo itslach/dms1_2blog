@@ -27,6 +27,15 @@ image: /images/sketch4.jpg
 </style>
 
 <p class="custom-font">
+Initially, when reading through the brief for assignment 3, I had a variety of possible ideas I wanted to pursue, my first idea was to create an expansive open terrain environment, that a player would traverse through during a quicker day-night cycle, with lots of random, player triggered events occuring, the open-environment map would have different water aspects for the player to traverse over and high mountain ranges. I also knew I wanted to implement some sort of npc and interaction system, to create a companion for the player that would guide them through the map.
+
+### **INSPIRATION**
+
+<div style="display: flex; justify-content: center; gap: 20px; margin: 0 auto; width: fit-content;">
+  <img src="UnityDocumentation/breath.jpg" alt="firstss" width="500" height="500">
+  <img src="UnityDocumentation/lowpolydude.webp" alt="firstss" width="500" height="500">
+  <img src="UnityDocumentation/lowpolymap.png" alt="firstss" width="500" height="500">
+</div>
 
 
 
