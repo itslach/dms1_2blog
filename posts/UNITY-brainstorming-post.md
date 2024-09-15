@@ -57,6 +57,7 @@ Initially, when reading through the brief for assignment 3, I had a variety of p
 My second idea was to create a PS1, semi-open world game. During this time I was highly interested in retro/indie style ps1 horror games, these tended to be made by smaller teams/projects and are highly unappreciated. This idea also stood out to me as I had experience creating within this field, during my time in highschool, I spent a year creating a ps1 style procedural horror game for my multimedia major project, which meant I had some level of experience not only creating environments for this genre, but also designing and creating 3D assets, shaders and textures.
 
 ### **PS1 INSPIRATION**
+
 <div style="display: flex; justify-content: center; gap: 20px; margin: 0 auto; width: fit-content;">
     <div style="text-align: left;">
         <img src="UnityDocumentation/bloodwash.webp" alt="firstss" width="800" height="800">
@@ -70,6 +71,8 @@ My second idea was to create a PS1, semi-open world game. During this time I was
         <p style="font-family: 'Courier New', Courier, monospace;">Buckshot Roulette, 2023</p>
     </div>
 </div>
+
+---
 
 ## **MAP ITERATIONS**
 
