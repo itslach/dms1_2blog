@@ -63,7 +63,7 @@ My second idea was to create a PS1, semi-open world game. During this time I was
         <img src="UnityDocumentation/bloodwash.webp" alt="firstss" width="800" height="800">
         <p style="font-family: 'Courier New', Courier, monospace;">bloodwash, 2021</p> 
     <div style="text-align: left;">
-        <img src="UnityDocumentation/silenthill.gif" alt="firstss" width="800" height="800">
+        <img src="UnityDocumentation/silent hill.gif" alt="firstss" width="800" height="800">
         <p style="font-family: 'Courier New', Courier, monospace;">Silent Hill, 1999</p>
     </div>
     <div style="text-align: left;">
