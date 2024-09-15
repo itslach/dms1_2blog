@@ -32,20 +32,20 @@ Initially, when reading through the brief for assignment 3, I had a variety of p
 ### **INSPIRATION**
 <div style="display: flex; justify-content: center; gap: 20px; margin: 0 auto; width: fit-content;">
     <div style="text-align: center;">
-        <img src="UnityDocumentation/breath.jpg" alt="firstss" width="500" height="500">
-        <p>Legend of Zelda, Breath of the Wild, 2017</p>
+        <img src="UnityDocumentation/breath.jpg" alt="firstss" width="600" height="600">
+        ```markdown
+        <p style="font-family: 'Courier New', Courier, monospace;">Legend of Zelda, Breath of the Wild, 2017</p>
+        ```
     </div>
     <div style="text-align: center;">
-        <img src="UnityDocumentation/lowpolydude.webp" alt="firstss" width="500" height="500">
+        <img src="UnityDocumentation/lowpolydude.webp" alt="firstss" width="600" height="600">
         <p>Sludge Life, 2020</p>
     </div>
     <div style="text-align: center;">
-        <img src="UnityDocumentation/eldenring.jpg" alt="firstss" width="500" height="500">
+        <img src="UnityDocumentation/eldenring.jpg" alt="firstss" width="600" height="600">
         <p>Elden Ring, 2022</p>
     </div>
 </div>
-
-
 
 ## **MAP ITERATIONS**
 
