@@ -122,3 +122,14 @@ When the player reaches the lake, a 'player triggered event' would start, in whi
 
 <p class="custom-font">
 When the player reaches the portal, there will be a 4th NPC standing by the portal, who tries to convince the player that a great evil lies beyond the portal, and that they will regret going through. The player must decide whether they want to take the risk and ultimately traverse through the portal to the second map.
+
+### **SECOND MAP**
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+The second map is a significantly smaller area, that presents itself as a semi-open world environment, still restricting the player to explore within an intended space.
