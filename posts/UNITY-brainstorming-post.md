@@ -82,4 +82,15 @@ My second idea was to create a PS1, semi-open world game. During this time I was
 <div style="display: flex; justify-content: center; gap: 20px; margin: 0 auto; width: fit-content;">
   <img src="UnityDocumentation/map1.1.jpeg" alt="firstss" width="500" height="500">
   <img src="UnityDocumentation/map1.2.jpeg" alt="firstss" width="500" height="500">
+  <img src="UnityDocumentation/map2.jpeg" alt="firstss" width="500" height="500">
 </div>
+
+### **MAP CONTEXT**
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
