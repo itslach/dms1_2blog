@@ -58,19 +58,22 @@ My second idea was to create a PS1, semi-open world game. During this time I was
 
 ### **PS1 INSPIRATION**
 
+
 <div style="display: flex; justify-content: center; gap: 20px; margin: 0 auto; width: fit-content;">
-    <div style="text-align: left;">
-        <img src="UnityDocumentation/bloodwash.webp" alt="firstss" width="800" height="800">
+    <div style="text-align: center;">
+        <img src="UnityDocumentation/bloodwash.webp" alt="bloodwash" width="800" height="800">
         <p style="font-family: 'Courier New', Courier, monospace;">bloodwash, 2021</p> 
-    <div style="text-align: left;">
-        <img src="UnityDocumentation/silent hill.gif" alt="firstss" width="800" height="800">
+    </div>
+    <div style="text-align: center;">
+        <img src="UnityDocumentation/silent hill.gif" alt="Silent Hill" width="800" height="800">
         <p style="font-family: 'Courier New', Courier, monospace;">Silent Hill, 1999</p>
     </div>
-    <div style="text-align: left;">
-        <img src="UnityDocumentation/buckshot.gif" alt="firstss" width="800" height="800">
+    <div style="text-align: center;">
+        <img src="UnityDocumentation/buckshot.gif" alt="Buckshot Roulette" width="800" height="800">
         <p style="font-family: 'Courier New', Courier, monospace;">Buckshot Roulette, 2023</p>
     </div>
 </div>
+
 
 ---
 
