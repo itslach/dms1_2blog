@@ -79,10 +79,20 @@ My second idea was to create a PS1, semi-open world game. During this time I was
 
 # **MAP ITERATIONS**
 
-<div style="display: flex; justify-content: center; gap: 20px; margin: 0 auto; width: fit-content;">
-  <img src="UnityDocumentation/map1.1.jpeg" alt="firstss" width="500" height="500">
-  <img src="UnityDocumentation/map1.2.jpeg" alt="firstss" width="500" height="500">
-  <img src="UnityDocumentation/map2.jpeg" alt="firstss" width="500" height="500">
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <div style="text-align: center;">
+        <img src="UnityDocumentation/map1.1.jpeg" alt="bloodwash" width="800" height="800">
+        <p style="font-family: 'Courier New', Courier, monospace;">Nature Environment</p> 
+    </div>
+    <div style="text-align: center;">
+        <img src="UnityDocumentation/map1.2.jpeg" alt="Silent Hill" width="800" height="800">
+        <p style="font-family: 'Courier New', Courier, monospace;">Nature Environment.2</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="UnityDocumentation/map2.jpeg" alt="Buckshot Roulette" width="800" height="800">
+        <p style="font-family: 'Courier New', Courier, monospace;">Urban Environment</p>
+    </div>
 </div>
 
 ## **MAP CONTEXT**
