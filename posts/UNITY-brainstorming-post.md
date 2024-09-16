@@ -85,7 +85,7 @@ My second idea was to create a PS1, semi-open world game. During this time I was
   <img src="UnityDocumentation/map2.jpeg" alt="firstss" width="500" height="500">
 </div>
 
-### **MAP CONTEXT**
+## **MAP CONTEXT**
 
 <style>
   .custom-font {
