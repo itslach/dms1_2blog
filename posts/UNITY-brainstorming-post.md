@@ -58,11 +58,10 @@ My second idea was to create a PS1, semi-open world game. During this time I was
 
 ### **PS1 INSPIRATION**
 
-
 <div style="display: flex; justify-content: center; gap: 20px;">
     <div style="text-align: center;">
         <img src="UnityDocumentation/bloodwash.webp" alt="bloodwash" width="800" height="800">
-        <p style="font-family: 'Courier New', Courier, monospace;">bloodwash, 2021</p> 
+        <p style="font-family: 'Courier New', Courier, monospace;">Bloodwash, 2021</p> 
     </div>
     <div style="text-align: center;">
         <img src="UnityDocumentation/silent hill.gif" alt="Silent Hill" width="800" height="800">
@@ -74,11 +73,25 @@ My second idea was to create a PS1, semi-open world game. During this time I was
     </div>
 </div>
 
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <div style="text-align: center;">
+        <img src="UnityDocumentation/rewind.jpg" alt="bloodwash" width="800" height="800">
+        <p style="font-family: 'Courier New', Courier, monospace;">Rewind Or Die, 2023</p> 
+    </div>
+    <div style="text-align: center;">
+        <img src="UnityDocumentation/deadlynight.gif" alt="Silent Hill" width="800" height="800">
+        <p style="font-family: 'Courier New', Courier, monospace;">Deadly Night, 2020</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="UnityDocumentation/hell.png" alt="Buckshot Roulette" width="800" height="800">
+        <p style="font-family: 'Courier New', Courier, monospace;">Night at the Gates Of Hell, 2022</p>
+    </div>
+</div>
+
 
 ---
 
 # **MAP ITERATIONS**
-
 
 <div style="display: flex; justify-content: center; gap: 20px;">
     <div style="text-align: center;">
