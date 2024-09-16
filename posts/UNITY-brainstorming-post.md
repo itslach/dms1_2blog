@@ -94,3 +94,31 @@ My second idea was to create a PS1, semi-open world game. During this time I was
 </style>
 
 <p class="custom-font">
+When designing the first map for the player, I started by creating a random shape on my page, leaving a cut in the land for a water gate, as I knew I wanted to have a water system running through the middle of the map, after designing the inital shape, I created the mountain ranges along the outside of the map, the idea for this map was for it to be a lone island in the middle of the ocean, because I was using this idea it wasn't necessary to implement invisible colliders along the edges of the map, was I creaated mountain ranges I designed a simple guide path and tree population spots, the path was intended to be a simple sand path, providing the player with possible routes they may take. 
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+After creating the base of the map, I put in the loot spots and NPC's, there was intended to be atleast 4 NPCs across the map, although only 3 of them would be interactable, it would be crucial for the player to interact with these NPC's for guidance and lore. I had desired to place 2 loot areas in the map, for important items, the first spot was under a 'great tree' which will be a tree significantly larger than the others, drawing the player to it they would find a note with instructions of reaching a 'portal'. The second loot spot was at the base of a mountain, the player would reach a split path to reach this chest, in which they have to pick option 1 to find the chest and acquire a key to unlock the portal, if the player picks option 2 (going right), they would ultimately reach the portal and be unable to traverse, in which they would be given a hint of where to go and backtrack to the split option area.
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+When the player reaches the lake, a 'player triggered event' would start, in which a second, small island rises from within the lake, surrounded by several, smaller platforms for the player to parkour up to the island. Once the player reaches the top, they will find a collectionof trees, with a mysterious NPC standing beneath the trees. The NPC informs the player they are their father and that they must find the portal and go through it to unlock their future.
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+When the player reaches the portal, there will be a 4th NPC standing by the portal, who tries to convince the player that a great evil lies beyond the portal, and that they will regret going through. The player must decide whether they want to take the risk and ultimately traverse through the portal to the second map.
