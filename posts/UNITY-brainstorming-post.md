@@ -155,4 +155,4 @@ When the player reaches the portal, there will be a 4th NPC standing by the port
 </style>
 
 <p class="custom-font">
-The second map is a significantly smaller area, that presents itself as a semi-open world environment, still restricting the player to explore within an intended space.
+The second map is a significantly smaller area, that presents itself as a semi-open world environment, still restricting the player to explore within an intended space. I wanted to create a engaging environment that would be like taking a chunk out of a city, with one side being a residential/park style area, and the opposite side being some sort of business/shopping area. The map would be presenting several sounds to the player as they traverse the environment. Ranging from ambient, situational sound effects, to different musical harmonic pieces and some urban sfx; cars driving, beeping, dialogue, AC machines etc. With all these different sounds working together, they would effectively encapsulate the player into the scene and create a stronger sense of immersion.
