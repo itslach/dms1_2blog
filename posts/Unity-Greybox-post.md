@@ -40,3 +40,22 @@ After creating the terrain, I began to use simple shapes to gather an idea of wh
 <img src="UnityDocumentation\grey2.gif" alt="greyboxgif1" width="1000" height="1000">
 
 ---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+The updated Greybox Terrain involved taking the generation of the Terrain to the next step of adding several different textures to the Terrain. (Also for both of these terrains, I had already created an implemented a water system before making the terrain, this was done because I wanted to mold the terrain layout around/using the existing water.) I created grass + dirt textures, which I applied first to the entire terrain. After the base layer was applied to the terrain, I used a simple sand texture to draw upon the terrain, creating a simple path around the map.
+
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+The purpose of this path would be to guide the player throughout their exploration. After creating the path layer. I used a rock and snow texture to create realistic mountain ranges across the map. I had already created mounds/elevated areas on the initial greybox terrain that I knew would serve as mountains. After I had essentially finished creating the basis of the terrain. I had began experimenting with adding foliage to the environment, and the possibility of implementing invisible collider walls around the area, to keep the player contained within a restricted environment.
