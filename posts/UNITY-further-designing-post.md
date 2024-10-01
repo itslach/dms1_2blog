@@ -7,7 +7,14 @@ allow_math: true
 image: /images/sketch3.jpg
 ---
 
-<img src="https://www.hardjewelry.com/cdn/shop/files/true_red_logo_webp.webp?v=1700801043&width=600" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
+<img src="https://i.pinimg.com/originals/af/7f/7c/af7f7c06d8e82481b9a60000cc9d1522.gif" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
 
 ## **DOCUMENTATION + ROADBLOCKS**
 
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
