@@ -59,3 +59,20 @@ The updated Greybox Terrain involved taking the generation of the Terrain to the
 
 <p class="custom-font">
 The purpose of this path would be to guide the player throughout their exploration. After creating the path layer. I used a rock and snow texture to create realistic mountain ranges across the map. I had already created mounds/elevated areas on the initial greybox terrain that I knew would serve as mountains. After I had essentially finished creating the basis of the terrain. I had began experimenting with adding foliage to the environment, and the possibility of implementing invisible collider walls around the area, to keep the player contained within a restricted environment.
+
+### **FOLIAGE INSPIRATION**
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <div style="text-align: center;">
+        <img src="https://i.ytimg.com/vi/cXWlgP5hZzc/maxresdefault.jpg" alt="Foliage1" width="800" height="800">
+        <p style="font-family: 'Courier New', Courier, monospace;">Firewatch, 2016</p> 
+    </div>
+    <div style="text-align: center;">
+        <img src="UnityDocumentation/map1.2.jpeg" alt="Foliage2" width="800" height="800">
+        <p style="font-family: 'Courier New', Courier, monospace;">Nature Environment.2</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="UnityDocumentation/map2.jpeg" alt="Foliage3" width="800" height="800">
+        <p style="font-family: 'Courier New', Courier, monospace;">Urban Environment</p>
+    </div>
+</div>
