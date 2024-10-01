@@ -7,7 +7,7 @@ allow_math: true
 image: /images/sketch4.jpg
 ---
 
-<img src="https://www.hardjewelry.com/cdn/shop/files/ezgif.com-gif-maker_3.gif?v=1649272041" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
+<img src="https://i.pinimg.com/originals/34/aa/ed/34aaed194ba031c080749a21259955a2.gif" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
 
 ># **INITIAL BRAINSTORMING**
 

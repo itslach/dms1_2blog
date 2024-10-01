@@ -7,7 +7,7 @@ allow_math: true
 image: /images/sketch6.jpg
 ---
 
-<img src="https://www.hardjewelry.com/cdn/shop/files/ezgif.com-gif-maker_3.gif?v=1649272041" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
+<img src="https://i.pinimg.com/originals/4a/79/f0/4a79f0a5110f52ac339ea1afde28aec7.gif" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
 
 ># **ASSIGNMENT 1 SELF PORTRAIT FINALISED PORTFOLIO**
 

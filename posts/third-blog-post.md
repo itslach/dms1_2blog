@@ -7,7 +7,7 @@ allow_math: true
 image: /images/sketch10.jpg
 ---
 
-<img src="https://www.hardjewelry.com/cdn/shop/files/ezgif.com-gif-maker_3.gif?v=1649272041" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
+<img src="https://i.pinimg.com/originals/ac/cc/5e/accc5e2509b349bba774d734a0344b04.gif" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
 
 ># **WK1S1 - HOMEWORK TASK 1**
 

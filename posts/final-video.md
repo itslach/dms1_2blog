@@ -9,7 +9,7 @@ image: /images/sketch4.jpg
 
 ># **DIGITAL MEDIA 1 - ASSIGNMENT 1 - SELF PORTRAIT 'this is me'**
 
-<img src="https://www.hardjewelry.com/cdn/shop/files/ezgif.com-gif-maker_3.gif?v=1649272041" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
+<img src="https://i.pinimg.com/originals/85/ca/29/85ca29113653fab02d4dca781de57e70.gif" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hUJtYjv88Do?si=onq1NNg_xQfoLWKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,7 +9,7 @@ image: /images/sketch5.jpg
 
 ># *this is me*  -  **Video Self Portrait Draft**
 
-<img src="https://www.hardjewelry.com/cdn/shop/files/ezgif.com-gif-maker_3.gif?v=1649272041" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
+<img src="https://i.pinimg.com/originals/93/a3/31/93a331b409f08d134e25115e1f046d38.gif" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G8z_Kd1fCxs?si=I-IUSDyiNomrwbCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

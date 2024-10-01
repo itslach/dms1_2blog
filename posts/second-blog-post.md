@@ -7,7 +7,7 @@ allow_math: true
 image: /images/sketch11.jpg
 ---
 
-<img src="https://www.hardjewelry.com/cdn/shop/files/ezgif.com-gif-maker_3.gif?v=1649272041" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
+<img src="https://i.pinimg.com/originals/5a/8e/b3/5a8eb3daff006f17069594434f0f3754.gif" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
 
 # **THE SCAVENGER HUNT**
 ---

@@ -7,7 +7,7 @@ allow_math: true
 image: /images/02sketch.jpeg
 ---
 
-<img src="https://www.hardjewelry.com/cdn/shop/files/ezgif.com-gif-maker_3.gif?v=1649272041" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
+<img src="https://i.pinimg.com/originals/af/7f/7c/af7f7c06d8e82481b9a60000cc9d1522.gif" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
 
 <style>
         .row{
