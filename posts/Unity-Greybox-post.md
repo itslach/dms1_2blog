@@ -22,7 +22,7 @@ I began my Unity project by experimenting with a Greybox Prototype, which essent
 
 ## **GREYBOX TERRAIN**
 
-<img src="UnityDocumentation\GreyboxGif#1.gif" alt="greyboxgif1" width="1000" height="1000">
+<img src="UnityDocumentation\grey1.gif" alt="greyboxgif1" width="1000" height="1000">
 
 ---
 
@@ -37,6 +37,6 @@ After creating the terrain, I began to use simple shapes to gather an idea of wh
 
 ## **UPDATED GREYBOX TERRAIN**
 
-<img src="UnityDocumentation\GreyboxGif#2.gif" alt="greyboxgif1" width="1000" height="1000">
+<img src="UnityDocumentation\grey2.gif" alt="greyboxgif1" width="1000" height="1000">
 
 ---
