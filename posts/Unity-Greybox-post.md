@@ -22,6 +22,7 @@ I began my Unity project by experimenting with a Greybox Prototype, which essent
 
 ## **GREYBOX TERRAIN**
 
+<img src="\static\UnityDocumentation\GreyboxGif#1.gif" alt="greyboxgif1" width="1000" height="1000">
 
 ---
 
