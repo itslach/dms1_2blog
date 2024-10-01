@@ -36,3 +36,7 @@ I began my Unity project by experimenting with a Greybox Prototype, which essent
 After creating the terrain, I began to use simple shapes to gather an idea of where different aspects would go in the environment, I used shapes like; cubes, ellipses, planes etc to give myself an idea of where objects like trees, rocks, buildings, and other props would go. This was very effective in helping visualise the busieness of the environment and whether or not I needed to add more or remove props from the environment.
 
 ## **UPDATED GREYBOX TERRAIN**
+
+<img src="UnityDocumentation\GreyboxGif#2.gif" alt="greyboxgif1" width="1000" height="1000">
+
+---
