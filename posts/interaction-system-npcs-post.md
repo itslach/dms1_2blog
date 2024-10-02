@@ -28,8 +28,25 @@ image: https://i.pinimg.com/originals/8d/6a/50/8d6a508af1ab6e11e3698746f2882965.
 </style>
 
 <p class="custom-font">
-To start creating this interaction system, I found a simple FPS controller, with the ability to jump, sprint, and zoom in. 
+To start creating this interaction system, I found a simple FPS controller, with the ability to jump, sprint, and zoom in. This controller consists of a Main Camera and Capsule Collider, the Main Camera is attached as a child behind the capsule collider, and essentially serves as the viewport and space for interaction in the controller. I also created an empty parent named 'HUD', to serve as a place for holding all interaction text, sounds and the Unity Canvas. The Canvas tells the system where to display any text or other graphic aspects of the game on the player's screen. 
 
 
 <img src="UnityDocumentation/FPScontroller.png" alt="FPSCONTROLLER" width="1000" height="1000">
 
+ <style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+From there I created a simple 'Reach' system by attaching a cube to the Main Camera, I then stretched it and changed it to look like a long arm coming out from the player, I then attached a collider to this object and removed the mesh renderer. The purpose of this is allow the user to interact with objects and NPCS. 
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+The first Interactable I aimed to create was a locked door system, with a lootable key that could be used to unlock it.
