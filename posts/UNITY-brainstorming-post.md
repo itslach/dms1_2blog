@@ -4,7 +4,7 @@ published_at: 2024-09-09
 snippet: Beginning of Unity, Assignment 3 Brainstorming
 disable_html_sanitization: true
 allow_math: true
-image: /images/sketch4.jpg
+image: /images/sketchfac.jpg
 ---
 
 <img src="https://i.pinimg.com/originals/34/aa/ed/34aaed194ba031c080749a21259955a2.gif" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
