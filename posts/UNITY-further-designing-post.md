@@ -28,3 +28,22 @@ Quite early into the creation of my Unity game, I had decided to experiment and 
 
 <p class="custom-font">
 I took this accident as a way to restart my project and create something better. I decided to take a different approach to the brief, and created a psx style, semi-open world exploration. I conveniently had created a game similar to this style in the past, although it was a more linear style which meant creating something more 'open world' was a newer concept to me.
+
+---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+
+
+
+
+
+<div class="row">
+        <div class="image-container"><img id="metro1" src="UnityDocumentation/metro1.png" height="250" width="500"/></div>
+        <div class="image-container"><img id="metro2" src="UnityDocumentation/metro2.png" height="250" width="500"/></div>
+</div>
