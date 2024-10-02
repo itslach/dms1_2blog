@@ -9,6 +9,18 @@ image: /images/sketch3.jpg
 
 <img src="https://i.pinimg.com/originals/af/7f/7c/af7f7c06d8e82481b9a60000cc9d1522.gif" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
 
+<style>
+        .row{
+            width:720px;
+            margin: 10px auto 10px auto ;
+        }
+        .image-container {
+            display: table-cell;
+            vertical-align: middle;
+            padding:20px;
+        }
+ </style>
+ 
 ## **DOCUMENTATION + ROADBLOCKS**
 
 <style>
@@ -44,6 +56,6 @@ I took this accident as a way to restart my project and create something better.
 
 
 <div class="row">
-        <div class="image-container"><img id="metro1" src="UnityDocumentation/metro1.png" height="250" width="500"/></div>
-        <div class="image-container"><img id="metro2" src="UnityDocumentation/metro2.png" height="250" width="500"/></div>
+        <div class="image-container"><img id="metro1" src="UnityDocumentation/metro1.png" height="500" width="500"/></div>
+        <div class="image-container"><img id="metro2" src="UnityDocumentation/metro2.png" height="500" width="500"/></div>
 </div>
