@@ -20,7 +20,7 @@ image: /images/sketch3.jpg
             padding:20px;
         }
  </style>
- 
+
 ## **DOCUMENTATION + ROADBLOCKS**
 
 <style>
@@ -43,6 +43,13 @@ I took this accident as a way to restart my project and create something better.
 
 ---
 
+## **CREATING METRO AREA**
+
+<div class="row">
+        <div class="image-container"><img id="metro1" src="UnityDocumentation/metro1.png" height="500" width="500"/></div>
+        <div class="image-container"><img id="metro2" src="UnityDocumentation/metro2.png" height="500" width="500"/></div>
+</div>
+
 <style>
   .custom-font {
     font-family: 'Courier New', Courier, monospace;
@@ -50,12 +57,17 @@ I took this accident as a way to restart my project and create something better.
 </style>
 
 <p class="custom-font">
-
-
-
-
+I behan the creation of my new game by searching on SketchFab for free, premade asset scenes. I had in my mind that I wanted to create a subway station area, with a small open world area above ground. After importing the metro asset I had found into Unity, I applied 'Mesh Colliders to every object in the scene, this would allow the player to collide with objects instead of clipping through them, and because the collider is built off the mesh it has a more accurate collision then a 'box collider' or 'capsule collider'.
 
 <div class="row">
-        <div class="image-container"><img id="metro1" src="UnityDocumentation/metro1.png" height="500" width="500"/></div>
-        <div class="image-container"><img id="metro2" src="UnityDocumentation/metro2.png" height="500" width="500"/></div>
+        <div class="image-container"><img id="metro1" src="UnityDocumentation/people1.png" height="500" width="500"/></div>
+        <div class="image-container"><img id="metro2" src="UnityDocumentation/people2.png" height="500" width="500"/></div>
 </div>
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
