@@ -68,11 +68,11 @@ The purpose of this path would be to guide the player throughout their explorati
         <p style="font-family: 'Courier New', Courier, monospace;">Firewatch, 2016</p> 
     </div>
     <div style="text-align: center;">
-        <img src="UnityDocumentation/map1.2.jpeg" alt="Foliage2" width="800" height="800">
-        <p style="font-family: 'Courier New', Courier, monospace;">Nature Environment.2</p>
+        <img src="https://miro.medium.com/v2/resize:fit:1200/1*5oxAyo-zUTxauCiL9haobg.jpeg" alt="Foliage2" width="800" height="800">
+        <p style="font-family: 'Courier New', Courier, monospace;">Outer Wilds, 2019</p>
     </div>
     <div style="text-align: center;">
-        <img src="UnityDocumentation/map2.jpeg" alt="Foliage3" width="800" height="800">
-        <p style="font-family: 'Courier New', Courier, monospace;">Urban Environment</p>
+        <img src="https://image.api.playstation.com/vulcan/ap/rnd/202202/2409/Xtkidw899ZspjYvI7WNdhHVQ.jpg" alt="Foliage3" width="800" height="800">
+        <p style="font-family: 'Courier New', Courier, monospace;">Road 96, 2021</p>
     </div>
 </div>
