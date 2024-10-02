@@ -71,3 +71,7 @@ I behan the creation of my new game by searching on SketchFab for free, premade 
 </style>
 
 <p class="custom-font">
+After setting up the basis of the environment, I added NPC characters and 'metro' style props, ranging from waiting seats, a vending machine, ticket machine and bins. This was to create a more convincing environment. The purpose of these NPC's was to create an interaction system with them to allow the player to engage in dialogue with them.
+
+
+# **NPC+ INTERACTION SYSTEM IS CONTINUED IN NEXT POST
