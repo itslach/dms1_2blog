@@ -155,6 +155,7 @@ To create the dialogue interaction system, I used a plugin called 'Dialogue Edit
   <div class="image-container"><img id="icon3" src="unity/empty.png" height="1000" width="1000"/></div>
 </div>
 
+---
 
 <style>
   .custom-font {
@@ -165,7 +166,20 @@ To create the dialogue interaction system, I used a plugin called 'Dialogue Edit
 <p class="custom-font">
 After creating this object, I had to create a new script so that the object would actually work with the plugin, as it does not come with a starter. I created a new ConversationStarter script and added in code that would essentially tell the machine that when the user steps within the space, to set the interaction text to active and trigger the NPC conversation.
 
+---
+
 <div class="row"> 
   <div class="image-container"><img id="icon3" src="unity/convostarter.png" height="1000" width="1000"/></div>
   <div class="image-container"><img id="icon3" src="unity/npcconvo.png" height="1000" width="1000"/></div>
 </div>
+
+---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+After I created a conversation, It was as simple as adding the conversation to the trigger object, and setting the interact key, for the rest of the NPC's I was able to copy this trigger object and create a new NPC Conversation.
