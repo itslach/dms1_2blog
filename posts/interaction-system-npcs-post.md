@@ -50,18 +50,14 @@ The first Interactable I aimed to create was a locked door system, with a lootab
 
 ---
 
-
 <div class="row">
-  <div class="image-container">
-    <img id="metro1" src="unity/key.png" alt="First Image" />
-  </div>
-  <div class="image-container">
-    <img id="metro2" src="unity/Details.png" alt="Second Image" />
-  </div>
-  <div class="image-container">
-    <img id="metro3" src="unity/InReach.png" alt="Third Image" />
-  </div>
-  <div class="image-container">
-    <img id="metro4" src="unity/inventoru.png" alt="Fourth Image" />
-  </div>
-</div>
+        <div class="image-container"><img id="icon2" src="unity/key.png" height="1000" width="1000"/></div>
+        <div class="image-container"><img id="icon3" src="unity/Details.png" height="1000" width="1000"/></div>
+    </div>
+
+ 
+<div class="row">
+        <div class="image-container"><img id="icon2" src="unity/InReach.png" height="1000" width="1000"/></div>
+        <div class="image-container"><img id="icon3" src="unity/inventoru.png" height="1000" width="1000"/></div>
+    </div>
+   
