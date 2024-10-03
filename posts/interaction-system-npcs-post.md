@@ -87,7 +87,7 @@ I placed the key into my scene and gave it a box collider, then assigned the col
 </style>
 
 <p class="custom-font">
-i imported majority of the sounds I used from a platform called Soundly, they use a User License End Agreement and all other sounds used were imported from Youtube or Youtube Studio. After bringing an audio source I first had to make sure the sound would not play on awake, otherwise everytime the character spawned in, the audio track would immediately play.
+I imported majority of the sounds I used from a platform called Soundly, they use a User License End Agreement and all other sounds used were imported from Youtube or Youtube Studio. After bringing an audio source I first had to make sure the sound would not play on awake, otherwise everytime the character spawned in, the audio track would immediately play.
 
 ---
 
