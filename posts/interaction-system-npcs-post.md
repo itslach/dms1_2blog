@@ -10,12 +10,11 @@ image: https://i.pinimg.com/originals/8d/6a/50/8d6a508af1ab6e11e3698746f2882965.
 # **CREATING THE INTERACTION SYSTEM**
 
 <style>
-        .row{
+        .row
+        {
             width: 1200px;
             margin: 10px auto 10px auto ;
-             justify-content: center; /* Centers images horizontally */
-    align-items: center;     /* Centers images vertically if they have different heights */
-    flex-wrap: wrap;         /* Allows wrapping if images don’t fit in one line */
+            
         }
         .image-container {
             display: table-cell;
@@ -61,4 +60,5 @@ The first Interactable I aimed to create was a locked door system, with a lootab
   <div class="image-container"><img id="metro1" src="unity/key.png" height="1000" width="1000"/></div>
   <div class="image-container"><img id="metro2" src="unity/Details.png" height="1000" width="1000"/></div>
   <div class="image-container"><img id="metro2" src="unity/InReach.png" height="1000" width="1000"/></div>
+    <div class="image-container"><img id="metro2" src="unity/inventoru.png" height="1000" width="1000"/></div>
 </div>
