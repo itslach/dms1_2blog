@@ -12,22 +12,21 @@ image: https://i.pinimg.com/originals/8d/6a/50/8d6a508af1ab6e11e3698746f2882965.
 <style>
     .row {
         display: flex;
-        justify-content: center;  /* Centers images horizontally */
-        align-items: center;      /* Ensures alignment */
-        flex-wrap: wrap;          /* Wraps images if necessary */
-        margin: 10px auto;        /* Automatic margin to center row */
-        width: 100%;              /* Full width */
+        justify-content: space-between; /* Distributes the images across the entire width */
+        align-items: center;
+        flex-wrap: wrap;
+        margin: 10px auto;
+        width: 100%;   /* Full width */
     }
 
     .image-container {
         flex: 1;
         padding: 10px;
-        max-width: 33%;           /* Each image takes up to a third of the width */
     }
 
     img {
-        width: 100%;              /* Makes images responsive */
-        height: auto;             /* Keeps the aspect ratio */
+        width: 100%; /* Makes the images fill their container */
+        height: auto; /* Keeps aspect ratio */
     }
 
 </style>
