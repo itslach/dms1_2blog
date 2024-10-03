@@ -10,23 +10,26 @@ image: https://i.pinimg.com/originals/8d/6a/50/8d6a508af1ab6e11e3698746f2882965.
 # **CREATING THE INTERACTION SYSTEM**
 
 <style>
-        .row
-        {
-            width: 1200px;
-            margin: 10px auto 10px auto ;
-            
-        }
-        .image-container {
-            display: table-cell;
-            vertical-align: middle;
-            padding:20px;
-        }
- </style>
+    .row {
+        display: flex;
+        justify-content: center;  /* Centers images horizontally */
+        align-items: center;      /* Ensures alignment */
+        flex-wrap: wrap;          /* Wraps images if necessary */
+        margin: 10px auto;        /* Automatic margin to center row */
+        width: 100%;              /* Full width */
+    }
 
- <style>
-  .custom-font {
-    font-family: 'Courier New', Courier, monospace;
-  }
+    .image-container {
+        flex: 1;
+        padding: 10px;
+        max-width: 33%;           /* Each image takes up to a third of the width */
+    }
+
+    img {
+        width: 100%;              /* Makes images responsive */
+        height: auto;             /* Keeps the aspect ratio */
+    }
+
 </style>
 
 <p class="custom-font">
