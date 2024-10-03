@@ -140,3 +140,32 @@ Once I had the basics of the door set up and rigged, I moved onto the animation.
 ---
 
 ### **CREATING THE DIALOGUE SYSTEM**
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+To create the dialogue interaction system, I used a plugin called 'Dialogue Editor'. This free plugin for Unity makes creating a dialogue tree system very simple and straightforward. I started this process by creating a 3D cube, shaping it to a large square just peeking above the ground, this acts as the interaction area, by removing the mesh render, when the player moves within this area, they will be prompted to interact with the character.
+
+
+<div class="row"> 
+  <div class="image-container"><img id="icon3" src="unity/empty.png" height="1000" width="1000"/></div>
+</div>
+
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+After creating this object, I had to create a new script so that the object would actually work with the plugin, as it does not come with a starter. I created a new ConversationStarter script and added in code that would essentially tell the machine that when the user steps within the space, to set the interaction text to active and trigger the NPC conversation.
+
+<div class="row"> 
+  <div class="image-container"><img id="icon3" src="unity/convostarter.png" height="1000" width="1000"/></div>
+  <div class="image-container"><img id="icon3" src="unity/npcconvo.png" height="1000" width="1000"/></div>
+</div>
