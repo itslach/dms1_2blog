@@ -105,3 +105,30 @@ I imported majority of the sounds I used from a platform called Soundly, they us
 
 <p class="custom-font">
 The key aspects of each sound file that I had to change was the Volume Rolloff,  which was changed from Logarithmic to Linear, this provided a quicker falloff of the sound when the player moves away from the area. I also changed the Spatial Blend from 2D to 3D, this was done so the audio surrounded the player, instead of coming from one direction.
+
+<div class="row"> 
+  <div class="image-container"><img id="icon3" src="unity/door.png" height="1000" width="1000"/></div>
+</div>
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+The next step in my interaction system was to create a rigged and functioning door opening system. This was a relatively easy process to complete, I first started by importing this door asset into my Unity project. I then created an empty Parent and placed it on the right middle side of the door, attaching the prop to this empty object, this would act as the origin that the door would turn on, that way the animation looked realistic. The next step was to give the door a mesh collider, and to create a seperate box collider that was locked to the position of the handle, this object was set to trigger and served as the object that keeps the door locked until the key is interacted with it.
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+Once I had the basics of the door set up and rigged, I moved onto the animation. I made 3 animation states; Idle, Opened and Closed. The Idle animation was very basic to do, all I did was create a new clip and not change anything about the door's position. For the Open animation, I left the door as Idle at the start of the animation, then moved to 50 frames, and set the door's position to open, this animated the door opening over the 50 frames, and to create the Closed animation I just reversed this. (I copied this animation for the rest of the doors throughout the game aswell).
+
+<div class="row"> 
+  <div class="image-container"><img id="icon3" src="unity/dooropen.gif" height="1000" width="1000"/></div>
+  <div class="image-container"><img id="icon3" src="unity/doorclose.gif" height="1000" width="1000"/></div>
+</div>
