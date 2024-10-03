@@ -70,6 +70,6 @@ The first Interactable I aimed to create was a locked door system, with a lootab
     <img id="metro3" src="unity/InReach.png" alt="Third Image" />
   </div>
   <div class="image-container">
-    <img id="metro4" src="unity/FourthImage.png" alt="Fourth Image" />
+    <img id="metro4" src="unity/inventoru.png" alt="Fourth Image" />
   </div>
 </div>
