@@ -8,25 +8,27 @@ image: https://i.pinimg.com/originals/8d/6a/50/8d6a508af1ab6e11e3698746f2882965.
 ---
 
 # **CREATING THE INTERACTION SYSTEM**
-
 <style>
     .row {
         display: flex;
         justify-content: space-between;
         align-items: center;
-        margin: 0;  /* Remove margin */
+        margin: 0;
         padding: 0;
         width: 100vw; /* Full viewport width */
+        box-sizing: border-box; /* Ensures padding and border are included in width calculations */
     }
 
     .image-container {
         flex: 1;
-        padding: 0; /* Remove padding to avoid spacing between images */
+        padding: 0;
+        margin: 0;
     }
 
     img {
         width: 100%;
         height: auto;
+        display: block; /* Ensures the images don’t overflow */
     }
 </style>
 
