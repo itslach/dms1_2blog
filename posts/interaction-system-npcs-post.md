@@ -8,7 +8,7 @@ image: https://i.pinimg.com/originals/8d/6a/50/8d6a508af1ab6e11e3698746f2882965.
 ---
 <style>
         .row{
-            width:1000px;
+            width:720px;
             margin: 10px auto 10px auto ;
         }
         .image-container {
