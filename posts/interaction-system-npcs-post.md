@@ -80,3 +80,28 @@ The first Interactable I aimed to create was a locked door system, with a lootab
 <p class="custom-font">
 I placed the key into my scene and gave it a box collider, then assigned the collider to be a trigger. The next step was to create a script for picking the key up. I created a new script in VSCODE named 'Pick Up Key Script', in which i created a public bool called 'inReach', this bool uses information from the Reach tool I created previously on my character. The basis of the code is that when the player is within reach of the key, the 'Pick Up' text will be displayed to the player, while the invOB field that stays false is referring to the inventory object I created in the player, this inventory is a simple way of 'fakely' storing items on the player to be used with interactions. on void Update, the code block is telling the machine that when the player is within reach and the 'Interact' input has been pressed, the keyOB is set to false, making it disapper, a sound plays upon input, the key object within the inventory is set to active and the pickup text disappears.
 
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+i imported majority of the sounds I used from a platform called Soundly, they use a User License End Agreement and all other sounds used were imported from Youtube or Youtube Studio. After bringing an audio source I first had to make sure the sound would not play on awake, otherwise everytime the character spawned in, the audio track would immediately play.
+
+---
+
+<div class="row"> 
+  <div class="image-container"><img id="icon3" src="unity/sound.png" height="1000" width="1000"/></div>
+</div>
+
+---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+The key aspects of each sound file that I had to change was the Volume Rolloff,  which was changed from Logarithmic to Linear, this provided a quicker falloff of the sound when the player moves away from the area. I also changed the Spatial Blend from 2D to 3D, this was done so the audio surrounded the player, instead of coming from one direction.
