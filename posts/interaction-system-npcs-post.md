@@ -30,6 +30,8 @@ To start creating this interaction system, I found a simple FPS controller, with
 
 <img src="UnityDocumentation/FPScontroller.png" alt="FPSCONTROLLER" width="1000" height="1000">
 
+---
+
  <style>
   .custom-font {
     font-family: 'Courier New', Courier, monospace;
