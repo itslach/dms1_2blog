@@ -61,3 +61,12 @@ The first Interactable I aimed to create was a locked door system, with a lootab
         <div class="image-container"><img id="icon3" src="unity/inventoru.png" height="1000" width="1000"/></div>
     </div>
    
+   ---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+I placed the key into my scene and gave it a box collider, then assigned the collider to be a trigger. The next step was to create a script for picking the key up. I created a new script in VSCODE named 'Pick Up Key Script', in which i created a public bool called 'inReach', this bool uses information from the Reach tool I created previously on my character. The basis of the code is that when the player is within reach of the key, the 'Pick Up' text will be displayed to the player, while the invOB field that stays false is referring to the inventory object I created in the player, this inventory is a simple way of 'fakely' storing items on the player to be used with interactions. on void Update, the code block is telling the machine that when the player is within reach and the 'Interact' input has been pressed, the keyOB is set to false, making it disapper, a sound plays upon input, the key object within the inventory is set to active and the pickup text disappears.
+
