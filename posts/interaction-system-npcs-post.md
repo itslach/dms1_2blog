@@ -8,16 +8,16 @@ image: https://i.pinimg.com/originals/8d/6a/50/8d6a508af1ab6e11e3698746f2882965.
 ---
 <style>
         .row{
-            width:720px;
+            width:1000px;
             margin: 10px auto 10px auto ;
         }
         .image-container {
             display: table-cell;
             vertical-align: middle;
-            padding:20px;
+            padding:10px;
         }
  </style>
- 
+
 # **CREATING THE INTERACTION SYSTEM**
 
 
@@ -47,6 +47,8 @@ From there I created a simple 'Reach' system by attaching a cube to the Main Cam
 
 <p class="custom-font">
 The first Interactable I aimed to create was a locked door system, with a lootable key that could be used to unlock it. To start creating these I acquired a free door asset and key asset from Sketchfab.
+
+---
 
 
 <div class="row">
