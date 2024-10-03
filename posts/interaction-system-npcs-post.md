@@ -110,6 +110,8 @@ The key aspects of each sound file that I had to change was the Volume Rolloff, 
   <div class="image-container"><img id="icon3" src="unity/door.png" height="1000" width="1000"/></div>
 </div>
 
+---
+
 <style>
   .custom-font {
     font-family: 'Courier New', Courier, monospace;
@@ -128,7 +130,13 @@ The next step in my interaction system was to create a rigged and functioning do
 <p class="custom-font">
 Once I had the basics of the door set up and rigged, I moved onto the animation. I made 3 animation states; Idle, Opened and Closed. The Idle animation was very basic to do, all I did was create a new clip and not change anything about the door's position. For the Open animation, I left the door as Idle at the start of the animation, then moved to 50 frames, and set the door's position to open, this animated the door opening over the 50 frames, and to create the Closed animation I just reversed this. (I copied this animation for the rest of the doors throughout the game aswell).
 
+---
+
 <div class="row"> 
   <div class="image-container"><img id="icon3" src="unity/dooropen.gif" height="1000" width="1000"/></div>
   <div class="image-container"><img id="icon3" src="unity/doorclose.gif" height="1000" width="1000"/></div>
 </div>
+
+---
+
+### **CREATING THE DIALOGUE SYSTEM**
