@@ -12,9 +12,9 @@ image: https://i.pinimg.com/originals/8d/6a/50/8d6a508af1ab6e11e3698746f2882965.
 <style>
     .row {
         display: flex;
-        justify-content: space-between; /* Distributes the images across the entire width */
+        justify-content: space-between; /* Distributes the images */
         align-items: center;
-        flex-wrap: wrap;
+        flex-wrap: nowrap; /* Prevents wrapping to new lines */
         margin: 10px auto;
         width: 100%;   /* Full width */
     }
@@ -25,8 +25,8 @@ image: https://i.pinimg.com/originals/8d/6a/50/8d6a508af1ab6e11e3698746f2882965.
     }
 
     img {
-        width: 100%; /* Makes the images fill their container */
-        height: auto; /* Keeps aspect ratio */
+        width: 100%; /* Fills the container */
+        height: auto; /* Maintains aspect ratio */
     }
 
 </style>
