@@ -13,7 +13,7 @@ image: https://i.pinimg.com/originals/8d/6a/50/8d6a508af1ab6e11e3698746f2882965.
         display: flex;
         justify-content: space-between;
         align-items: center;
-        margin: 0;
+        margin: 5;
         padding: 0;
         width: 100vw; /* Full viewport width */
         box-sizing: border-box; /* Ensures padding and border are included in width calculations */
