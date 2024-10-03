@@ -12,23 +12,22 @@ image: https://i.pinimg.com/originals/8d/6a/50/8d6a508af1ab6e11e3698746f2882965.
 <style>
     .row {
         display: flex;
-        justify-content: space-between; /* Distributes the images */
+        justify-content: space-between;
         align-items: center;
-        flex-wrap: nowrap; /* Prevents wrapping to new lines */
-        margin: 10px auto;
-        width: 100%;   /* Full width */
+        margin: 0;  /* Remove margin */
+        padding: 0;
+        width: 100vw; /* Full viewport width */
     }
 
     .image-container {
         flex: 1;
-        padding: 10px;
+        padding: 0; /* Remove padding to avoid spacing between images */
     }
 
     img {
-        width: 100%; /* Fills the container */
-        height: auto; /* Maintains aspect ratio */
+        width: 100%;
+        height: auto;
     }
-
 </style>
 
 <p class="custom-font">
