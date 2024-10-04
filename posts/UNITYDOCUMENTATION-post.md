@@ -65,3 +65,20 @@ That was essentially the basics of the light switch, this coding format was very
 </div>
 
 ---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+I then created a script for the light flickering, this script essentially controlled the light OB in the scene, the Min and Max time for its flickering, which changes the rate/speed at which the light turns on and off. The script also controls the light audio, telling the game to play the audio whenever the light turns off. I also gave the Light OB and audio source, made it's spacial to 3D and changed roll off to Linear, I could then use the same light OB in the 'Light Sound' field.
+
+---
+
+<div class="row"> 
+  <div class="image-container"><img id="icon3" src="unity/flicker.png" height="1000" width="1000"/></div>
+</div>
+
+---
