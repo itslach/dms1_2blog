@@ -48,3 +48,20 @@ Once I brought the model into my scene, I created a box collider to the object a
 </div>
 
 ---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+That was essentially the basics of the light switch, this coding format was very straightforward and easy to do. To create the flickering lights, I imported an 'industrial' light beam into my scene, and created a new spot light.
+
+---
+
+<div class="row"> 
+  <div class="image-container"><img id="icon3" src="unity/industry.png" height="1000" width="1000"/></div>
+</div>
+
+---
