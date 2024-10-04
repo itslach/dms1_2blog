@@ -44,7 +44,7 @@ Once I brought the model into my scene, I created a box collider to the object a
 </div>
 
 <div class="row"> 
-  <div class="image-container"><img id="icon3" src="unity/onoff.png" height="1000" width="1000"/></div>
+  <div class="image-container"><img id="icon3" src="unity/onoff.gif" height="1000" width="1000"/></div>
 </div>
 
 ---
