@@ -83,7 +83,7 @@ I then created a script for the light flickering, this script essentially contro
 
 ---
 
-## **CREATING THE SLIDING DOORS 
+## **CREATING THE SLIDING DOORS**
 
 <style>
   .custom-font {
@@ -92,9 +92,13 @@ I then created a script for the light flickering, this script essentially contro
 </style>
 
 <p class="custom-font">
-To create the sliding doors in Unity, the basics of this process were very similar to making the other interactive doors within Unity.
+To create the sliding doors in Unity, the basics of this process were very similar to making the other interactive doors within Unity. I first added a convex mesh render to each sliding door, I then added the animator role to each door. Then using the animation tab, I created animations similar to the door animations for the hinge door; an idle, open and close animation. I then applied the animation loop for each door into the 'controller' tab. I then created a New Behaviour Script to the door, the purpose of this script was to tell the doors to play the animation when the player is within a certain area. It created inputs for; the animaiton, the player and the door obj.
+
+---
 
 <div class="row"> 
-  <div class="image-container"><img id="icon3" src="unity/sliding door.png" height="1000" width="1000"/></div>\
+  <div class="image-container"><img id="icon3" src="unity/sliding door.png" height="1000" width="1000"/></div>
   <div class="image-container"><img id="icon3" src="unity/animator.png" height="1000" width="1000"/></div>
 </div>
+
+---
