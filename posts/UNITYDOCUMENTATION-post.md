@@ -82,3 +82,19 @@ I then created a script for the light flickering, this script essentially contro
 </div>
 
 ---
+
+## **CREATING THE SLIDING DOORS 
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+To create the sliding doors in Unity, the basics of this process were very similar to making the other interactive doors within Unity.
+
+<div class="row"> 
+  <div class="image-container"><img id="icon3" src="unity/sliding door.png" height="1000" width="1000"/></div>\
+  <div class="image-container"><img id="icon3" src="unity/animator.png" height="1000" width="1000"/></div>
+</div>
