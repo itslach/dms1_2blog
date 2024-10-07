@@ -107,6 +107,7 @@ image: /images/sketchuzi.jpeg
   <li>Door Opening - <strong>DOOR SFX</strong> - <strong>YOUTUBE</strong> | Creative Commons License</li>
   <li>You Will Know - <strong>MUSIC TRACK</strong> - <strong>YOUTUBE</strong> | Youtube Studio License</li>
   <li>Neon Lights Flicker - <strong>LIGHTS</strong> - <strong>YOUTUBE</strong> | Creative Commons License</li>
+  <li>WALKING SFX - <strong>WALKING</strong> - <strong>SOUNDLY</strong> | End User License Agreement</li>
 </ul>
 
 <style>
