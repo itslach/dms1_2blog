@@ -96,3 +96,35 @@ image: /images/sketchuzi.jpeg
 ---
 
 # **SOUND EFFECTS USED**
+
+<ul class="custom-list">
+  <li>Birds/Forest Ambience SFX - <strong>AMBIENCE</strong> - <strong>SOUNDLY</strong> | End User License Agreement</li>
+  <li>Doors,Sliding,Office Building - <strong>DOOR SFX</strong> - <strong>SOUNDLY</strong> | End User License Agreement</li>
+  <li>FLASHLIGHT ON/OFF - <strong>TOOLS</strong> - <strong>SOUNDLY</strong> | End User License Agreement</li>
+  <li>LIGHT SOUND EFFECT - <strong>LIGHTS</strong> - <strong>SOUNDLY</strong> | End User License Agreement   </li>
+  <li>Pick Up Key - <strong>SFX</strong> - <strong>YOUTUBE</strong> | Creative Commons License</li>
+  <li>Undertale Dialogue SFX - <strong>DIALOGUE</strong> - <strong>YOUTUBE</strong> | Creative Commons License</li>
+  <li>Door Opening - <strong>DOOR SFX</strong> - <strong>YOUTUBE</strong> | Creative Commons License</li>
+  <li>You Will Know - <strong>MUSIC TRACK</strong> - <strong>YOUTUBE</strong> | Youtube Studio License</li>
+  <li>Neon Lights Flicker - <strong>LIGHTS</strong> - <strong>YOUTUBE</strong> | Creative Commons License</li>
+</ul>
+
+<style>
+.custom-list {
+  list-style-type: none; /* Remove default bullets */
+  padding: 0; /* Remove default padding */
+}
+
+.custom-list li {
+  background-color: #f0f0f0; /* Light background color */
+  padding: 15px; /* Padding inside each list item */
+  margin: 10px 0; /* Spacing between list items */
+  border-radius: 15px; /* Rounded corners */
+  display: inline-block; /* Ensure the background fits the text size */
+  width: fit-content; /* The box only as wide as the content */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Light shadow for a subtle 3D effect */
+  font-family: Arial, sans-serif;
+}
+</style>
+
+---
