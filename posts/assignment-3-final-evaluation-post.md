@@ -1,6 +1,6 @@
 ---
 title: DMS1_POST023
-published_at: 2024-10-07
+published_at: 2024-10-05
 snippet: Assignment 3 Final Evaluation + Playthrough
 disable_html_sanitization: true
 allow_math: true
