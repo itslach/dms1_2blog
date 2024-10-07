@@ -42,3 +42,4 @@ She later discovered the arrows that were along the road, these were to guide th
 After interacting with the note she further explored the environment for a while and then found the key for the first door, and immediately knew what it's use was for. The player then traversed through the locked room, interacting with the note, picking up the second key and then testing the light switch a few times. The player then traversed down the steps, into the end stage environment, in this stage they quickly interacted with the NPC's in the area, having conversations with them, they then traversed into the room for the second key, but this room was still empty, they then found their way into the subway train, in which they interacted with the final NPC, and then the prototype testing was finished.
 
 ## **REFLECTION**
+
