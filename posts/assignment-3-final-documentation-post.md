@@ -71,8 +71,8 @@ The purpose of creating a Teleporter/Portal system in my game was to help the pl
 
 
 <div class="row">
-        <div class="image-container"><img id="metro1" src="unity/teleportscript.png" height="500" width="500"/></div>
-        <div class="image-container"><img id="metro1" src="unity/script.png" height="500" width="500"/><div>
+        <div class="image-container"><img id="metro1" src="unity/teleportscript.png" height="250" width="250"/></div>
+        <div class="image-container"><img id="metro1" src="unity/script.png" height="250" width="250"/><div>
 </div>
 
 ---
