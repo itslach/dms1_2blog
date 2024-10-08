@@ -132,3 +132,11 @@ To create the main menu scene, I simply used a menu prefab that I had acquired f
 
 ---
 
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+To create a working TV, which displayed, on loop, the video submission I made for Assignment 1, I first found a free TV asset from sketchfab, after bringing this into unity I placed it in a spot in the scene and resized it to fit properly. I then assigned a video player component to the object, in it's target renderer I set the target as the mesh for the screen and set the video output as the file for the video, for the video to work I for some reason had to vertically flip the video and loop it. After that I had a working TV that constantly looped the video I put into it.
