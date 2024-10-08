@@ -39,6 +39,41 @@ Once I had the area setup, I needed to create a hole that would fit the entrance
 
 ### **TELEPORT + PORTAL CREATION**
 
+<div class="row">
+        <div class="image-container"><img id="metro1" src="unity/portal.png" height="500" width="500"/></div>
+        <div class="image-container"><img id="metro1" src="unity/teleporter.png" height="500" width="500"/><div>
+</div>
+
+---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+The purpose of creating a Teleporter/Portal system in my game was to help the player traverse through different environments, the player was intended to start off in a environment very similar to my bedroom, then to travel to a forest scene, I modelled this forest as closely as I could to one that used to lie beyond my old home, that I would go out into frequently. From here the player would then traverse to environment of a long road with an overpass, with a sole house on the right of the road. This house represents me moving to a new home, from there the player travels to the run-down town and metro scene, where the story ends.
+
+---
+
+
+<div class="row">
+        <div class="image-container"><img id="metro1" src="unity/teleportscript.png" height="500" width="500"/></div>
+        <div class="image-container"><img id="metro1" src="unity/script.png" height="500" width="500"/><div>
+</div>
+
+---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+
+
 
 ### **CREATING SOLD HOUSE SCENE**
 
