@@ -35,7 +35,7 @@ Throughout the creation of my 3D environment, I faced numerous struggles, errors
 </style>
 
 <p class="custom-font">
-I lucky had some part experience in creating a 'psx/playstation 1' style video game back when I was in highschool, I decided to take this part experience and use it effectively in my project, I decided to create an interactive experience for the player. Instead of just wandering through a 3D environment, I wanted them to be able to interact with parts of the scene, talk to NPC's and really become immersed in what they were experiencing.
+I luckily had some part experience in creating a 'psx/playstation 1' style video game back when I was in highschool, I decided to take this part experience and use it effectively in my project, I decided to create an interactive experience for the player. Instead of just wandering through a 3D environment, I wanted them to be able to interact with parts of the scene, talk to NPC's and really become immersed in what they were experiencing.
 
 <style>
   .custom-font {
