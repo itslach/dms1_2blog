@@ -13,6 +13,20 @@ image: https://i.pinimg.com/564x/88/32/81/8832811523f9ed8f8091f4d9d33f4f0e.jpg
 
 ### **TOWN SCENE CREATION**
 
+<div class="row">
+        <div class="image-container"><img id="metro1" src="UnityDocumentation/metro1.png" height="500" width="500"/></div>
+</div>
+
+---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+I wanted to create a scene of a run-down style area/town because I thought it invoked a sense of sadness that I felt when I was moving away from home, which I wanted to subtly reflect onto the player. I created this scene by acquiring free building and road assets from the UNITY ASSET STORE. 
 
 ### **TELEPORT + PORTAL CREATION**
 
