@@ -102,7 +102,16 @@ To create the teleport system, I started by creating a 3D cube, positioning it a
 </style>
 
 <p class="custom-font">
-One of the last scenes I created
+One of the last scenes I created was a large modern house on an empty road. Out the front of this house is a man sitting on the back of his car, along with piles of boxes out the front and a 'SOLD' sign. I created this scene as a reflection of me finding my own place in a new area, I placed a NPC in this scene for the character to interact with, they tell them about living in a new place. At this point I was struggling to connect these various scenes to the final old town scene, so I decided to make it that this NPC tells the player about this old town, and that they must travel to it to understand the truth about their future.
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+I acquired all the assets for this scene from Sketchfab and after importing them into my game, I resized them to fit the scale of the environment and added their correct texture and mesh colliders. Once the layout of the scene was finalised, I added a final teleporter and portal at the edge of the play area, for the player to discover and traverse to the final scene.
 
 
 ### **MAKING THE MAIN MENU**
