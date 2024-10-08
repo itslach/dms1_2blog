@@ -52,8 +52,8 @@ Once I had the area setup, I needed to create a hole that would fit the entrance
 ### **TELEPORT + PORTAL CREATION**
 
 <div class="row">
-        <div class="image-container"><img id="draft" src="unity/portal.jpg" height="200" width="200"/></div>
-        <div class="image-container"><img id="experiment" src="unity/teleporter.png" height="200" width="200"/></div>
+        <div class="image-container"><img id="draft" src="unity/portal.png" height="250" width="250"/></div>
+        <div class="image-container"><img id="experiment" src="unity/teleporter.png" height="250" width="250"/></div>
     </div>
 
 ---
@@ -70,8 +70,8 @@ The purpose of creating a Teleporter/Portal system in my game was to help the pl
 ---
 
 <div class="row">
-        <div class="image-container"><img id="draft" src="unity/teleporterscript.jpg" height="200" width="200"/></div>
-        <div class="image-container"><img id="experiment" src="unity/script.png" height="200" width="200"/></div>
+        <div class="image-container"><img id="draft" src="unity/teleporterscript.png" height="250" width="250"/></div>
+        <div class="image-container"><img id="experiment" src="unity/script.png" height="250" width="250"/></div>
     </div>
 
 
