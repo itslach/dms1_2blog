@@ -43,3 +43,20 @@ After interacting with the note she further explored the environment for a while
 
 ## **REFLECTION**
 
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+It was obvious after watching this test playthrough that my game had several issues/bugs and was far from finished. Also in regards to depth and game area, it was also very far from a finished/polished product. I felt as if the user found it relatively easy to navigate throughout the environment and found different interaction points easy enough to locate and interact with, I noticed their was a struggle with interacting with NPC's and that for some reason the 'X' interaction was slow to register and extremely buggy as to which when the user was actually able to interact. I was pleasantly suprised with the fact that the all the interaction systems in place for the user were functional, ranging from the key/door system to the dialogue system, light switch and automatic tram doors. I feel that after this playthrough, I need to make the change that this environment is portraying more obvious, it seems that the idea of me moving from home doesn't have a strong sense throughout playing the game and it is clear I have focused on the functional aspects of the game first. I would like to possibly implement more areas/environments that lead up to this final area the player has explored. I believe this would help create that motif that I am looking to immerse the player in, I could possibly have them start in some bedroom style area, then traverse to a seperate area (possibly with teleporting?)
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+I also believe after watching this playtest, that, my technical abilities are very advanced throughout my project and have shown impressive skills in coding different aspects of my environment. 
