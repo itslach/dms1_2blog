@@ -74,7 +74,6 @@ The purpose of creating a Teleporter/Portal system in my game was to help the pl
         <div class="image-container"><img id="experiment" src="unity/script.png" height="250" width="250"/></div>
     </div>
 
-
 ---
 
 <style>
@@ -84,7 +83,7 @@ The purpose of creating a Teleporter/Portal system in my game was to help the pl
 </style>
 
 <p class="custom-font">
-
+To create the teleport system, I started by creating a 3D cube, positioning it and scaling it to the size I wanted, removing it's mesh renderer and assigning it's collider to be a trigger. After that I created a new C# script and named it 'teleport'. In this script I designed a code to essentially tell the machine that when the assigned player object colliders with the cube's box collider, it will move the player's position to the designated area. I assigned this area later on by creatinga new 3D cube, putting it in the forest scene, and removing the mesh renderer. I named this cube the 'reciever' and assigned it in the destination field of the script. There was a slight glitch with this script that the player wouldn't teleport exactly to the spot of the reciever but somewhere near it, I countered this by just adjusting the location of the reciever.sa
 
 
 ### **CREATING SOLD HOUSE SCENE**
