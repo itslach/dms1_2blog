@@ -89,4 +89,20 @@ To create the teleport system, I started by creating a 3D cube, positioning it a
 
 ### **CREATING SOLD HOUSE SCENE**
 
+<div class="row">
+        <div class="image-container"><img id="metro1" src="unity/sold.png" height="500" width="500"/></div>
+</div>
+
+---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+One of the last scenes I created
+
+
 ### **MAKING THE MAIN MENU**
