@@ -113,5 +113,22 @@ One of the last scenes I created was a large modern house on an empty road. Out 
 <p class="custom-font">
 I acquired all the assets for this scene from Sketchfab and after importing them into my game, I resized them to fit the scale of the environment and added their correct texture and mesh colliders. Once the layout of the scene was finalised, I added a final teleporter and portal at the edge of the play area, for the player to discover and traverse to the final scene.
 
-
 ### **MAKING THE MAIN MENU**
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+To create the main menu scene, I simply used a menu prefab that I had acquired from the Unity Asset Store, after this I added my game scene to be the first loaded scene, after the main menu, I added custom text for my game title and removed the social media aspects and background, I then changed the button and title colours and added a custom particle layer for depth. 
+
+## **CREATING WORKING TV**
+
+<div class="row">
+        <div class="image-container"><img id="metro1" src="unity/begin.png" height="500" width="500"/></div>
+</div>
+
+---
+
