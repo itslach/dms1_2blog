@@ -20,9 +20,25 @@ image: https://i.pinimg.com/originals/ba/dc/c3/badcc34a70907084a9f14df784ade1ce.
 </style>
 
 <p class="custom-font">
-In class we were tasked to pick a website of our choosing and to the best of our knowledge, recreate the front page of the website in a 'wireframe' format
-
+In class we were tasked to pick a website of our choosing and to the best of our knowledge, recreate the front page of the website in a 'wireframe' format, I chose to recreate the 'Spotify' home page, as it was just a website I use alot and could remember very well.
 
 ---
 
 <img src="figma/firstspotify.png" alt="greyboxgif1" width="1000" height="1000">
+
+---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+This was my first iteration of the wireframe website. I had got the basic aspects of the layout well sorted, although had missed out on some more intricate details and some places were slightly out of place etc. We were then allowed to look at the website and alter or remake our wireframe, in which I altered mine and came out with a new, more accurate wireframe.
+
+---
+
+<img src="figma/newspotify.png" alt="greyboxgif1" width="1000" height="1000">
+
+---
