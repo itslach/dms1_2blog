@@ -1,6 +1,6 @@
 ---
 title: DMS1_POST024
-published_at: 2024-09-01
+published_at: 2024-10-09
 snippet: Assignment 3 Reflections
 disable_html_sanitization: true
 allow_math: true
