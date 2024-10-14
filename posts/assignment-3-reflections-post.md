@@ -60,3 +60,9 @@ image: /images/01sketch.jpeg
 <li><strong>How did you translate the prompt that you chose from an abstract idea to a set of concrete visual designs?</li></strong>
 <li>I translated the prompt originally by brainstorming as many ideas as I could surrounding the brief of ‘dreams’, I had brainstormed different drawings that represented dreaming, child style drawings, heavily simplified icons like clouds, stars and moons, and then mythical style creatures to really delve deep into the ‘dream’ idea. When I eventually moved onto the sleeping icons idea, my first idea, and idea that I stuck with was to brainstorm icons that, when used by the user, a different icon/sound would help boost the corresponding aspect in the person’s life. This meant like sounds that would help; health, relationships, meditation, wealth, aspiration etc.</li>
 </ul>
+
+## **STUDIO ASSIGNMENT_3**
+
+<ul class="custom-list">
+<li><strong>How important was a working prototype to your design process? What did it offer that process?</strong></li>
+<li>I found having a working prototype highly important in the designing process of my 3D environment, it allowed me to test my concept early on into the production of my project, this was highly useful as it meant I was able to shift my original design idea without losing too much progress. I found the Grey-box prototyping not as useful as in the early creation of my project, I found that for myself, it was a lot more useful too visualize the environment with textures and actual props in the scene, having untextured shapes, forms and objects was just too rough of an idea, and I also found that in the early aspects of production,  I had moved too fast for it to be an efficient aspect to focus on.</li>
