@@ -32,5 +32,7 @@ image: /images/01sketch.jpeg
 ## **STUDIO ASSIGNMENT_3**
 
 <ul class="custom-list">
-  <li> - <strong>- **How did you approach the relationship between the sonic and visual components of your edit?</strong> - I had aimed for the visual elements of the assignment to be spatially timed within the video with the sonic elements of the video, this meant  creating a synchesis between the image changes and camera flash sound effects, and having climax’s and important times within the audio track syncing to major parts of the video aspect.</li> 
+  <li>  <strong> How did you approach the relationship between the sonic and visual components of your edit?</strong> - I had aimed for the visual elements of the assignment to be spatially timed within the video with the sonic elements of the video, this meant  creating a synchesis between the image changes and camera flash sound effects, and having climax’s and important times within the audio track syncing to major parts of the video aspect.</li>
+  <li>  <strong> How did you decide on the footage that you used to shape  your project?</strong></li>
+  
 </ul>
