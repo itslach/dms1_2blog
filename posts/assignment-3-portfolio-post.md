@@ -4,7 +4,7 @@ published_at: 2024-10-20
 snippet: Figma Portfolio Documentation
 disable_html_sanitization: true
 allow_math: true
-image: https://i.pinimg.com/originals/ba/dc/c3/badcc34a70907084a9f14df784ade1ce.jpg
+image: https://i.pinimg.com/736x/e7/62/dd/e762dd892d8a0de827237721212c9725.jpg
 ---
 
 <img src="https://i.pinimg.com/736x/c7/72/8b/c7728bf45812cf9a739702e8b381b45c.jpg" alt="Description of Image" style="float:right; margin-left:20px; width:75px; height:auto;">
@@ -102,3 +102,21 @@ I kept the header menu along the top of the screen, but changed the frames backg
 For every image in my inspiration, I had originally wanted to add text beneath each image, describing the game's; name, developer and year of release. I also the same low opacity overlay to each image, the purpose of this was to as best as I could keep the images all looking similar, as they all used very different colours etc.
 
 ## **ABOUT_ME**
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+The next step was to move onto the 'ABOUT ME' page, I struggled for some while with what to add in this part of the project. I wanted the about me section to really stand out in my project and effect the person viewing it.
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+
