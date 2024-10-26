@@ -78,3 +78,27 @@ The most challenging part of this was adjusting the project layouts to fit the m
 </style>
 
 <p class="custom-font">
+Once I finished importing the first project into my mobile frame, I then moved onto the second project. For this project I kept the header portion almost identical to the desktop, just with the placement on the gradient being slightly adjusted due to framing. Instead of having the scrolling graphics along the side of the text cards, I placed the scrolling icons as the first part of the project, with the further description coming after this.
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+I used the same cards for the text that I had used on the desktop, just changing the size of the cards and the size of the text. I also moved the video of icons being used from the side of the screen into the middle, with the respective button and overlay being moved to fit the screen portion properly. I had to unfortunately remove one of the iterations that were displayed on the cards, and remove them from the card, placing them beside a seperate text card instead.
+
+---
+
+<img src="figma/mobile5.png" alt="greyboxgif1" width="1000" height="1000">
+
+---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
