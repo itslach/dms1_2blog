@@ -24,3 +24,79 @@ image: https://i.pinimg.com/originals/ba/dc/c3/badcc34a70907084a9f14df784ade1ce.
 <p class="custom-font">
 For the second project in my portfolio, I wanted to really shift the vibe and layout of the project, because the premise of this project was so different to the first project, I decided to reflect this in the layout. The first thing I did was implement a new frame with it's own horizontal scrolling, within this frame I put my nine icons, for the user to scroll through and observe. I then added in different information and reflection around the page on seperate cards. 
 
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+Then I added in a previous screen recording that I had made during the documentation of the second project, this was done just to demonstrate how each icon worked and how the audio works in synchresis with the visuals. Then I implemented a button above this video, titled 'MORE'. When clicking on this button it would open a seperate overlay, that described what software was used, when the project was completed and the personal rating of the project.
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+After I had implemented all the information about the project I added in some pictures from the brainstorming process, and HTML and process, and also added a REFLECTION CARD at the very bottom. The purpose of the images was to ensure that the viewer would not become bored when viewing the project, and to envoke an insight into what the design process entailed.
+
+---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+At the very bottom of the project, I added a simple button saying 'NEXT PROJECT', as a easy link that would navigate the page to the next frame, being the last project.
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+To create the overlay buttons and next project buttons I used two interactions; 'change-to' and 'Open Overlay' commands, to then make these transitions look better I used smart-animating for both transitions, so they didn't look rough.
+
+## **CREATING PROJECT 3**
+
+<img src="figma/pro3.png" alt="greyboxgif1" width="1000" height="1000">
+
+---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+For the last project page, I decided to go back to one of the original wireframes I made, and instead of giving up on it I decided to try my best to adapt it to fit the brief. I kept the horizontal scrolling frame in the middle of the front page, with the title heading aligned to the very right of the screen, I added some guides along the screen as-well, such as the 'scroll across' and a frame stating 'click an image for info', guiding the user on how to interact with the images. Above this I also placed a BACK button to traverse back to the last project screen.
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+I kept the header menu along the top of the screen, but changed the frames background colour and changed the font colour. Along the bottom of the screen I added large text, acting as a link to keep scrolling the page, down into the inspiration portion of the project.
+
+---
+
+<img src="figma/overlay.png" alt="greyboxgif1" width="1000" height="1000">
+
+---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+For every image in my inspiration, I had originally wanted to add text beneath each image, describing the game's; name, developer and year of release.

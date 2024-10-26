@@ -33,7 +33,11 @@ Branching on from the wireframes in the last task, I decided to take a different
 <p class="custom-font">
 I also created some graphic visuals to add depth to the portfolio, I created a simple and quick grunge edit for the background to the page and a 3D flow animation to go beneath my student number. I believe this made my portfolio look very futuristic and eye catching. 
 
+---
+
 <img src="figma/glass.png" alt="greyboxgif1" width="1000" height="1000">
+
+---
 
 <style>
   .custom-font {
