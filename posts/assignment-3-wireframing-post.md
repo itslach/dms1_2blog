@@ -50,4 +50,27 @@ This was my first iteration of the wireframe website. I had got the basic aspect
 </style>
 
 <p class="custom-font">
-This was the second iteration I created of the spotify hoem page, building on from my previous
+This was the second iteration I created of the spotify home page, building on from my previous version, I made this by looking back and forth at my first versions. After doing that research it was clear that I had forgotten alot of the minor details of this project, which I then had to amend later on.
+
+## **PORTFOLIO WIREFRAMING**
+
+<img src="figma/wireframing.png" alt="greyboxgif1" width="1000" height="1000">
+
+---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+I then moved on to creating wireframes for my portfolio website. I wanted to recreate a brutalist/minimalist layout while incorporating some of my own personal work and the 3 tasks I had completed from this semester.
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
