@@ -74,3 +74,13 @@ I then moved on to creating wireframes for my portfolio website. I wanted to rec
 </style>
 
 <p class="custom-font">
+My favourite wireframe that I had created was 'Wireframe 1' and 'Frame 1' both with very simplistic design layouts and functionality. The colour palettes as well I believed blended together smoothly and made the portfolio look very sleek and professional. Wireframe 1 was intended to have a horizontally scrolling carousel with different works I had completed or was working on and when clicking into them you could read more about each task and etc. Also incorporating a header menu for quick navigation and easy accessibility. The downside to this wireframe was that it was not one scrolling page and would have been made up of more individual pages, which did not fit the criteria of the task.
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+The second wireframe I also believed stood out alot in the design process, the function of this was to be one simple page, with a scrolling list down the right side of the screen, when the user moves their mouse it would scroll through a list of different works/projects and images, the downside to this and the reason I didn't stick with this wireframe is that I believed you would need alot of examples to present and scroll through, and I didn't have enough for this to be effective or look good.
