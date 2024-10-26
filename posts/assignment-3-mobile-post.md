@@ -150,4 +150,35 @@ I kept the same overlays for each image and the same system of viewing them, bec
   }
 </style>
 
-<p class="custom-font">save
+<p class="custom-font">
+Once the layout of each description image was sorted, I moved on to recreating the inspiration tab, I kept the exact layout of this from the desktop frame. I had the same issue for the overlays however, meaning I had to duplicate the overlay for every image and resize them to the same dimensions of the resized images.
+
+---
+
+<img src="figma/mobile8.png" alt="greyboxgif1" width="1000" height="1000">
+
+---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+Finally, I was onto implementing the about me section of the portfolio. For this process I keptall the same properties from the desktop layout, but instead of it being a horizontal layout, it shifted to vertical. I made the section with my details alot larger to fill the screen and split the different paragraphs of the description into seperate blocks, I then kept the contact details below this section and shifted the 'slogan' like statement to beneath the description. I resized this portion to also fill the screen and aligned it to the edges of the description portion. 
+
+---
+
+<img src="figma/mobile9.png" alt="greyboxgif1" width="1000" height="1000">
+
+---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+The last steps were to add the moving carousel and bottom menu and any last touch ups or fixes. Adding the carousel was a relatively straight forward process, I copied it over to the mobile frame and attempted to adjust the frame to fit the mobile screen, however this adjustement caused the carousel to not work properly and break. This meant I had to copy over the original carousel without adjusting it, but instead just moving it around to make it fit in a way that makes sense.
