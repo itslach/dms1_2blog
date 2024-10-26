@@ -102,3 +102,4 @@ I used the same cards for the text that I had used on the desktop, just changing
 </style>
 
 <p class="custom-font">
+In the later half of the project, the desktop layout has a series of images aligned with 3 text cards going vertically down the screen, I was unable to recreate this in the mobile frame without making the text non-legible. To counter this I seperated the images into sets of 2/3. I used them to split up each of the text cards, similar to the pattern I had used in the first project layout.
