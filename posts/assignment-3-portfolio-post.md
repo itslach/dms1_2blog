@@ -136,4 +136,15 @@ I started with creating the information about me first. The things I knew I want
 </style>
 
 <p class="custom-font">
+I had done some research into what other information portfolio websites typically added, I tried to reflect this in my own work by adding some simple contact details at the bottom of my about section, with some appealing bright green icons.
 
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+I then moved onto the rest of the about me page, I thought it would be cool to add a little line saying, 'AIMING TO SHOW EVERYONE MY VIEW', but then crossing out the everyone section and adding an arrow to say the world, I thought making this look hand drawn would add a nice raw touch to the project and I had seen this type of effect been done in other aesthetically pleasing portfolios I had viewed.
+
+<img src="figma\frame2.png" alt="greyboxgif1" width="1000" height="1000">
