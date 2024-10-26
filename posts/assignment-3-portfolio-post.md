@@ -125,7 +125,7 @@ I started with creating the information about me first. The things I knew I want
 
 ---
 
-<img src="figma/frame.png" alt="greyboxgif1" width="1000" height="1000">
+<img src="figma\frame.png" alt="greyboxgif1" width="1000" height="1000">
 
 ---
 
