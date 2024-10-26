@@ -126,3 +126,28 @@ I  then added the next project button underneath the reflection and made it much
 </style>
 
 <p class="custom-font">
+The hardest part of this entire process was replicating the third project page into a mobile frame. Because I utilised the horizontal scrolling for the desktop frame, I had to find a way to alter this to fit a different frame. Before I tackled that problem I added the title, header, back button and the guide button, instead of having the title aspect aligned to the left side, I decided to keep all the text aligned towards the left, but center the information in the middle of the screen, I the images from the carousel as a horizontal list on the page, with no scrolling. I found this to be the easiest way to do this as having horizontal scrolling on a mobile screen was not something I wanted to have.
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+I kept the same overlays for each image and the same system of viewing them, because I had to resize each image to fit the mobile screen, I was recquired to duplicate all the overlays for each image and resize them accordingly.
+
+---
+
+
+<img src="figma/mobile7.png" alt="greyboxgif1" width="1000" height="1000">
+
+---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">save
