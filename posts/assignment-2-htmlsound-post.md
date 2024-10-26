@@ -172,7 +172,7 @@ After I had acquired all my desired sounds, I had to put them through audition t
 <p class="custom-font">
 After having all my audio configured and ready for my html website, I began repeating the css code for each icon, until all nine icons had a unique alternate icon and sound, below is an attached video of each icon in it's working state.
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/e884df69acd8487ba1d87bfef959186f?sid=14662dfe-bcb3-41c2-ab97-d5b00636e12e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/e884df69acd8487ba1d87bfef959186f?sid=14662dfe-bcb3-41c2-ab -97-d5b00636e12e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## **UPLOADING TO GITHUB PAGES + USING DENO DEPLOY**
 

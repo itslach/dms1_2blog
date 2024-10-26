@@ -42,3 +42,12 @@ This was my first iteration of the wireframe website. I had got the basic aspect
 <img src="figma/newspotify.png" alt="greyboxgif1" width="1000" height="1000">
 
 ---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+This was the second iteration I created of the spotify hoem page, building on from my previous
