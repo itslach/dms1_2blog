@@ -103,3 +103,26 @@ I used the same cards for the text that I had used on the desktop, just changing
 
 <p class="custom-font">
 In the later half of the project, the desktop layout has a series of images aligned with 3 text cards going vertically down the screen, I was unable to recreate this in the mobile frame without making the text non-legible. To counter this I seperated the images into sets of 2/3. I used them to split up each of the text cards, similar to the pattern I had used in the first project layout.
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+I  then added the next project button underneath the reflection and made it much bigger, to fill more of the screen, this was done purposefully to make it more obvious to the person viewing it, and to make it easier to interact with.
+
+---
+
+<img src="figma/mobile6.png" alt="greyboxgif1" width="1000" height="1000">
+
+---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
