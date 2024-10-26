@@ -167,3 +167,12 @@ The last thing I wanted to add to my project was a continous slideshow, showcasi
 <img src="figma\gif.gif" alt="greyboxgif1" width="1000" height="1000">
 
 ---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+I achieved this result by first creating the carousel of roughly 10 images, I then duplicated these 10 so there was 20 images in one frame. Then duplicating the frame I moved them around, so the top from was fully aligned to the right, and the bottom was fully aligned to the left. Then using the prototype tab, from frame 1 > 2, I used a navigate to interaction, with smart animate and the gentle setting, this was done so the moving would be smooth and not too fast for the viewer. I created a seperate interaction for 2 > 1, also using a navigate to interaction but with instant transition, this was done so the two frames would blend together properly at the start and end. For both frames the 'After Delay' setting was used for the interactions, with the delay set to 1ms, this meant the effect would be constant and automatic.
