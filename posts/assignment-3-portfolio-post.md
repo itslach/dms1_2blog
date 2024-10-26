@@ -112,6 +112,23 @@ For every image in my inspiration, I had originally wanted to add text beneath e
 <p class="custom-font">
 The next step was to move onto the 'ABOUT ME' page, I struggled for some while with what to add in this part of the project. I wanted the about me section to really stand out in my project and effect the person viewing it.
 
+---
+
+<style>
+  .custom-font {
+    font-family: 'Courier New', Courier, monospace;
+  }
+</style>
+
+<p class="custom-font">
+I started with creating the information about me first. The things I knew I wanted to address was who I was, what I can do and who I want to be. Once I had this information collected I created the frame for this to sit on, with an image of myself, to also create some aesthetic layering I created a glass overlay and placed it overone side of the image, to create a cool blurring effect. 
+
+---
+
+<img src="figma/frame1.png" alt="greyboxgif1" width="1000" height="1000">
+
+---
+
 <style>
   .custom-font {
     font-family: 'Courier New', Courier, monospace;
