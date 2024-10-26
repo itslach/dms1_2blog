@@ -99,4 +99,6 @@ I kept the header menu along the top of the screen, but changed the frames backg
 </style>
 
 <p class="custom-font">
-For every image in my inspiration, I had originally wanted to add text beneath each image, describing the game's; name, developer and year of release.
+For every image in my inspiration, I had originally wanted to add text beneath each image, describing the game's; name, developer and year of release. I also the same low opacity overlay to each image, the purpose of this was to as best as I could keep the images all looking similar, as they all used very different colours etc.
+
+## **ABOUT_ME**
